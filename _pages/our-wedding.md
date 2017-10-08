@@ -8,39 +8,115 @@ permalink: http://tbis.io/our-wedding/
 published: true
 post_date: 2015-05-12 12:57:57
 ---
-[av_section min_height='' min_height_px='500px' padding='default' shadow='no-shadow' bottom_border='no-border-styling' bottom_border_diagonal_color='#333333' bottom_border_diagonal_direction='' bottom_border_style='' id='' color='main_color' custom_bg='' src='https://tbis.io/wp-content/uploads/2015/05/hero1.jpg' attachment='241' attachment_size='full' attach='scroll' position='center left' repeat='no-repeat' video='' video_ratio='16:9' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='' av_element_hidden_in_editor='0'][/av_section]
+[av_section min_height='custom' min_height_px='80px' padding='default' shadow='no-shadow' bottom_border='no-border-styling' bottom_border_diagonal_color='#333333' bottom_border_diagonal_direction='' bottom_border_style='' id='' color='main_color' custom_bg='#2b2f4b' src='' attachment='' attachment_size='' attach='scroll' position='center left' repeat='no-repeat' video='' video_ratio='16:9' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='' av_element_hidden_in_editor='0']
 
-[av_slideshow_full size='featured_large' stretch='' animation='fade' autoplay='true' interval='10' control_layout='av-control-hidden' perma_caption='aviaTBperma_caption' src='' attachment='' attachment_size='' position='top left' repeat='no-repeat' attach='scroll']
-[av_slide_full slide_type='image' id='60' video='http://' mobile_image='' video_format='' video_ratio='16:9' title='Endré &amp; Fabienne' custom_title_size='110' custom_content_size='12' caption_pos='caption_center' link_apply='' link='lightbox' link_target='' button_label='Click me' button_color='light' link1='manually,http://' link_target1='' button_label2='Click me' button_color2='light' link2='manually,http://' link_target2='' font_color='' custom_title='' custom_content='' overlay_enable='aviaTBaviaTBoverlay_enable' overlay_opacity='0.4' overlay_color='#000000' overlay_pattern='' overlay_custom_pattern='']
-JULI 4TH - ROSEGARDEN CHAPPEL - ORLANDO, FOLRIDA
-[/av_slide_full]
-[av_slide_full slide_type='image' id='61' video='http://' mobile_image='' video_format='' video_ratio='16:9' title='' custom_title_size='' custom_content_size='' caption_pos='caption_bottom' link_apply='' link='lightbox' link_target='' button_label='Click me' button_color='light' link1='manually,http://' link_target1='' button_label2='Click me' button_color2='light' link2='manually,http://' link_target2='' font_color='' custom_title='' custom_content='' overlay_enable='aviaTBaviaTBoverlay_enable' overlay_opacity='0.4' overlay_color='#000000' overlay_pattern='' overlay_custom_pattern='' video_controls='' video_mute='' video_loop='' video_autoplay=''][/av_slide_full]
-[av_slide_full slide_type='image' id='59' video='http://' mobile_image='' video_format='' video_ratio='16:9' title='' custom_title_size='' custom_content_size='' caption_pos='caption_bottom' link_apply='' link='lightbox' link_target='' button_label='Click me' button_color='light' link1='manually,http://' link_target1='' button_label2='Click me' button_color2='light' link2='manually,http://' link_target2='' font_color='' custom_title='' custom_content='' overlay_enable='aviaTBaviaTBoverlay_enable' overlay_opacity='0.4' overlay_color='#000000' overlay_pattern='' overlay_custom_pattern='' video_controls='' video_mute='' video_loop='' video_autoplay=''][/av_slide_full]
-[/av_slideshow_full]
+[/av_section][av_section min_height='custom' min_height_px='650px' padding='default' shadow='no-shadow' bottom_border='no-border-styling' bottom_border_diagonal_color='#333333' bottom_border_diagonal_direction='' bottom_border_style='' id='' color='main_color' custom_bg='' src='https://tbis.io/wp-content/uploads/2015/05/hero1.jpg' attachment='241' attachment_size='full' attach='scroll' position='center left' repeat='no-repeat' video='' video_ratio='16:9' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='' av_element_hidden_in_editor='0']
 
-[av_section min_height='' min_height_px='500px' padding='huge' shadow='no-border-styling' bottom_border='border-extra-arrow-down' id='story' color='main_color' custom_bg='' src='' attachment='' attachment_size='' attach='scroll' position='top left' repeat='no-repeat' video='' video_ratio='16:9' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='']
-[av_heading tag='h3' padding='10' heading='We are getting married!' color='' style='blockquote modern-quote modern-centered' custom_font='' size='60' subheading_active='' subheading_size='15' custom_class='' admin_preview_bg='' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size=''][/av_heading]
+[av_two_fifth first min_height='' vertical_alignment='av-align-top' space='' margin='0px' margin_sync='true' padding='0px' padding_sync='true' border='' border_color='' radius='0px' radius_sync='true' background_color='' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
 
-[av_hr class='custom' height='50' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='150px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='#cf1b15' icon='ue806' font='entypo-fontello']
+[/av_two_fifth][av_three_fifth min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
+
+[av_textblock size='24' font_color='' color='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
+<h2>Welcome to the new world brought to you by Titanium Blockchain Infrastructure Services (TBIS)</h2>
+[/av_textblock]
+
+[av_hr class='invisible' height='20' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' font='entypo-fontello' admin_preview_bg='']
+
+[av_textblock size='30' font_color='' color='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
+<h1>We Are the Revolution.</h1>
+[/av_textblock]
+
+[av_hr class='invisible' height='50' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' font='entypo-fontello' admin_preview_bg='']
+
+[av_promobox button='yes' label='View Now' link='manually,http://' link_target='' color='theme-color' custom_bg='#444444' custom_font='#ffffff' size='large' icon_select='no' icon='ue800' font='entypo-fontello' box_color='' box_custom_font='#ffffff' box_custom_bg='#444444' box_custom_border='#333333' admin_preview_bg='']
+<h3>Read our whitepapers to see what TBIS has planned for the future!</h3>
+[/av_promobox]
+
+[/av_three_fifth][/av_section][av_section min_height='custom' min_height_px='80px' padding='default' shadow='no-shadow' bottom_border='no-border-styling' bottom_border_diagonal_color='#333333' bottom_border_diagonal_direction='' bottom_border_style='' id='' color='main_color' custom_bg='#2b2f4b' src='' attachment='' attachment_size='' attach='scroll' position='center left' repeat='no-repeat' video='' video_ratio='16:9' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='' av_element_hidden_in_editor='0']
+
+[/av_section][av_section min_height='' min_height_px='500px' padding='huge' shadow='no-border-styling' bottom_border='border-extra-arrow-down' id='story' color='main_color' custom_bg='' src='' attachment='' attachment_size='' attach='scroll' position='top left' repeat='no-repeat' video='' video_ratio='16:9' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='']
+
+[av_heading heading='About Us' tag='h3' style='blockquote modern-quote modern-centered' size='60' subheading_active='' subheading_size='15' padding='10' color='' custom_font='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg=''][/av_heading]
+
+[av_hr class='invisible' height='20' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='150px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='#515a8f' icon='ue8bf' font='entypo-fontello' admin_preview_bg='']
+
+[av_textblock size='' font_color='' color='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
+Today, the largest transportation company in the world owns no cars (Uber), the largest hospitality company on the face of the planet owns no hotels (AirBnB), the largest retailer carries no stock (Alibaba), and the world’s most popular media network creates no content (Facebook). Clearly, we are living in a time of radical change. Why should internet infrastructure be any different?
+[/av_textblock]
+
+[av_hr class='invisible' height='60' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='150px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='#515a8f' icon='ue8bf' font='entypo-fontello' admin_preview_bg='']
+
+[av_one_half first min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
+
+[av_image src='https://tbis.io/wp-content/uploads/2015/05/sever1.png' attachment='244' attachment_size='full' align='center' styling='' hover='' link='' target='' caption='' font_size='' appearance='' overlay_opacity='0.4' overlay_color='#000000' overlay_text_color='#ffffff' animation='pop-up' admin_preview_bg=''][/av_image]
+
+[/av_one_half][av_one_half min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
+
+[av_hr class='invisible' height='80' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='150px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='#515a8f' icon='ue8bf' font='entypo-fontello' admin_preview_bg='']
+
+[av_textblock size='' font_color='' color='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
+Just as steel changed the building industry forever, Titanium will usher in a new era of network construction. With TBIS’ proprietary Company as a Service™ (CaaS) and Infrastructure as a Service (IaaS), every device, from enterprise level on down, can be virtualized; routers, firewalls, and specialized equipment such as cryptocurrency miners, can exist in an entirely cloud-based environment based on the decentralized Ethereum blockchain. Paired with cutting-edge enterprise management and monitoring technology, this will create a shock-proof internet infrastructure that will be both lightweight and completely revolutionary in scope. Imagine being able to set up an enterprise level infrastructure for a global company from a tablet in your living room, without spending any time installing rack servers, routers, load balancers, or any other network component beyond what is needed to access the network.
+[/av_textblock]
+
+[/av_one_half][av_one_half first min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
+
+[av_hr class='invisible' height='120' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='150px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='#515a8f' icon='ue8bf' font='entypo-fontello' admin_preview_bg='']
+
+[av_textblock size='' font_color='' color='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
+The distributed TBIS system will monitor the health of the network and everything attached to it, and execute autonomous “healing” actions when specific weaknesses are detected. With Titanium Hydra Fault Tolerance, if a device falters, TBIS will have already shifted load away and onto another network of redundant nodes. If a potential security problem arises, the TBIS system will work automatically to limit the potential impact of attacks such as DDoS or other address-specific attacks; it is impossible to overwhelm a piece of equipment that exists only on the ether.
+[/av_textblock]
+
+[/av_one_half][av_one_half min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
+
+[av_image src='https://tbis.io/wp-content/uploads/2015/05/network1.png' attachment='245' attachment_size='full' align='center' styling='' hover='' link='' target='' caption='' font_size='' appearance='' overlay_opacity='0.4' overlay_color='#000000' overlay_text_color='#ffffff' animation='pop-up' admin_preview_bg=''][/av_image]
+
+[/av_one_half][av_hr class='invisible' height='20' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='150px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='#515a8f' icon='ue8bf' font='entypo-fontello' admin_preview_bg='']
+
+[/av_section][av_section min_height='custom' min_height_px='650px' padding='huge' shadow='no-border-styling' bottom_border='border-extra-arrow-down' bottom_border_diagonal_color='#333333' bottom_border_diagonal_direction='' bottom_border_style='' id='story' color='main_color' custom_bg='' src='https://tbis.io/wp-content/uploads/2015/05/section-bg1-3.jpg' attachment='249' attachment_size='full' attach='scroll' position='center center' repeat='no-repeat' video='' video_ratio='16:9' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='' av_element_hidden_in_editor='0']
+
+[av_heading heading='The Future Is Now' tag='h3' style='blockquote modern-quote modern-centered' size='60' subheading_active='' subheading_size='15' padding='10' color='' custom_font='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg=''][/av_heading]
+
+[av_hr class='invisible' height='20' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='150px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='#515a8f' icon='ue8bf' font='entypo-fontello' admin_preview_bg='']
+
+[av_textblock size='' font_color='' color='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
+<p style="text-align: center;">Unlike typical infrastructure services, where a company’s technology may exist on up to several hundred devices, the TBIS infrastructure will reside on the decentralized Ethereum blockchain, which is composed of over 20,000 nodes, with each node potentially being composed of several hundred discreet systems. Even if several thousand nodes experienced a system failure, there would still be zero outage time, and perhaps, only a performance degradation of the TBIS services being delivered.</p>
+[/av_textblock]
+
+[av_hr class='invisible' height='60' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='150px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='#515a8f' icon='ue8bf' font='entypo-fontello' admin_preview_bg='']
+
+[/av_section][av_section min_height='' min_height_px='500px' padding='huge' shadow='no-border-styling' bottom_border='border-extra-arrow-down' id='story' color='main_color' custom_bg='' src='' attachment='' attachment_size='' attach='scroll' position='top left' repeat='no-repeat' video='' video_ratio='16:9' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='']
+
+[av_heading heading='Token Mechanics and Sale Details' tag='h3' style='blockquote modern-quote modern-centered' size='60' subheading_active='' subheading_size='15' padding='10' color='' custom_font='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg=''][/av_heading]
+
+[av_hr class='custom' height='50' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='150px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='#515a8f' icon='ue8bf' font='entypo-fontello' admin_preview_bg='']
+
+[av_one_fifth first min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
+
+[/av_one_fifth][av_three_fifth min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
+
+[av_textblock size='' font_color='' color='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
+Soon, the TBIS token ($TBIS) will be sold. As part of this sale, a fixed pool of $TBIS will generated. No further $TBIS will be created in the future. $TBIS will be a deflationary currency. Once the sale concludes, a portion of $TBIS tokens will be allocated and given to the TBIS team as an incentive for the success of our platform, and a separate portion will be held as a reserve pool and expenditure fund. The community will hold 79% of all $TBIS, the TBIS team will hold 20% of $TBIS (subject to a freeze period), and 1% of $TBIS will be allocated for the reserve pool.
+[/av_textblock]
+
+[/av_three_fifth][av_one_fifth min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
+
+[/av_one_fifth][av_hr class='invisible' height='25' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='150px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='#515a8f' icon='ue8bf' font='entypo-fontello' admin_preview_bg='']
 
 [av_one_fourth first]
 
 [/av_one_fourth][av_one_half min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
 
-[av_textblock size='' font_color='' color='']
-<p style="text-align: center;">After having searched for each other for more than 25 years we are now happy to announce that we will celebrate our wedding together on</p>
-[/av_textblock]
-
-[av_textblock size='40' font_color='custom' color='#cf1b15' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
-<p style="text-align: center;">Juli 4th 2019</p>
+[av_textblock size='40' font_color='custom' color='#ffc800' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
+<p style="text-align: center;">December 1st 2017</p>
 [/av_textblock]
 
 [/av_one_half][av_one_fourth min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
 
-[/av_one_fourth][av_countdown date='05/31/2019' hour='12' minute='0' min='1' max='4' align='av-align-center' size='' style='av-colored-style' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
-[/av_section]
+[/av_one_fourth][av_hr class='invisible' height='25' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='150px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='#515a8f' icon='ue8bf' font='entypo-fontello' admin_preview_bg='']
 
-[av_section min_height='' min_height_px='500px' padding='huge' shadow='no-border-styling' bottom_border='border-extra-arrow-down' id='' color='main_color' custom_bg='#f8f8f8' src='' attachment='' attachment_size='' attach='scroll' position='top left' repeat='no-repeat' video='' video_ratio='16:9' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='']
+[av_countdown date='12 / 01 / 2017' hour='12' minute='0' min='1' max='4' align='av-align-center' size='' style='av-trans-light-style' av-medium-font-size-title='48' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
+
+[/av_section][av_section min_height='' min_height_px='500px' padding='huge' shadow='no-border-styling' bottom_border='border-extra-arrow-down' id='' color='main_color' custom_bg='#f8f8f8' src='' attachment='' attachment_size='' attach='scroll' position='top left' repeat='no-repeat' video='' video_ratio='16:9' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='']
 [av_heading tag='h3' padding='10' heading='Our Story' color='' style='blockquote modern-quote modern-centered' custom_font='' size='60' subheading_active='' subheading_size='15' custom_class=''][/av_heading]
 
 [av_hr class='custom' height='50' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='150px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='#cf1b15' icon='ue806' font='entypo-fontello']
