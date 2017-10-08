@@ -8,6 +8,8 @@ permalink: http://tbis.io/our-wedding/
 published: true
 post_date: 2015-05-12 12:57:57
 ---
+[av_section min_height='' min_height_px='500px' padding='default' shadow='no-shadow' bottom_border='no-border-styling' bottom_border_diagonal_color='#333333' bottom_border_diagonal_direction='' bottom_border_style='' id='' color='main_color' custom_bg='' src='https://tbis.io/wp-content/uploads/2015/05/hero1.jpg' attachment='241' attachment_size='full' attach='scroll' position='center left' repeat='no-repeat' video='' video_ratio='16:9' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='' av_element_hidden_in_editor='0'][/av_section]
+
 [av_slideshow_full size='featured_large' stretch='' animation='fade' autoplay='true' interval='10' control_layout='av-control-hidden' perma_caption='aviaTBperma_caption' src='' attachment='' attachment_size='' position='top left' repeat='no-repeat' attach='scroll']
 [av_slide_full slide_type='image' id='60' video='http://' mobile_image='' video_format='' video_ratio='16:9' title='Endré &amp; Fabienne' custom_title_size='110' custom_content_size='12' caption_pos='caption_center' link_apply='' link='lightbox' link_target='' button_label='Click me' button_color='light' link1='manually,http://' link_target1='' button_label2='Click me' button_color2='light' link2='manually,http://' link_target2='' font_color='' custom_title='' custom_content='' overlay_enable='aviaTBaviaTBoverlay_enable' overlay_opacity='0.4' overlay_color='#000000' overlay_pattern='' overlay_custom_pattern='']
 JULI 4TH - ROSEGARDEN CHAPPEL - ORLANDO, FOLRIDA
@@ -17,7 +19,6 @@ JULI 4TH - ROSEGARDEN CHAPPEL - ORLANDO, FOLRIDA
 [/av_slideshow_full]
 
 [av_section min_height='' min_height_px='500px' padding='huge' shadow='no-border-styling' bottom_border='border-extra-arrow-down' id='story' color='main_color' custom_bg='' src='' attachment='' attachment_size='' attach='scroll' position='top left' repeat='no-repeat' video='' video_ratio='16:9' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='']
-
 [av_heading tag='h3' padding='10' heading='We are getting married!' color='' style='blockquote modern-quote modern-centered' custom_font='' size='60' subheading_active='' subheading_size='15' custom_class='' admin_preview_bg='' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size=''][/av_heading]
 
 [av_hr class='custom' height='50' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='150px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='#cf1b15' icon='ue806' font='entypo-fontello']
@@ -37,8 +38,9 @@ JULI 4TH - ROSEGARDEN CHAPPEL - ORLANDO, FOLRIDA
 [/av_one_half][av_one_fourth min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
 
 [/av_one_fourth][av_countdown date='05/31/2019' hour='12' minute='0' min='1' max='4' align='av-align-center' size='' style='av-colored-style' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
+[/av_section]
 
-[/av_section][av_section min_height='' min_height_px='500px' padding='huge' shadow='no-border-styling' bottom_border='border-extra-arrow-down' id='' color='main_color' custom_bg='#f8f8f8' src='' attachment='' attachment_size='' attach='scroll' position='top left' repeat='no-repeat' video='' video_ratio='16:9' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='']
+[av_section min_height='' min_height_px='500px' padding='huge' shadow='no-border-styling' bottom_border='border-extra-arrow-down' id='' color='main_color' custom_bg='#f8f8f8' src='' attachment='' attachment_size='' attach='scroll' position='top left' repeat='no-repeat' video='' video_ratio='16:9' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='']
 [av_heading tag='h3' padding='10' heading='Our Story' color='' style='blockquote modern-quote modern-centered' custom_font='' size='60' subheading_active='' subheading_size='15' custom_class=''][/av_heading]
 
 [av_hr class='custom' height='50' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='150px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='#cf1b15' icon='ue806' font='entypo-fontello']
