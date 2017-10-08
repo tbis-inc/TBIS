@@ -1,6 +1,6 @@
 ---
 ID: 233
-post_title: Our Wedding
+post_title: Main
 author: Michael Stolliare
 post_excerpt: ""
 layout: page
