@@ -37,6 +37,7 @@ post_date: 2015-05-12 12:57:57
 [av_section min_height='custom' min_height_px='80px' padding='default' shadow='no-shadow' bottom_border='no-border-styling' bottom_border_diagonal_color='#333333' bottom_border_diagonal_direction='' bottom_border_style='' id='' color='main_color' custom_bg='#2b2f4b' src='' attachment='' attachment_size='' attach='scroll' position='center left' repeat='no-repeat' video='' video_ratio='16:9' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='' av_element_hidden_in_editor='0'][/av_section]
 
 [av_section min_height='' min_height_px='500px' padding='huge' shadow='no-border-styling' bottom_border='border-extra-arrow-down' id='story' color='main_color' custom_bg='' src='' attachment='' attachment_size='' attach='scroll' position='top left' repeat='no-repeat' video='' video_ratio='16:9' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='']
+
 [av_heading tag='h3' padding='10' heading='About Us' color='' style='blockquote modern-quote modern-centered' custom_font='' size='60' subheading_active='' subheading_size='15' custom_class='' admin_preview_bg='' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size=''][/av_heading]
 
 [av_hr class='invisible' height='20' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='150px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='#515a8f' icon='ue8bf' font='entypo-fontello' admin_preview_bg='']
@@ -72,9 +73,8 @@ The distributed TBIS system will monitor the health of the network and everythin
 [av_image src='https://tbis.io/wp-content/uploads/2015/05/network1.png' attachment='245' attachment_size='full' align='center' styling='' hover='' link='' target='' caption='' font_size='' appearance='' overlay_opacity='0.4' overlay_color='#000000' overlay_text_color='#ffffff' animation='pop-up' admin_preview_bg=''][/av_image]
 
 [/av_one_half][av_hr class='invisible' height='20' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='150px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='#515a8f' icon='ue8bf' font='entypo-fontello' admin_preview_bg='']
-[/av_section]
 
-[av_section min_height='custom' min_height_px='650px' padding='huge' shadow='no-border-styling' bottom_border='border-extra-arrow-down' bottom_border_diagonal_color='#333333' bottom_border_diagonal_direction='' bottom_border_style='' id='future' color='main_color' custom_bg='' src='https://tbis.io/wp-content/uploads/2015/05/section-bg1-3.jpg' attachment='249' attachment_size='full' attach='scroll' position='center center' repeat='no-repeat' video='' video_ratio='16:9' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='' av_element_hidden_in_editor='0']
+[/av_section][av_section min_height='custom' min_height_px='650px' padding='huge' shadow='no-border-styling' bottom_border='border-extra-arrow-down' bottom_border_diagonal_color='#333333' bottom_border_diagonal_direction='' bottom_border_style='' id='future' color='main_color' custom_bg='' src='https://tbis.io/wp-content/uploads/2015/05/section-bg1-3.jpg' attachment='249' attachment_size='full' attach='scroll' position='center center' repeat='no-repeat' video='' video_ratio='16:9' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='' av_element_hidden_in_editor='0']
 [av_heading heading='The Future Is Now' tag='h3' style='blockquote modern-quote modern-centered' size='60' subheading_active='' subheading_size='15' padding='10' color='' custom_font='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg=''][/av_heading]
 
 [av_hr class='invisible' height='20' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='150px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='#515a8f' icon='ue8bf' font='entypo-fontello' admin_preview_bg='']
@@ -92,34 +92,29 @@ The distributed TBIS system will monitor the health of the network and everythin
 
 [av_hr class='custom' height='50' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='150px' custom_border_color='#e0e0e0' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='#515a8f' icon='ue8bf' font='entypo-fontello' admin_preview_bg='']
 
-[av_one_fifth first min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
-
-[/av_one_fifth][av_three_fifth min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
-
 [av_textblock size='' font_color='' color='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
 Soon, the TBIS token (BAR) will be sold. As part of this sale, a fixed pool of BAR will generated. No further BAR will be created in the future. BAR will be a deflationary currency. Once the sale concludes, a portion of BAR tokens will be allocated and given to the TBIS team as an incentive for the success of our platform, and a separate portion will be held as a reserve pool and expenditure fund. The community will hold 79% of all BAR, the TBIS team will hold 20% of BAR (subject to a freeze period), and 1% of BAR will be allocated for the reserve pool.
 [/av_textblock]
 
-[/av_three_fifth][av_one_fifth min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
-
-[/av_one_fifth][av_hr class='invisible' height='25' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='150px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='#515a8f' icon='ue8bf' font='entypo-fontello' admin_preview_bg='']
+[av_hr class='invisible' height='25' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='150px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='#515a8f' icon='ue8bf' font='entypo-fontello' admin_preview_bg='']
 
 [av_one_fourth first]
 
 [/av_one_fourth][av_one_half min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
 
 [av_textblock size='40' font_color='custom' color='#ffc800' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
-<p style="text-align: center;">December 1st 2017</p>
+<p style="text-align: center;">November 15th 2017</p>
 [/av_textblock]
 
 [/av_one_half][av_one_fourth min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
 
 [/av_one_fourth][av_hr class='invisible' height='25' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='150px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='#515a8f' icon='ue8bf' font='entypo-fontello' admin_preview_bg='']
 
-[av_countdown date='12 / 01 / 2017' hour='12' minute='0' min='1' max='4' align='av-align-center' size='' style='av-trans-light-style' av-medium-font-size-title='48' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
+[av_countdown date='11 / 15 / 2017' hour='12' minute='0' min='1' max='4' align='av-align-center' size='' style='av-trans-light-style' av-medium-font-size-title='48' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
 
 [/av_section][av_section min_height='' min_height_px='500px' padding='huge' shadow='no-border-styling' bottom_border='border-extra-arrow-down' bottom_border_diagonal_color='#333333' bottom_border_diagonal_direction='' bottom_border_style='' id='service' color='main_color' custom_bg='#2b2f4b' src='' attachment='' attachment_size='' attach='scroll' position='top left' repeat='no-repeat' video='' video_ratio='16:9' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='' av_element_hidden_in_editor='0']
-[av_heading heading='TBIS Technology ' tag='h3' style='blockquote modern-quote modern-centered' size='60' subheading_active='' subheading_size='15' padding='10' color='' custom_font='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg=''][/av_heading]
+
+[av_heading tag='h3' padding='10' heading='TBIS Technology ' color='' style='blockquote modern-quote modern-centered' custom_font='' size='60' subheading_active='' subheading_size='15' custom_class='' admin_preview_bg='' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size=''][/av_heading]
 
 [av_hr class='invisible' height='30' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='150px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='#cf1b15' icon='ue806' font='entypo-fontello' admin_preview_bg='']
 
@@ -135,7 +130,7 @@ Soon, the TBIS token (BAR) will be sold. As part of this sale, a fixed pool of B
 
 [av_textblock size='' font_color='' color='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
 <img class="aligncenter size-square wp-image-251" src="https://tbis.io/wp-content/uploads/2015/05/DaaS-icon-180x180.png" alt="" width="180" height="180" />
-<p style="text-align: center;"><strong>Desktop as a Service (DaaS)</strong></p>
+<p style="text-align: center;"><strong>Desktop as a Service™ (DaaS)</strong></p>
 <p style="text-align: center;">Gone are the days when you need to carry a computer around to access premier computing power. With Titanium’s Desktop as a Service, you can have your full-power computing environment anywhere you go.</p>
 [/av_textblock]
 
@@ -169,7 +164,7 @@ Soon, the TBIS token (BAR) will be sold. As part of this sale, a fixed pool of B
 
 [av_textblock size='' font_color='' color='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
 <img class="aligncenter size-square wp-image-255" src="https://tbis.io/wp-content/uploads/2015/05/contract-icon-180x180.png" alt="" width="180" height="180" />
-<p style="text-align: center;"><strong>CryptoEscrow</strong></p>
+<p style="text-align: center;"><strong>CryptoEscrow™</strong></p>
 <p style="text-align: center;">Leveraging the power of Ethereum smart contracts to facilitate Peer-to-Peer sales on the blockchain using any of the top-100 cryptocurrencies using TBIS Atomic Swaps.</p>
 [/av_textblock]
 
@@ -177,14 +172,13 @@ Soon, the TBIS token (BAR) will be sold. As part of this sale, a fixed pool of B
 
 [av_textblock size='' font_color='' color='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
 <img class="aligncenter size-square wp-image-256" src="https://tbis.io/wp-content/uploads/2015/05/currency-icon-180x180.png" alt="" width="180" height="180" />
-<p style="text-align: center;"><strong>DEXchange</strong></p>
+<p style="text-align: center;"><strong>DEXchange™</strong></p>
 <p style="text-align: center;">Trade cryptocurrencies with other users on an entirely decentralized exchange (DEX). The top one-hundred (100) cryptocurrencies (or more) will be listed initially, along with the top twenty (20) fiat currencies globally.</p>
 [/av_textblock]
 
 [/av_one_fourth][av_hr class='invisible' height='30' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='150px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='#cf1b15' icon='ue806' font='entypo-fontello' admin_preview_bg='']
-[/av_section]
 
-[av_section min_height='' min_height_px='500px' padding='huge' shadow='no-border-styling' bottom_border='no-border-styling' bottom_border_diagonal_color='#333333' bottom_border_diagonal_direction='' bottom_border_style='' id='contact' color='main_color' custom_bg='' src='https://tbis.io/wp-content/uploads/2015/05/section-bg2.jpg' attachment='257' attachment_size='full' attach='fixed' position='center center' repeat='stretch' video='' video_ratio='16:9' overlay_enable='aviaTBoverlay_enable' overlay_opacity='0.5' overlay_color='#000000' overlay_pattern='' overlay_custom_pattern='' av_element_hidden_in_editor='0']
+[/av_section][av_section min_height='' min_height_px='500px' padding='huge' shadow='no-border-styling' bottom_border='no-border-styling' bottom_border_diagonal_color='#333333' bottom_border_diagonal_direction='' bottom_border_style='' id='contact' color='main_color' custom_bg='' src='https://tbis.io/wp-content/uploads/2015/05/section-bg2.jpg' attachment='257' attachment_size='full' attach='fixed' position='center center' repeat='stretch' video='' video_ratio='16:9' overlay_enable='aviaTBoverlay_enable' overlay_opacity='0.5' overlay_color='#000000' overlay_pattern='' overlay_custom_pattern='' av_element_hidden_in_editor='0']
 [av_one_fifth first]
 
 [/av_one_fifth][av_three_fifth space='' padding='50px' padding_sync='true' border='' border_color='' radius='3px' radius_sync='true' background_color='rgba(255,255,255,0.15)' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat']
