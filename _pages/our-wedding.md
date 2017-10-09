@@ -185,13 +185,14 @@ Soon, the TBIS token ($TBIS) will be sold. As part of this sale, a fixed pool of
 [/av_section]
 
 [av_section min_height='' min_height_px='500px' padding='huge' shadow='no-border-styling' bottom_border='no-border-styling' bottom_border_diagonal_color='#333333' bottom_border_diagonal_direction='' bottom_border_style='' id='rsvp' color='main_color' custom_bg='' src='https://tbis.io/wp-content/uploads/2015/05/section-bg2.jpg' attachment='257' attachment_size='full' attach='fixed' position='center center' repeat='stretch' video='' video_ratio='16:9' overlay_enable='aviaTBoverlay_enable' overlay_opacity='0.5' overlay_color='#000000' overlay_pattern='' overlay_custom_pattern='' av_element_hidden_in_editor='0']
+
 [av_one_fifth first]
 
 [/av_one_fifth][av_three_fifth space='' padding='50px' padding_sync='true' border='' border_color='' radius='3px' radius_sync='true' background_color='rgba(255,255,255,0.15)' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat']
 
-[av_heading heading='Contact Us Today' tag='h3' style='blockquote modern-quote modern-centered' size='60' subheading_active='' subheading_size='15' padding='10' color='custom-color-heading' custom_font='#ffffff' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg=''][/av_heading]
+[av_heading tag='h3' padding='10' heading='Contact Us Today' color='custom-color-heading' style='blockquote modern-quote modern-centered' custom_font='#ffffff' size='60' subheading_active='' subheading_size='15' custom_class='' admin_preview_bg='' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size=''][/av_heading]
 
-[av_hr class='custom' height='50' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='150px' custom_border_color='rgba(255,255,255,0.4)' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='#ffffff' icon='ue806' font='entypo-fontello']
+[av_hr class='custom' height='50' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='150px' custom_border_color='rgba(255,255,255,0.4)' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='#ffffff' icon='ue8bf' font='entypo-fontello' admin_preview_bg='']
 
 [av_textblock size='' font_color='custom' color='#ffffff' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
 <p style="text-align: center;">If you are looking for more information, or want to learn how TBIS can help you, please reach out and get in touch today.</p>
@@ -206,5 +207,4 @@ Soon, the TBIS token ($TBIS) will be sold. As part of this sale, a fixed pool of
 
 [/av_three_fifth][av_one_fifth space='' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat']
 
-[/av_one_fifth]
-[/av_section]
+[/av_one_fifth][/av_section]
