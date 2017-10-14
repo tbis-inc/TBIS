@@ -8,6 +8,8 @@ permalink: http://tbis.io/main/
 published: true
 post_date: 2015-05-12 12:57:57
 ---
+[av_section min_height='custom' min_height_px='650' padding='default' shadow='no-shadow' bottom_border='no-border-styling' bottom_border_diagonal_color='#333333' bottom_border_diagonal_direction='' bottom_border_style='' id='' color='main_color' custom_bg='#294789' src='https://tbis.io/wp-content/uploads/2015/05/section-bg5.jpg' attachment='288' attachment_size='full' attach='scroll' position='center center' repeat='stretch' video='https://www.youtube.com/watch?v=Q4-elN2l7ic' video_ratio='16:9' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='' av_element_hidden_in_editor='0'][/av_section]
+
 [av_section min_height='custom' min_height_px='650px' padding='default' shadow='no-shadow' bottom_border='no-border-styling' bottom_border_diagonal_color='#333333' bottom_border_diagonal_direction='' bottom_border_style='' id='' color='main_color' custom_bg='#294789' src='https://tbis.io/wp-content/uploads/2015/05/section-bg5.jpg' attachment='288' attachment_size='full' attach='scroll' position='center left' repeat='no-repeat' video='https://www.youtube.com/watch?v=Q4-elN2l7ic' video_ratio='16:9' video_mobile_disabled='aviaTBvideo_mobile_disabled' overlay_enable='aviaTBoverlay_enable' overlay_opacity='0.5' overlay_color='#36406d' overlay_pattern='' overlay_custom_pattern='' av_element_hidden_in_editor='0']
 [av_one_fourth first min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
 
