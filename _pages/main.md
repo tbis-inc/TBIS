@@ -57,7 +57,6 @@ Today, the largest transportation company in the world owns no cars (Uber), the 
 [/av_section]
 
 [av_section min_height='' min_height_px='500px' padding='huge' shadow='no-border-styling' bottom_border='border-extra-arrow-down' id='story' color='main_color' custom_bg='' src='' attachment='' attachment_size='' attach='scroll' position='top left' repeat='no-repeat' video='' video_ratio='16:9' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='']
-
 [av_one_half first min_height='' vertical_alignment='av-align-top' space='' margin='0px' margin_sync='true' padding='0px' padding_sync='true' border='' border_color='' radius='0px' radius_sync='true' background_color='' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='av-hide-on-mobile']
 
 [av_image src='https://tbis.io/wp-content/uploads/2015/05/sever1.png' attachment='244' attachment_size='full' align='center' styling='' hover='' link='' target='' caption='' font_size='' appearance='' overlay_opacity='0.4' overlay_color='#000000' overlay_text_color='#ffffff' animation='pop-up' admin_preview_bg=''][/av_image]
@@ -83,8 +82,9 @@ The distributed TBIS system will monitor the health of the network and everythin
 [av_image src='https://tbis.io/wp-content/uploads/2015/05/network1.png' attachment='245' attachment_size='full' align='center' styling='' hover='' link='' target='' caption='' font_size='' appearance='' overlay_opacity='0.4' overlay_color='#000000' overlay_text_color='#ffffff' animation='pop-up' admin_preview_bg=''][/av_image]
 
 [/av_one_half][av_hr class='invisible' height='20' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='150px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='#515a8f' icon='ue8bf' font='entypo-fontello' admin_preview_bg='']
+[/av_section]
 
-[/av_section][av_section min_height='custom' min_height_px='700px' padding='huge' shadow='no-border-styling' bottom_border='border-extra-arrow-down' bottom_border_diagonal_color='#333333' bottom_border_diagonal_direction='' bottom_border_style='' id='future' color='main_color' custom_bg='' src='https://tbis.io/wp-content/uploads/2015/05/section-bg1-3.jpg' attachment='249' attachment_size='full' attach='scroll' position='center center' repeat='stretch' video='' video_ratio='16:9' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='' av_element_hidden_in_editor='0']
+[av_section min_height='custom' min_height_px='700px' padding='huge' shadow='no-border-styling' bottom_border='border-extra-arrow-down' bottom_border_diagonal_color='#333333' bottom_border_diagonal_direction='' bottom_border_style='' id='future' color='main_color' custom_bg='' src='https://tbis.io/wp-content/uploads/2015/05/section-bg1-3.jpg' attachment='249' attachment_size='full' attach='scroll' position='center center' repeat='stretch' video='' video_ratio='16:9' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='' av_element_hidden_in_editor='0']
 [av_heading tag='h3' padding='10' heading='The Future Is Now' color='' style='blockquote modern-quote modern-centered' custom_font='' size='60' subheading_active='' subheading_size='15' custom_class='' admin_preview_bg='' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size=''][/av_heading]
 
 [av_hr class='invisible' height='20' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='150px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='#515a8f' icon='ue8bf' font='entypo-fontello' admin_preview_bg='']
@@ -233,15 +233,16 @@ Soon, the TBIS token (BAR) will be sold. As part of this sale, a fixed pool of B
 [/av_section]
 
 [av_section min_height='' min_height_px='500px' padding='default' shadow='no-shadow' bottom_border='no-border-styling' bottom_border_diagonal_color='#333333' bottom_border_diagonal_direction='scroll' bottom_border_style='scroll' scroll_down='' id='' color='main_color' custom_bg='' src='' attach='scroll' position='top left' repeat='no-repeat' video='' video_ratio='16:9' video_mobile_disabled='' overlay_enable='' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide='' av_element_hidden_in_editor='0']
+
 [av_one_fifth first min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
 
 [/av_one_fifth][av_three_fifth min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
 
 [av_textblock size='' font_color='' color='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
 <a href="https://www.facebook.com/TBISICO/" target="_blank" rel="noopener"><img class="alignnone wp-image-272" style="margin-right: 50px;" src="https://tbis.io/wp-content/uploads/2015/05/facebook-circle.png" alt="" width="48" height="48" /></a><a href="https://twitter.com/TBISINC" target="_blank" rel="noopener"><img class="alignnone wp-image-276" style="margin-right: 50px;" src="https://tbis.io/wp-content/uploads/2015/05/twitter-circle.png" alt="" width="48" height="48" /></a><a href="https://www.linkedin.com/company/18271882/" target="_blank" rel="noopener"><img class="alignnone wp-image-273" style="margin-right: 50px;" src="https://tbis.io/wp-content/uploads/2015/05/linkedin-circle.png" alt="" width="48" height="48" /></a><a href="https://join.slack.com/t/tbis/shared_invite/enQtMjQ0OTQzMTM5NzQ5LTIwNmNiMTM5OGYxYmFiNzc3MjM2MDI5MDQ2ZDUwMzJiMTVhOTQyZmQ2YWVkY2Y5ZDk3YzgwZmRkNTcwMDZjN2Q" target="_blank" rel="noopener"><img class="alignnone wp-image-274" style="margin-right: 50px;" src="https://tbis.io/wp-content/uploads/2015/05/slack-circle.png" alt="" width="48" height="48" /></a><a href="https://discord.gg/trrad7b" target="_blank" rel="noopener"><img class="alignnone wp-image-271" style="margin-right: 50px;" src="https://tbis.io/wp-content/uploads/2015/05/discord-circle.png" alt="" width="48" height="48" /></a><a href="https://t.me/tbisinc" target="_blank" rel="noopener"><img class="alignnone wp-image-275" src="https://tbis.io/wp-content/uploads/2015/05/telegram-circle.png" alt="" width="48" height="48" /></a>
+[mpf_popup_form_html id="303" ]
 [/av_textblock]
 
 [/av_three_fifth][av_one_fifth min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
 
-[/av_one_fifth]
-[/av_section]
+[/av_one_fifth][/av_section]
