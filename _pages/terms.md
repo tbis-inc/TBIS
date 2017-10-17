@@ -75,7 +75,7 @@ widget <strong>(the Participant, you, your).</strong>
 
 <strong>Price:</strong> the price paid for Tokens as specified in clause 4.4.
 
-<strong>Privacy Policy:</strong> the privacy policy available at https://tbis.io/privacy.html.
+<strong>Privacy Policy:</strong> the privacy policy available at <a href="http://tbis.io/privacy/" target="_blank" rel="noopener">https://tbis.io/privacy/</a>.
 
 <strong>Released Parties:</strong> any of our respective past, present and future founders, employees, officers, directors, contractors, consultants, equity holders, suppliers, advisors, auditors, service providers, parent companies, subsidiaries, affiliates, agents, representatives, predecessors, successors and assigns.
 
@@ -87,25 +87,23 @@ widget <strong>(the Participant, you, your).</strong>
 
 <strong>Sites:</strong> The Websites and any other online site, application or platform that are owned, operated or controlled by or on behalf of us or the Group from time to time and each of its related pages through which a Participant takes part in the Token Sale.
 
-Token Holders: persons who have applied for, and received, Tokens from the Company in accordance with this Agreement or any applicable valid private Token Sale agreement.
+<strong>Token Holders:</strong> persons who have applied for, and received, Tokens from the Company in accordance with this Agreement or any applicable valid private Token Sale agreement.
 
-&nbsp;
+<strong>Token or BAR Token:</strong> the cryptocurrency tokens issued to you in respect of the Network in return for Contributions and that are intended to be usable as a medium of exchange on the Network.
 
-Token or BAR Token: the cryptocurrency tokens issued to you in respect of the Network in return for Contributions and that are intended to be usable as a medium of exchange on the Network.
+<strong>Token Issuing Entity:</strong> The Company, a Group company or any new company commonly owned by shareholders of the Company to be established to issue the Tokens.
 
-Token Issuing Entity: The Company, a Group company or any new company commonly owned by shareholders of the Company to be established to issue the Tokens.
+<strong>Token Sale:</strong> the public utility token sale of Tokens, carried out to help fund the development of the Network.
 
-Token Sale: the public utility token sale of Tokens, carried out to help fund the development of the Network.
+<strong>Your Wallet:</strong> The Token wallet notified in writing to us by you from which Contributions are made and into which your Tokens or any return of Contributions (if applicable) will be placed in accordance with this Agreement.
 
-Your Wallet: The Token wallet notified in writing to us by you from which Contributions are made and into which your Tokens or any return of Contributions (if applicable) will be placed in accordance with this Agreement.
+<strong>Wallet:</strong> Your Wallet or Our Wallet.
 
-Wallet: Your Wallet or Our Wallet.
+<strong>Website(s):</strong> the following website: <a href="http://www.tokenmarket.net">www.tokenmarket.net</a>, <a href="http://www.tbis.io" target="_blank" rel="noopener">www.tbis.io</a> and any other replacement website we notify you of from time to time (and such other web addresses including RSS feeds that are owned, operated or controlled by or on behalf of us from time to time and that make available such website) and each of its related pages.
 
-Website(s): the following website: www.tokenmarket.net, www.tbis.io and any other replacement website we notify you of from time to time (and such other web addresses including RSS feeds that are owned, operated or controlled by or on behalf of us from time to time and that make available such website) and each of its related pages.
+<strong>White Paper:</strong> the TBIS white paper available at: <a href="http://www.tbis.io" target="_blank" rel="noopener">www.tbis.io</a> .
 
-White Paper: the TBIS white paper available at: www.tbis.io .
-
-3.2 In this Agreement (except where the context otherwise requires):
+<strong>3.2</strong> In this Agreement (except where the context otherwise requires):
 
 (a) The clause headings are included for convenience only and shall not affect the interpretation of this Agreement;
 
@@ -115,125 +113,107 @@ White Paper: the TBIS white paper available at: www.tbis.io .
 
 (d) Any reference to a statute, statutory provision, ordinance, subordinate legislation, code or guideline ("legislation") is a reference to that legislation and all other subordinate legislation made under the relevant legislation as amended and in force from time to time and to any legislation that re-enacts or consolidates (with or without modification) any such legislation.
 
-3.3 This Agreement is drafted in the English language. If this Agreement is translated into another language, the English language text shall in any event prevail.
+<strong>3.3</strong> This Agreement is drafted in the English language. If this Agreement is translated into another language, the English language text shall in any event prevail.
+<h1>4. PRICE AND CONTRIBUTION</h1>
+<strong>4.1</strong> In consideration of payment of the Price, the Company will, or will ensure that the Token Issuing Entity will, allocate and pay the number of Tokens Contributed for into Your Wallet from Our Wallet after the closing of the Token Sale.
 
-&nbsp;
+<strong>4.2</strong> <strong>Commencement and Duration.</strong> The Company will conduct a public sale of Tokens (i.e. the Token Sale), which will begin at November 15, 2017 (the <strong>Launch Date</strong>) and end on January 15, 2018 (<strong>Availability Period</strong>).
 
-4. PRICE AND CONTRIBUTION
+<strong>4.3</strong> Tokens shall be available during the Availability Period, after which no more Tokens will be created.
 
-4.1 In consideration of payment of the Price, the Company will, or will ensure that the Token Issuing Entity will, allocate and pay the number of Tokens Contributed for into Your Wallet from Our Wallet after the closing of the Token Sale.
+<strong>4.4</strong> The number of Tokens <strong>(N)</strong> purchased shall be calculated as follows:
 
-4.2 Commencement and Duration. The Company will conduct a public sale of Tokens (i.e. the Token Sale), which will begin at November 15, 2017 (the Launch Date) and end on January 15, 2018 (Availability Period).
+<strong>Min Contribution = 0.05 ETH</strong>
 
-4.3 Tokens shall be available during the Availability Period, after which no more Tokens will be created.
+Price per Token at public Token Sale = <strong>0.0033013464 ETH (T)</strong>
 
-4.4 The number of Tokens (N) purchased shall be calculated as follows:
+<strong>Your Contribution = not less than 0.05 ETH (C)</strong>
 
-Min Contribution = 0.05 ETH
+<strong>Bonus TIERS:</strong>
 
-Price per Token at public Token Sale = 0.0033013464 ETH (T)
+First Week: <strong>10% Token Bonus</strong> (November 15th, 2017, 17.00 UTC — November 22nd, 2017, 05.00 UTC)
 
-Your Contribution = not less than 0.05 ETH (C)
+Next Week: <strong>5% Token Bonus</strong> (November 22nd, 2017, 05.00 UTC — November 29th, 2017, 17.00 UTC)
 
-Bonus TIERS:
+Next 48 hours: <strong>3% Token Bonus</strong> (November 29th, 2017, 17.00 UTC — December 7th, 2017, 17.00 UTC)
 
-First Week: 10% Token Bonus (November 15th, 2017, 17.00 UTC — November 22nd, 2017, 05.00 UTC)
+After that: Regular BAR price, <strong>0% Token Bonus</strong> (December 7th, 2017, 17.00 UTC —  January 15th, 2018, 17.00 UTC)
 
-Next Week: 5% Token Bonus (November 22nd, 2017, 05.00 UTC — November 29th, 2017, 17.00 UTC)
-
-Next 48 hours: 3% Token Bonus (November 29th, 2017, 17.00 UTC — December 7th, 2017, 17.00 UTC)
-
-After that: Regular BAR price, 0% Token Bonus (December 7th, 2017, 17.00 UTC —  January 15th, 2018, 17.00 UTC)
-
-Token Bonus % = (D)
+<strong>Token Bonus % = (D)</strong>
 
 N = (C*(1+D))/T
 
-&nbsp;
+<hr />
 
-&nbsp;
+<strong>4.5</strong> You agree that you shall have no further claims against the Company in respect of your support of the Network and/or the Token Sale in respect of any support, contribution or advice provided to the Company or Released Parties save for as detailed in this Agreement and that receipt of N Tokens will constitute full performance of any promises, representations, contracts or statements made by the Company or any Released Parties in respect of the same.
 
-4.5 You agree that you shall have no further claims against the Company in respect of your support of the Network and/or the Token Sale in respect of any support, contribution or advice provided to the Company or Released Parties save for as detailed in this Agreement and that receipt of N Tokens will constitute full performance of any promises, representations, contracts or statements made by the Company or any Released Parties in respect of the same.
+<strong>4.6</strong> If we have not received the payment of the full Price to Our Wallet within 24 hours of the time that you receive the payment instructions, we reserve the right to void your purchase request and refuse to accept your purchase of Tokens. For the avoidance of doubt, the Price will be deemed to be paid in full once we have received three (3) network confirmations of the transaction. We reserve the right, in our sole discretion, to modify any of the timelines described herein to account for network congestion or other technical challenges.
 
-&nbsp;
+<strong>4.7</strong> You must pay the Price by sending the correct quantity of ETH to the unique address displayed to you via the sale portal. Your purchase is not guaranteed until we receive the entire amount of the Price.
 
-4.6 If we have not received the payment of the full Price to Our Wallet within 24 hours of the time that you receive the payment instructions, we reserve the right to void your purchase request and refuse to accept your purchase of Tokens. For the avoidance of doubt, the Price will be deemed to be paid in full once we have received three (3) network confirmations of the transaction. We reserve the right, in our sole discretion, to modify any of the timelines described herein to account for network congestion or other technical challenges.
+<strong>4.8</strong> The Price must be paid to Our Wallet within 24 hours of execution of this Agreement.
 
-4.7 You must pay the Price by sending the correct quantity of ETH to the unique address displayed to you via the sale portal. Your purchase is not guaranteed until we receive the entire amount of the Price.
-
-4.8 The Price must be paid to Our Wallet within 24 hours of execution of this Agreement.
-
-4.9 Tokens will be paid into Your Wallet from Our Wallet within 6 weeks after the closing of the Token Sale.
+<strong>4.9</strong> Tokens will be paid into Your Wallet from Our Wallet within 6 weeks after the closing of the Token Sale.
 
 Possible Migration of Tokens
 
-4.10 Tokens are being created as ERC-20 tokens on the Ethereum protocol. We reserve the right to migrate the ERC-20 based Tokens (Pre-existing Tokens) to another protocol and to generate replacement Tokens on the new protocol (Replacement Tokens) in the future, should we determine, in our sole discretion, that doing so is necessary or useful to the operation of the Network.
+<strong>4.10</strong> Tokens are being created as ERC-20 tokens on the Ethereum protocol. We reserve the right to migrate the ERC-20 based Tokens <strong>(Pre-existing Tokens)</strong> to another protocol and to generate replacement Tokens on the new protocol <strong>(Replacement Tokens)</strong> in the future, should we determine, in our sole discretion, that doing so is necessary or useful to the operation of the Network.
 
-4.11 Should we decide to migrate the Tokens, we may no longer provide support for the Pre-existing Tokens relating to the Network except with respect to the migration process. Although we do not at this time anticipate that it will require any Pre-existing Token Holders to convert their Pre-existing Tokens to Replacement Tokens, we anticipate there will be significant incentives for Pre-existing Token Holders to do so, since the practical utility of Pre-existing Tokens will likely diminish rapidly once the Replacement Tokens are created and in use by a significant portion of Network participants. Accordingly, you acknowledge and agree that in order for you to continue to participate in the Network or obtain utility from the Tokens you may need to convert the Tokens you purchase during the Sale to Replacement Tokens in the future.
+<strong>4.11</strong> Should we decide to migrate the Tokens, we may no longer provide support for the Pre-existing Tokens relating to the Network except with respect to the migration process. Although we do not at this time anticipate that it will require any Pre-existing Token Holders to convert their Pre-existing Tokens to Replacement Tokens, we anticipate there will be significant incentives for Pre-existing Token Holders to do so, since the practical utility of Pre-existing Tokens will likely diminish rapidly once the Replacement Tokens are created and in use by a significant portion of Network participants. Accordingly, you acknowledge and agree that in order for you to continue to participate in the Network or obtain utility from the Tokens you may need to convert the Tokens you purchase during the Sale to Replacement Tokens in the future.
 
-4.12 Should we decide to migrate the Tokens, we will notify you via the email address you provided to us at the time of the Sale. You are solely responsible for updating us should your contact information change.
+<strong>4.12</strong> Should we decide to migrate the Tokens, we will notify you via the email address you provided to us at the time of the Sale. You are solely responsible for updating us should your contact information change.
 
-4.13 You also understand and accept that as the Contribution may be smart-contract based, the functions, terms and conditions applicable thereon are set forth in the smart contract system existing on the Ethereum blockchain Smart Contract System (SCS). Furthermore, no other document or communication may
+<strong>4.13</strong> You also understand and accept that as the Contribution may be smart-contract based, the functions, terms and conditions applicable thereon are set forth in the smart contract system existing on the Ethereum blockchain Smart Contract System <strong>(SCS)</strong>. Furthermore, no other document or communication may modify or add any additional obligations or covenants for the Token Issuing beyond those set forth in these Terms.
 
-&nbsp;
-
-modify or add any additional obligations or covenants for the Token Issuing beyond those set forth in these Terms.
-
-4.14 You agree that you shall have no further claims against the Company in respect of their support of the Network or the Token Sale in respect of any support, contribution or advice provided to the Company or Released Parties save for as detailed in these Terms and that receipt of your Tokens will constitute full performance of any promises, representations, contracts or statements made by the Company or any Released Parties in respect of the same.
+<strong>4.14</strong> You agree that you shall have no further claims against the Company in respect of their support of the Network or the Token Sale in respect of any support, contribution or advice provided to the Company or Released Parties save for as detailed in these Terms and that receipt of your Tokens will constitute full performance of any promises, representations, contracts or statements made by the Company or any Released Parties in respect of the same.
 
 Contribution Software
 
-4.15 Contributions in ETH must be made by using the SCS or to such other address we specify to you in writing herein or on our Sites (Contribution Software). Any Contribution in ETH to us without using the Contribution Software will not lead to a recommendation for Token allocation as set forth below.
+<strong>4.15</strong> Contributions in ETH must be made by using the SCS or to such other address we specify to you in writing herein or on our Sites <strong>(Contribution Software)</strong>. Any Contribution in ETH to us without using the Contribution Software will not lead to a recommendation for Token allocation as set forth below.
 
-4.16 Tokens will only be issued on behalf of the Token Issuing Entity during the Availability Period as specified in writing by us in these terms or on the Site. To the extent that any third-party website, service or smart-contract offers Tokens during the Availability Period or facilitates the allocation or transfer of Tokens in any way during the Availability Period or at any time up to Network launch, such third-party websites or services are, unless explicitly mentioned on the website specified above, not authorized by us and have no relationship in any way with us. We shall not be liable for you making any transfers of value to a wallet that is Our Wallet as specified by us in writing.
+<strong>4.16</strong> Tokens will only be issued on behalf of the Token Issuing Entity during the Availability Period as specified in writing by us in these terms or on the Site. To the extent that any third-party website, service or smart-contract offers Tokens during the Availability Period or facilitates the allocation or transfer of Tokens in any way during the Availability Period or at any time up to Network launch, such third-party websites or services are, unless explicitly mentioned on the website specified above, not authorized by us and have no relationship in any way with us. We shall not be liable for you making any transfers of value to a wallet that is Our Wallet as specified by us in writing.
 
 Contribution timing and thresholds
 
-4.17 Block Time Delay: You are aware that, due to Ethereum block time delay, the exact time of the end of the Availability Period cannot be guaranteed.
+<strong>4.17</strong> Block Time Delay: You are aware that, due to Ethereum block time delay, the exact time of the end of the Availability Period cannot be guaranteed.
 
-4.18 Contribution Freeze / Abort: During the Availability Period, we may at any time stop the contribution function for technical, legal or security reasons. As long as such contribution freeze is upheld or if the Availability Period is aborted, no further Contribution will be possible.
+<strong>4.18</strong> Contribution Freeze / Abort: During the Availability Period, we may at any time stop the contribution function for technical, legal or security reasons. As long as such contribution freeze is upheld or if the Availability Period is aborted, no further Contribution will be possible.
 
-4.19 You must ensure that you do not Contribute directly from an address provided by a cryptocurrency exchange service provider.
+<strong>4.19</strong> <strong>You must ensure that you do not Contribute directly from an address provided by a cryptocurrency exchange service provider.</strong>
 
-4.20 You are responsible for ensuring that the address used for your Contribution is fit to handle return functions and particularly, must ensure that you do not Contribute directly from an address provided by a cryptocurrency exchange service provider: failure to do so, may lead to your loss of this ETH (pursuant to your intended Contribution) - this also applies in event that your Contribution is not accepted by the Contribution Software for any other reason.
+<strong>4.20</strong> <strong>You are responsible for ensuring that the address used for your Contribution is fit to handle return functions and particularly, must ensure that you do not Contribute directly from an address provided by a cryptocurrency exchange service provider: failure to do so, may lead to your loss of this ETH (pursuant to your intended Contribution) - this also applies in event that your Contribution is not accepted by the Contribution Software for any other reason.</strong>
 
-*Contribution Information: *
+<em>*Contribution Information: *</em>
 
-&nbsp;
+<strong>4.21</strong> Relevant information relating to the Contributions made during the Availability Period shall be recorded by the Contribution Software <strong>(Contribution Information).</strong>
 
-4.21 Relevant information relating to the Contributions made during the Availability Period shall be recorded by the Contribution Software (Contribution Information).
+<strong>4.22</strong> Upon a successful Contribution having been made, the Contribution Information will reflect the quantity of Tokens to be allocated to the Contributor in proportion to their Contribution.
 
-4.22 Upon a successful Contribution having been made, the Contribution Information will reflect the quantity of Tokens to be allocated to the Contributor in proportion to their Contribution.
+<em>*Issuance of Tokens *</em>
 
-*Issuance of Tokens *
+<strong>4.23</strong> The creation and allocation of Tokens by are initiated by the Contributor sending ETH to the SCS, which triggers a smart contract operation. The SCS creates and allocates the corresponding Tokens to Your Wallet. Contributors shall ensure that they make a Contribution using an ETH address with which the Contribution Software can operate.
 
-4.23 The creation and allocation of Tokens by are initiated by the Contributor sending ETH to the SCS, which triggers a smart contract operation. The SCS creates and allocates the corresponding Tokens to Your Wallet. Contributors shall ensure that they make a Contribution using an ETH address with which the Contribution Software can operate.
+<em>Token Functionality</em>
 
-Token Functionality
+<strong>4.24</strong> Tokens are only intended for use in connection with the Network under the various applicable terms that shall be implemented when the Network is ready for use.
 
-4.24 Tokens are only intended for use in connection with the Network under the various applicable terms that shall be implemented when the Network is ready for use.
+<strong>4.25</strong> The exact functioning of Tokens on the Network shall only be determined once the Network is developed and fully operational and subject to any applicable terms of use of the Network.
 
-4.25 The exact functioning of Tokens on the Network shall only be determined once the Network is developed and fully operational and subject to any applicable terms of use of the Network.
+<strong>4.26</strong> Ownership of Tokens carries no rights express or implied other than the right to use Tokens as a mean to enable usage of and interaction with and within the Network, if the network is successfully completed and deployed. Beyond this, ownership of Tokens carries no other rights express or implied. In particular, you understand and accept that you have no right to claim as a holder of Tokens any intellectual property rights, income, profit, dividend, capital, equity, royalties or equivalent rights or any other form of economic or voting participation in or relating to the Token Issuing Entity, the Network and any parties related to the Network project.
 
-4.26 Ownership of Tokens carries no rights express or implied other than the right to use Tokens as a mean to enable usage of and interaction with and within the Network, if the network is successfully completed and deployed. Beyond this, ownership of Tokens carries no other rights express or implied. In particular, you understand and accept that you have no right to claim as a holder of Tokens any intellectual property rights, income, profit, dividend, capital, equity, royalties or equivalent rights or any other form of economic or voting participation in or relating to the Token Issuing Entity, the Network and any parties related to the Network project.
+<em>Legal Status of Token Issuing Entity and Network Project</em>
 
-Legal Status of Token Issuing Entity and Network Project
+<strong>4.27</strong> Tokens are a proprietary blockchain token giving token holders the right to support operations on the Network.
 
-4.27 Tokens are a proprietary blockchain token giving token holders the right to support operations on the Network.
+<strong>4.28</strong> The founders of the Token Issuing Entity have established the same in order to develop the Network and issue the Tokens to Contributors.
 
-4.28 The founders of the Token Issuing Entity have established the same in order to develop the Network and issue the Tokens to Contributors.
+<strong>4.29</strong> Acquisitions of Tokens are non-refundable. Tokens are not redeemable to the Token Issuing Entity other than as specifically advised in the terms herein and any terms applicable to use of the Network.
 
-4.29 Acquisitions of Tokens are non-refundable. Tokens are not redeemable to the Token Issuing Entity other than as specifically advised in the terms herein and any terms applicable to use of the Network.
+<strong>4.30</strong> Tokens can only be acquired and used in connection with the Network with other participants under these Terms, the SCS and subject to any other terms and conditions that will be implemented for users of the Network on which the Tokens shall be usable. Tokens have no nominal or par value.
 
-&nbsp;
+<strong>4.31</strong> By contributing to the Network project including by receiving, using and holding Tokens, no form of partnership, joint venture or any similar relationship between the Contributors, the Token Issuing Entity and/or other individuals or entities involved with the Network and the project shall be created or envisaged.
 
-4.30 Tokens can only be acquired and used in connection with the Network with other participants under these Terms, the SCS and subject to any other terms and conditions that will be implemented for users of the Network on which the Tokens shall be usable. Tokens have no nominal or par value.
-
-4.31 By contributing to the Network project including by receiving, using and holding Tokens, no form of partnership, joint venture or any similar relationship between the Contributors, the Token Issuing Entity and/or other individuals or entities involved with the Network and the project shall be created or envisaged.
-
-4.32 If we are successful in developing the Network, when we determine that the technology, protocols and ecosystem have been sufficiently developed to allow the Network to be launched, we will issue a public announcement, including any relevant material information, to Token Holders.
-
-&nbsp;
+<strong>4.32</strong> If we are successful in developing the Network, when we determine that the technology, protocols and ecosystem have been sufficiently developed to allow the Network to be launched, we will issue a public announcement, including any relevant material information, to Token Holders.
 
 5. REPRESENTATIONS
 
