@@ -38,11 +38,7 @@ widget <strong>(the Participant, you, your).</strong>
 <strong>2.3</strong> We are not responsible for any delays, losses, costs, non-delivery of refunds or of Tokens, or other issues arising from the failure to provide, or providing an inaccurate Wallet.
 
 <strong>2.4</strong> By agreeing to purchase Tokens during the Token Sale you are confirming your acceptance of these Terms and agree to be bound by them.
-
-&nbsp;
-
-3. DEFINITIONS AND INTERPRETATION
-
+<h1>3. DEFINITIONS AND INTERPRETATION</h1>
 <strong>3.1</strong> In this Agreement, references to the following words shall have the meanings set out below:
 
 <strong>Agreement:</strong> these terms &amp; conditions.
@@ -155,7 +151,7 @@ N = (C*(1+D))/T
 
 <strong>4.9</strong> Tokens will be paid into Your Wallet from Our Wallet within 6 weeks after the closing of the Token Sale.
 
-Possible Migration of Tokens
+<em>Possible Migration of Tokens</em>
 
 <strong>4.10</strong> Tokens are being created as ERC-20 tokens on the Ethereum protocol. We reserve the right to migrate the ERC-20 based Tokens <strong>(Pre-existing Tokens)</strong> to another protocol and to generate replacement Tokens on the new protocol <strong>(Replacement Tokens)</strong> in the future, should we determine, in our sole discretion, that doing so is necessary or useful to the operation of the Network.
 
@@ -167,13 +163,13 @@ Possible Migration of Tokens
 
 <strong>4.14</strong> You agree that you shall have no further claims against the Company in respect of their support of the Network or the Token Sale in respect of any support, contribution or advice provided to the Company or Released Parties save for as detailed in these Terms and that receipt of your Tokens will constitute full performance of any promises, representations, contracts or statements made by the Company or any Released Parties in respect of the same.
 
-Contribution Software
+<em>Contribution Software</em>
 
 <strong>4.15</strong> Contributions in ETH must be made by using the SCS or to such other address we specify to you in writing herein or on our Sites <strong>(Contribution Software)</strong>. Any Contribution in ETH to us without using the Contribution Software will not lead to a recommendation for Token allocation as set forth below.
 
 <strong>4.16</strong> Tokens will only be issued on behalf of the Token Issuing Entity during the Availability Period as specified in writing by us in these terms or on the Site. To the extent that any third-party website, service or smart-contract offers Tokens during the Availability Period or facilitates the allocation or transfer of Tokens in any way during the Availability Period or at any time up to Network launch, such third-party websites or services are, unless explicitly mentioned on the website specified above, not authorized by us and have no relationship in any way with us. We shall not be liable for you making any transfers of value to a wallet that is Our Wallet as specified by us in writing.
 
-Contribution timing and thresholds
+<em>Contribution timing and thresholds</em>
 
 <strong>4.17</strong> Block Time Delay: You are aware that, due to Ethereum block time delay, the exact time of the end of the Availability Period cannot be guaranteed.
 
@@ -214,26 +210,20 @@ Contribution timing and thresholds
 <strong>4.31</strong> By contributing to the Network project including by receiving, using and holding Tokens, no form of partnership, joint venture or any similar relationship between the Contributors, the Token Issuing Entity and/or other individuals or entities involved with the Network and the project shall be created or envisaged.
 
 <strong>4.32</strong> If we are successful in developing the Network, when we determine that the technology, protocols and ecosystem have been sufficiently developed to allow the Network to be launched, we will issue a public announcement, including any relevant material information, to Token Holders.
+<h1>5. REPRESENTATIONS</h1>
+<strong>5.1</strong> You warrant and acknowledge that you have full legal capacity, power and authority to execute and deliver this agreement and to perform its obligations hereunder.
 
-5. REPRESENTATIONS
+<strong>5.2</strong> This Agreement constitutes valid and binding obligation of the Participant, enforceable in accordance with its terms, except as limited by bankruptcy, insolvency or other laws of general application relating to or affecting the enforcement of creditors’ rights generally and general principles of equity.
 
-5.1 You warrant and acknowledge that you have full legal capacity, power and authority to execute and deliver this agreement and to perform its obligations hereunder.
+<strong>5.3</strong> The Participant enters into this agreement for its own account, not as a nominee or agent.
 
-5.2 This Agreement constitutes valid and binding obligation of the Participant, enforceable in accordance with its terms, except as limited by bankruptcy, insolvency or other laws of general application relating to or affecting the enforcement of creditors’ rights generally and general principles of equity.
+<strong>5.4</strong> WARNING: THIS DOCUMENT AND ANY OTHER DOCUMENTS PUBLISHED IN ASSOCIATION WITH THESE TERMS (SUCH AS THE WHITE PAPER) RELATE TO A TOKEN OFFERING TO CONTRIBUTORS IN RESPECT OF THE INTENDED DEVELOPMENT AND USE OF THE NETWORK BY VARIOUS PARTICIPANTS. THIS DOCUMENT DOES NOT CONSTITUTE AN OFFER OF SECURITIES OR A PROMOTION, INVITATION OR SOLICITATION FOR INVESTMENT PURPOSES. THE TERMS OF THE CONTRIBUTION ARE NOT THEREFORE INTENDED TO BE A FINANCIAL SERVICES OFFERING DOCUMENT OR A PROSPECTUS. THE TOKEN OFFERING INVOLVES AND RELATES TO THE DEVELOPMENT AND USE OF EXPERIMENTAL SOFTWARE AND TECHNOLOGIES THAT MAY NOT COME TO FRUITION OR ACHIEVE THE OBJECTIVES SPECIFIED IN THE WHITE PAPER. THE PURCHASE OF TOKENS REPRESENTS A HIGH RISK TO ANY CONTRIBUTORS. TOKENS AND CONTRIBUTIONS DO NOT REPRESENT EQUITY, SHARES, UNITS, ROYALTIES OR RIGHTS TO CAPITAL, PROFIT OR INCOME IN THE NETWORK OR SOFTWARE OR IN THE TOKEN ISSUING ENTITY OR ANY OTHER COMPANY OR INTELLECTUAL PROPERTY ASSOCIATED WITH THE NETWORK OR ANY OTHER PUBLIC OR PRIVATE ENTERPRISE, CORPORATION, FOUNDATION OR OTHER ENTITY IN ANY JURISDICTION.
 
-5.3 The Participant enters into this agreement for its own account, not as a nominee or agent.
+<strong>5.5</strong> You acknowledge that you have such knowledge and experience in technology and financial and business matters that you are capable of evaluating the merits and risks of entering into the Token Sale and this Agreement, are able to incur a complete loss of any monies or assets involved in the purchase of Tokens without impairing your financial condition and are able to bear the economic risk of such participation for an indefinite period of time.
 
-5.4 WARNING: THIS DOCUMENT AND ANY OTHER DOCUMENTS PUBLISHED IN ASSOCIATION WITH THESE TERMS (SUCH AS THE WHITE PAPER) RELATE TO A TOKEN OFFERING TO CONTRIBUTORS IN RESPECT OF THE INTENDED DEVELOPMENT AND USE OF THE NETWORK BY VARIOUS PARTICIPANTS. THIS DOCUMENT DOES NOT CONSTITUTE AN OFFER OF SECURITIES OR A PROMOTION, INVITATION OR SOLICITATION FOR INVESTMENT PURPOSES. THE TERMS OF THE CONTRIBUTION ARE NOT THEREFORE INTENDED TO BE A FINANCIAL SERVICES OFFERING DOCUMENT OR A PROSPECTUS. THE TOKEN OFFERING INVOLVES AND RELATES TO THE DEVELOPMENT AND USE OF EXPERIMENTAL SOFTWARE AND TECHNOLOGIES THAT MAY NOT COME TO FRUITION OR ACHIEVE THE OBJECTIVES SPECIFIED IN THE WHITE PAPER. THE PURCHASE OF TOKENS REPRESENTS A HIGH RISK TO ANY CONTRIBUTORS. TOKENS AND CONTRIBUTIONS DO NOT REPRESENT EQUITY, SHARES, UNITS, ROYALTIES OR RIGHTS TO CAPITAL, PROFIT OR INCOME IN THE NETWORK OR SOFTWARE OR IN THE TOKEN ISSUING ENTITY OR ANY OTHER COMPANY OR INTELLECTUAL PROPERTY ASSOCIATED WITH THE NETWORK OR ANY
+<strong>5.6</strong> You understand and accept that while the individuals and entities related to the Network, including those involved with the creation and allocation of Tokens and receipt of Contributions (including the Token Issuing Entity), will make reasonable efforts to develop and complete the Token Sale and to develop the Network, it is possible that despite the reasonable endeavors of the Network founders and advisors such development may fail and that the Network, as well as the Tokens will not be created, will become useless and/or valueless including due to technical, operational, commercial, regulatory or any other reasons.
 
-&nbsp;
-
-OTHER PUBLIC OR PRIVATE ENTERPRISE, CORPORATION, FOUNDATION OR OTHER ENTITY IN ANY JURISDICTION.
-
-5.5 You acknowledge that you have such knowledge and experience in technology and financial and business matters that you are capable of evaluating the merits and risks of entering into the Token Sale and this Agreement, are able to incur a complete loss of any monies or assets involved in the purchase of Tokens without impairing your financial condition and are able to bear the economic risk of such participation for an indefinite period of time.
-
-5.6 You understand and accept that while the individuals and entities related to the Network, including those involved with the creation and allocation of Tokens and receipt of Contributions (including the Token Issuing Entity), will make reasonable efforts to develop and complete the Token Sale and to develop the Network, it is possible that despite the reasonable endeavors of the Network founders and advisors such development may fail and that the Network, as well as the Tokens will not be created, will become useless and/or valueless including due to technical, operational, commercial, regulatory or any other reasons.
-
-5.7 By participating in the Token Sale and/or by receiving, using and holding Tokens, you represent and warrant that you:
+<strong>5.7</strong> By participating in the Token Sale and/or by receiving, using and holding Tokens, you represent and warrant that you:
 
 (a) understand and expressly accept that due to the complexity of international financial regulations and a lack of agreement and harmonization in international law in respect of token crowdfunding the Token Issuing Entity will operate under the laws where it is established and any other applicable mandatory laws pursuant to the sovereignty of legal jurisdictions but subject to international conflict of law frameworks and principles;
 
@@ -248,8 +238,6 @@ OTHER PUBLIC OR PRIVATE ENTERPRISE, CORPORATION, FOUNDATION OR OTHER ENTITY IN A
 (f) are legally permitted to receive software and contribute to the Network;
 
 (g) are of a sufficient age to legally acquire Tokens;
-
-&nbsp;
 
 (h) will contribute only from a wallet or wallet service provider that technically supports ECR20 Tokens: you understand and accept, that failure to ensure this may result in an inability to access to your Tokens;
 
@@ -271,23 +259,17 @@ OTHER PUBLIC OR PRIVATE ENTERPRISE, CORPORATION, FOUNDATION OR OTHER ENTITY IN A
 
 (q) bear the sole responsibility to determine if your Contribution or the allocation, use or ownership of Tokens and the potential appreciation or depreciation in the value of Tokens over time (if any), the sale and purchase of Tokens and/or any other action or transaction related to the Network have tax implications for him/her or it;
 
-(r) by your Contribution and/or by receiving, using or holding Tokens, and to the fullest extent permitted by law, agree not to hold any third party (including developers, advisors, administrators, auditors, promoters, contractors or founders) liable for any legal or tax liability associated with or arising from the
-
-&nbsp;
-
-Contribution and the allocation, use or ownership of Tokens or any other action or transaction related to the Network and/or Project;
+(r) by your Contribution and/or by receiving, using or holding Tokens, and to the fullest extent permitted by law, agree not to hold any third party (including developers, advisors, administrators, auditors, promoters, contractors or founders) liable for any legal or tax liability associated with or arising from the Contribution and the allocation, use or ownership of Tokens or any other action or transaction related to the Network and/or Project;
 
 (s) you have reviewed the non-exhaustive indicative list of Risk Factors associated with the proposed Token Sale, the Tokens and the Network project.
 
-&nbsp;
-
 6. PROVISION OF INFORMATION &amp; PERSONAL DATA
 
-6.1 Identity and Disclosure: you shall provide true and complete information to us in relation to your identity as well as such other information that we may reasonably request from time to time. This may include personal data as defined under European data protection law. You agree to provide us such information promptly upon request and acknowledge that we may refuse to sell Tokens to you until you provide such requested information and we have determined that it is permissible to sell you Tokens under applicable laws or regulations.
+<strong>6.1</strong> Identity and Disclosure: you shall provide true and complete information to us in relation to your identity as well as such other information that we may reasonably request from time to time. This may include personal data as defined under European data protection law. You agree to provide us such information promptly upon request and acknowledge that we may refuse to sell Tokens to you until you provide such requested information and we have determined that it is permissible to sell you Tokens under applicable laws or regulations.
 
-6.2 You shall not use fictitious or alias names for the registration, which shall be considered a breach of this Agreement.
+<strong>6.2</strong> You shall not use fictitious or alias names for the registration, which shall be considered a breach of this Agreement.
 
-6.3 You consent to the Company, and any member of the Group, capturing and processing data relating to you for:
+<strong>6.3</strong> You consent to the Company, and any member of the Group, capturing and processing data relating to you for:
 
 1. fulfilling our obligations under this agreement;
 
@@ -295,21 +277,19 @@ Contribution and the allocation, use or ownership of Tokens or any other action 
 
 3. carrying out checks to verify your identity which may include sharing your data with third parties.
 
-6.4 The Company may make such information available to any member of the Group, those who provide products or services, including services used to verify identity, to any member of the Group, including the Company, such as advisers, regulatory authorities, potential purchasers of the Company, and as may be required by law.
+<strong>6.4</strong> The Company may make such information available to any member of the Group, those who provide products or services, including services used to verify identity, to any member of the Group, including the Company, such as advisers, regulatory authorities, potential purchasers of the Company, and as may be required by law.
 
-6.5 You consent to the transfer of such information to any member of the Group and business contacts outside the European Economic Area in order to further their business interests even where the country or territory in question does not maintain adequate data protection standards.
+<strong>6.5</strong> You consent to the transfer of such information to any member of the Group and business contacts outside the European Economic Area in order to further their business interests even where the country or territory in question does not maintain adequate data protection standards.
 
-6.6 Your personal data shall be processed in accordance with the Agreement and our Privacy Policy.
+<strong>6.6</strong> Your personal data shall be processed in accordance with the Agreement and our Privacy Policy.
 
-6.5 This Agreement shall be terminated in the event that we become aware that Your Wallet or your identity information discloses any risks of crime, fraud, money laundering or other significant risk factors or that there have been any misrepresentations made. Where permitted by applicable law your Contributions shall be returned and NO Tokens shall be issued to you.
-
-&nbsp;
+<strong>6.5</strong> This Agreement shall be terminated in the event that we become aware that Your Wallet or your identity information discloses any risks of crime, fraud, money laundering or other significant risk factors or that there have been any misrepresentations made. Where permitted by applicable law your Contributions shall be returned and NO Tokens shall be issued to you.
 
 PROJECT MANAGEMENT
 
-6.6 It remains at our sole discretion to decide how to allocate the Contributions received in order to develop and execute the Network. The White Paper specifies at a high level how the Contributions are intended to be used but the exact allocation of Contributions shall be at the discretion of the Token Issuing Entity. In addition, the Token Issuing Entity is permitted to take such measures as it deems prudent to manage any Cryptocurrency price fluctuation and network risks including the conversion of ETH received into fiat or other cryptocurrencies or placing some of the ETH received with a third party to manage those assets on our behalf pending realization of the value for Network development purposes.
+<strong>6.6</strong> It remains at our sole discretion to decide how to allocate the Contributions received in order to develop and execute the Network. The White Paper specifies at a high level how the Contributions are intended to be used but the exact allocation of Contributions shall be at the discretion of the Token Issuing Entity. In addition, the Token Issuing Entity is permitted to take such measures as it deems prudent to manage any Cryptocurrency price fluctuation and network risks including the conversion of ETH received into fiat or other cryptocurrencies or placing some of the ETH received with a third party to manage those assets on our behalf pending realization of the value for Network development purposes.
 
-6.7 You acknowledge, understand and accept that:
+<strong>6.7</strong> You acknowledge, understand and accept that:
 
 1. you have no influence on the governance and decisions of the Network or the Token Issuing Entity;
 
@@ -318,44 +298,34 @@ PROJECT MANAGEMENT
 3. developing and creating the Network requires substantial research and development effort. It is possible that substantial conceptual, commercial or technical changes could be made during that process;
 
 4. the level of development of the Network that is attainable also depends on the amount of Contributions received, and the amount of software development and community support.
-
-&nbsp;
-
-7. TERM
-
+<h1>7. TERM</h1>
 This Agreement will take effect from the Effective Date and continue until terminated in accordance with this Agreement.
+<h1>8. LIABILITIES</h1>
+<strong>8.1</strong> WE MAKE NO WARRANTIES OR REPRESENTATIONS (WHETHER EXPRESS OR IMPLIED BY LAW, STATUTE OR OTHERWISE) WITH RESPECT TO THE NETWORK, TOKEN, OUR SITES, OUR WEBSITE OR ANY CONTENT AVAILABLE THEREIN OR RELATED THERETO OR THAT OUR SITES, THE WEBSITE, NETWORK, TOKEN, SOFTWARE OR HARDWARE (OR THAT PROVIDED TO US BY THIRD PARTIES) WILL BE ERROR-FREE OR UNINTERRUPTED OR WITH RESPECT TO THE QUALITY, FITNESS FOR PARTICULAR PURPOSE OR SUITABILITY OF ALL OR ANY OF THE FOREGOING. EXCEPT AS EXPRESSLY STATED OTHERWISE IN THIS AGREEMENT, ALL WARRANTIES, REPRESENTATIONS AND IMPLIED TERMS AND CONDITIONS ARE HEREBY EXCLUDED TO THE FULLEST EXTENT PERMITTED BY LAW.
 
-&nbsp;
+<strong>8.2</strong> Liability Limitations: our obligations under this Agreement do not constitute personal obligations of the Released Parties other than as provided under this Agreement. Other than as expressly provided in this Agreement, in no event will we be liable for any direct, indirect, special, incidental, consequential or punitive loss, injury or damage of any kind (regardless of whether we have been advised of the possibility of such loss) including any loss of business, revenue, profits or data. Our liability arising under this Agreement, whether in contract, tort (including negligence) or for breach of statutory duty or in any other way shall only be for direct damages and shall not exceed the amount of your Contribution. However, nothing in this Agreement will operate to exclude or limit either party's liability for death or personal injury arising as a result of that party's negligence or for fraud.
 
-8. LIABILITIES
+<strong>8.3</strong> Indemnification: you shall defend, indemnify and hold us and our officers, directors, employees and representatives harmless on demand from and against any and all claims, demands, liabilities, losses, damages, costs and expenses (including reasonable legal fees) resulting or arising (directly or indirectly) from your breach of this Agreement.
 
-8.1 WE MAKE NO WARRANTIES OR REPRESENTATIONS (WHETHER EXPRESS OR IMPLIED BY LAW, STATUTE OR OTHERWISE) WITH RESPECT TO THE NETWORK, TOKEN, OUR SITES, OUR WEBSITE OR ANY CONTENT AVAILABLE THEREIN OR RELATED THERETO OR THAT OUR SITES, THE WEBSITE, NETWORK, TOKEN, SOFTWARE OR HARDWARE (OR THAT PROVIDED TO US BY THIRD PARTIES) WILL BE ERROR-FREE OR UNINTERRUPTED OR WITH RESPECT TO THE QUALITY, FITNESS FOR PARTICULAR PURPOSE OR SUITABILITY OF ALL OR ANY OF THE FOREGOING. EXCEPT AS EXPRESSLY STATED OTHERWISE IN THIS AGREEMENT, ALL WARRANTIES, REPRESENTATIONS AND IMPLIED TERMS AND CONDITIONS ARE HEREBY EXCLUDED TO THE FULLEST EXTENT PERMITTED BY LAW.
+<strong>8.4</strong> Set off: without prejudice to any other rights or remedies available to us under this Agreement or otherwise, we shall be entitled to set off any amounts otherwise payable by us to you hereunder, against any liability of you to us, including any claims we have against you resulting from or arising from, your breach of this Agreement.
 
-&nbsp;
-
-8.2 Liability Limitations: our obligations under this Agreement do not constitute personal obligations of the Released Parties other than as provided under this Agreement. Other than as expressly provided in this Agreement, in no event will we be liable for any direct, indirect, special, incidental, consequential or punitive loss, injury or damage of any kind (regardless of whether we have been advised of the possibility of such loss) including any loss of business, revenue, profits or data. Our liability arising under this Agreement, whether in contract, tort (including negligence) or for breach of statutory duty or in any other way shall only be for direct damages and shall not exceed the amount of your Contribution. However, nothing in this Agreement will operate to exclude or limit either party's liability for death or personal injury arising as a result of that party's negligence or for fraud.
-
-8.3 Indemnification: you shall defend, indemnify and hold us and our officers, directors, employees and representatives harmless on demand from and against any and all claims, demands, liabilities, losses, damages, costs and expenses (including reasonable legal fees) resulting or arising (directly or indirectly) from your breach of this Agreement.
-
-8.4 Set off: without prejudice to any other rights or remedies available to us under this Agreement or otherwise, we shall be entitled to set off any amounts otherwise payable by us to you hereunder, against any liability of you to us, including any claims we have against you resulting from or arising from, your breach of this Agreement.
-
-8.5 TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW YOU:
+<strong>8.5</strong> TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW YOU:
 
 RELEASE US AND THE OTHER RELEASED PARTIES FROM RESPONSIBILITY, LIABILITY, CLAIMS, DEMANDS AND/OR DAMAGES (ACTUAL AND CONSEQUENTIAL) OF EVERY KIND AND NATURE, KNOWN AND UNKNOWN (INCLUDING, BUT NOT LIMITED TO, CLAIMS OF NEGLIGENCE), ARISING OUT OF OR RELATED TO THE NETWORK, YOUR INVOLVEMENT IN SUPPORTING THE NETWORK AND PROJECT AND THE TOKEN SALE, THE USABILITY AND VALUE OF THE TOKEN AND DISPUTES BETWEEN PARTICIPANTS IN THE NETWORK AND THE ACTS OR OMISSIONS OF ANY THIRD PARTIES;
 
-8.6 EXPRESSLY WAIVE ANY RIGHTS YOU MAY HAVE UNDER ANY STATUTE OR COMMON LAW PRINCIPLES THAT WOULD OTHERWISE LIMIT THE COVERAGE OF THIS RELEASE TO INCLUDE ONLY THOSE CLAIMS WHICH YOU MAY KNOW OR SUSPECT TO EXIST IN YOUR FAVOUR AT THE TIME OF AGREEING TO THIS RELEASE;
+<strong>8.6</strong> EXPRESSLY WAIVE ANY RIGHTS YOU MAY HAVE UNDER ANY STATUTE OR COMMON LAW PRINCIPLES THAT WOULD OTHERWISE LIMIT THE COVERAGE OF THIS RELEASE TO INCLUDE ONLY THOSE CLAIMS WHICH YOU MAY KNOW OR SUSPECT TO EXIST IN YOUR FAVOUR AT THE TIME OF AGREEING TO THIS RELEASE;
 
-8.7 THE COMPANY EXPRESSLY EXCLUDES ANY LIABILITY IN RESPECT OF THE LAW OF OTHER JURISDICTIONS WHERE PARTICIPANTS MAY BE ESTABLISHED OR RESIDENT INCLUDING CONTRIBUTIONS BY PERSONS FROM THE UNITED STATES OF AMERICA -WHETHER BY RESIDENCY OR CITIZENSHIP ("US-PERSONS").
+<strong>8.7</strong> THE COMPANY EXPRESSLY EXCLUDES ANY LIABILITY IN RESPECT OF THE LAW OF OTHER JURISDICTIONS WHERE PARTICIPANTS MAY BE ESTABLISHED OR RESIDENT INCLUDING CONTRIBUTIONS BY PERSONS FROM THE UNITED STATES OF AMERICA -WHETHER BY RESIDENCY OR CITIZENSHIP ("US-PERSONS").
 
 &nbsp;
 
-8.8 You further specifically acknowledge that the risk of acquiring, transferring, creating, holding or using Tokens or any Wallets rests entirely with you. We shall not be responsible for your failure to provide us with the correct Wallet address.
+<strong>8.8</strong> You further specifically acknowledge that the risk of acquiring, transferring, creating, holding or using Tokens or any Wallets rests entirely with you. We shall not be responsible for your failure to provide us with the correct Wallet address.
 
 &nbsp;
 
 9. MISCELLANEOUS
 
-9.1 All notices pertaining to this Agreement will be given:
+<strong>9.1</strong> All notices pertaining to this Agreement will be given:
 
 (a) by email to you at the email address provided by you (or as subsequently updated by you to us in the event of change); and
 
@@ -365,44 +335,40 @@ RELEASE US AND THE OTHER RELEASED PARTIES FROM RESPONSIBILITY, LIABILITY, CLAIMS
 
 ANY NOTICE SENT BY EMAIL SHALL BE DEEMED RECEIVED ON THE EARLIER OF AN ACKNOWLEDGEMENT BEING SENT OR TWENTY-FOUR (24) HOURS FROM THE TIME OF TRANSMISSION.
 
-9.2 Relationship of Parties: there is no relationship of exclusivity, partnership, joint venture, employment, agency or franchise between you or us under this Agreement. Neither party has the authority to bind the other (including the making of any representation or warranty, the assumption of any obligation or liability and/or the exercise of any right or power), except as expressly provided in this Agreement.
+<strong>9.2</strong> Relationship of Parties: there is no relationship of exclusivity, partnership, joint venture, employment, agency or franchise between you or us under this Agreement. Neither party has the authority to bind the other (including the making of any representation or warranty, the assumption of any obligation or liability and/or the exercise of any right or power), except as expressly provided in this Agreement.
 
-9.3 Confidentiality and Non-Disclosure: as a Participant you may receive confidential information from us, including confidential information as to our marketing plans, marketing concepts, structure and payments. This information is confidential to us and constitutes our proprietary trade secrets. You shall not disclose this information to third parties or use such information other than for the purposes of this Agreement without our prior written consent, save as expressly required by law (provided that any such disclosure is only to the extent so required).
+<strong>9.3</strong> Confidentiality and Non-Disclosure: as a Participant you may receive confidential information from us, including confidential information as to our marketing plans, marketing concepts, structure and payments. This information is confidential to us and constitutes our proprietary trade secrets. You shall not disclose this information to third parties or use such information other than for the purposes of this Agreement without our prior written consent, save as expressly required by law (provided that any such disclosure is only to the extent so required).
 
-9.4 Assignment:
+<strong>9.4</strong> Assignment:
 
 (a) Except where you have received our prior written consent, you may not assign at law or in equity (including by way of a charge or declaration of trust) or deal in any other manner with this Agreement or any rights under this Agreement. Any purported assignment in breach of this Section shall confer no rights on the purported assignee.
 
 (b) We may assign any of our rights under this Agreement or transfer all of our rights or obligations by novation to any member of the Group or the Token Issuing Entity or transfer all our rights or obligations by novation to any member of the Group or the Token Issuing Entity.
 
-9.5 Governing Law: This Agreement (including any variation or modification thereto) shall be deemed executed in Gibraltar and shall be governed by and
+<strong>9.5</strong> Governing Law: This Agreement (including any variation or modification thereto) shall be deemed executed in Gibraltar and shall be governed by and
 
 &nbsp;
 
 construed in accordance with the laws of Gibraltar without giving effect to conflicts of law principles. You irrevocably agree that the courts of Gibraltar shall have exclusive jurisdiction to determine any claim, dispute or matter arising out of, or in connection with, or concerning this Agreement or its enforceability and you waive any objection to proceedings in such courts on the grounds of venue or on the grounds that proceedings have been brought in an inconvenient forum. Nothing in this clause shall limit our right to take proceedings against you in any other court of competent jurisdiction, nor shall the taking of proceedings in any one or more jurisdictions preclude the taking of proceedings in any other jurisdictions, whether concurrently or not, to the extent permitted by the law of such other jurisdiction.
 
-9.6 Severability: whenever possible, each provision of this Agreement will be interpreted in such a manner as to be effective and valid under applicable law but, if any provision of this Agreement is held to be invalid, illegal or unenforceable in any respect, such provision will be ineffective only to the extent of such invalidity, or unenforceability, without invalidating the remainder of this Agreement or any other provision hereof.
+<strong>9.6</strong> Severability: whenever possible, each provision of this Agreement will be interpreted in such a manner as to be effective and valid under applicable law but, if any provision of this Agreement is held to be invalid, illegal or unenforceable in any respect, such provision will be ineffective only to the extent of such invalidity, or unenforceability, without invalidating the remainder of this Agreement or any other provision hereof.
 
-9.7 Entire Agreement: this Agreement embodies the complete agreement and understanding of the parties hereto with respect to the subject matter hereof and supersedes any prior or subsequent oral or written agreement or understanding between the parties in relation to such subject matter save in respect to the terms of the Token Sale entered into by the Participant that shall remain in full force and effect.
+<strong>9.7</strong> Entire Agreement: this Agreement embodies the complete agreement and understanding of the parties hereto with respect to the subject matter hereof and supersedes any prior or subsequent oral or written agreement or understanding between the parties in relation to such subject matter save in respect to the terms of the Token Sale entered into by the Participant that shall remain in full force and effect.
 
-9.8 Reliance &amp; Waiver: the parties acknowledges and agrees that in entering into this Agreement, they have not relied on any statement, representation, guarantee warranty, understanding, undertaking, promise or assurance (whether negligently or innocently made) of any person (whether party to this Agreement or not) other than as expressly set out in the Agreement. Each party irrevocably and unconditionally waives all claims, rights and remedies that, but for this clause, it might otherwise have had in relation to any of the foregoing. Nothing in this clause shall limit or exclude any liability for fraud.
+<strong>9.8</strong> Reliance &amp; Waiver: the parties acknowledges and agrees that in entering into this Agreement, they have not relied on any statement, representation, guarantee warranty, understanding, undertaking, promise or assurance (whether negligently or innocently made) of any person (whether party to this Agreement or not) other than as expressly set out in the Agreement. Each party irrevocably and unconditionally waives all claims, rights and remedies that, but for this clause, it might otherwise have had in relation to any of the foregoing. Nothing in this clause shall limit or exclude any liability for fraud.
 
-9.9 Third-Party Rights: except insofar as this Agreement expressly provides that a third party may in their own right enforce a term of this Agreement, a person who is not a party to this Agreement has no right under local law or statute to rely upon or enforce any term of this Agreement but this does not affect any right or remedy of a third party that exists or is available apart from under that local law or statute.
+<strong>9.9</strong> Third-Party Rights: except insofar as this Agreement expressly provides that a third party may in their own right enforce a term of this Agreement, a person who is not a party to this Agreement has no right under local law or statute to rely upon or enforce any term of this Agreement but this does not affect any right or remedy of a third party that exists or is available apart from under that local law or statute.
 
-9.10 No Waiver: no delay, neglect or forbearance by us in enforcing any provision of this agreement shall be a waiver by, or in any way prejudice any right, we have under this agreement.
-
-&nbsp;
-
-9.11 Taxes: Any amounts that you pay for Tokens are exclusive of all applicable taxes. You are responsible for determining what, if any, taxes apply to your purchase of Tokens, including, for example, sales, use, value added, and similar taxes. It is also your responsibility to withhold, collect, report and remit the correct taxes to the appropriate tax authorities. To the fullest extent permitted by law, we are not responsible for withholding, collecting, reporting, or remitting any sales, use, value added, or similar tax arising from the purchase of Tokens.
-
-The Schedule
-
-Risk Factors
+<strong>9.10</strong> No Waiver: no delay, neglect or forbearance by us in enforcing any provision of this agreement shall be a waiver by, or in any way prejudice any right, we have under this agreement.
 
 &nbsp;
 
-1. SOME MATERIAL RISK FACTORS
+<strong>9.11</strong> Taxes: Any amounts that you pay for Tokens are exclusive of all applicable taxes. You are responsible for determining what, if any, taxes apply to your purchase of Tokens, including, for example, sales, use, value added, and similar taxes. It is also your responsibility to withhold, collect, report and remit the correct taxes to the appropriate tax authorities. To the fullest extent permitted by law, we are not responsible for withholding, collecting, reporting, or remitting any sales, use, value added, or similar tax arising from the purchase of Tokens.
 
+<strong>The Schedule</strong>
+
+<strong>Risk Factors</strong>
+<h1>1. SOME MATERIAL RISK FACTORS</h1>
 1.1 Contributors are aware of the many risk involved in the purchase, use and sale of tokens and the token sale process. We have outlined below some of the material risks that are obvious to the Company and persons involved in the Token Sale and Network project (including Released Parties):
 
 1.2 Early Stage Technology. The Token will be used to develop a Network that is based on or in some way involved with distributed ledger technologies (DLT). You understand and accept that the use of DLT Tokenized stores of value is highly experimental. Participation in the proposed Token Sale and Network project therefore represents a very high risk to Contributors. The Token Issuing Entity will invest in software and other technologies and that in all cases these technologies and businesses will still be in an early development stage and unproven, and there is an inherent risk that the software, technologies and related businesses invested in by the Token Issuing Entity could be unfit for their intended purpose and/or not have the value expected.
