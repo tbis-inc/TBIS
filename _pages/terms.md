@@ -17,85 +17,75 @@ widget <strong>(the Participant, you, your).</strong>
 
 &nbsp;
 <h1>1. INTRODUCTION</h1>
-1.1 The Token Issuing Entity intends to conduct a sale of Tokens, which will be made available to the public (i.e Token Sale). The terms of the Token offer (when and if applicable) in accordance with the Token Sale is specified below.
+<strong>1.1</strong> The Token Issuing Entity intends to conduct a sale of Tokens, which will be made available to the public (i.e Token Sale). The terms of the Token offer (when and if applicable) in accordance with the Token Sale is specified below.
 
-1.2 By purchasing Tokens during the Token Sale and indicating your acceptance of these Terms on the Website, you will be bound by these Terms and any other terms incorporated by reference. If you have any questions regarding these Terms, please contact us at <a href="mailto:legal@tbis.io">legal@tbis.io </a>.
+<strong>1.2</strong> By purchasing Tokens during the Token Sale and indicating your acceptance of these Terms on the Website, you will be bound by these Terms and any other terms incorporated by reference. If you have any questions regarding these Terms, please contact us at <a href="mailto:legal@tbis.io">legal@tbis.io </a>.
 
-1.3 All Tokens issued in accordance with this Agreement shall also be subject to the terms and conditions applicable to the Token Sale.
+<strong>1.3</strong> All Tokens issued in accordance with this Agreement shall also be subject to the terms and conditions applicable to the Token Sale.
 
-1.4 This Agreement contains the complete terms and conditions that apply to your participation in the Token Sale. In the event there is a conflict between this Agreement and any other additional terms or information available about the Token Sale, this Agreement shall take precedence unless such additional terms expressly reference variation to this Agreement.
+<strong>1.4</strong> This Agreement contains the complete terms and conditions that apply to your participation in the Token Sale. In the event there is a conflict between this Agreement and any other additional terms or information available about the Token Sale, this Agreement shall take precedence unless such additional terms expressly reference variation to this Agreement.
 
-1.5 The TBIS project is being made possible by contributions from the community in the form of purchase of Tokens that will enable development and support of the associated TBIS network. The Token Sale is therefore intended to give Contributors the ability to support and transact on such network.
+<strong>1.5</strong> The TBIS project is being made possible by contributions from the community in the form of purchase of Tokens that will enable development and support of the associated TBIS network. The Token Sale is therefore intended to give Contributors the ability to support and transact on such network.
 
-1.6 Token value will likely reflect the scale and growth potential of the Network and its usability.
+<strong>1.6</strong> Token value will likely reflect the scale and growth potential of the Network and its usability.
 
-1.7 We do not we do not control the underlying technological infrastructure for the Tokens or the Network protocols (Blockchain) or third-party applications related thereto. We are not responsible or liable for the Blockchain, the operation of the Network or any third-party uses of the Network.
+<strong>1.7</strong> We do not we do not control the underlying technological infrastructure for the Tokens or the Network protocols <strong>(Blockchain)</strong> or third-party applications related thereto. We are not responsible or liable for the Blockchain, the operation of the Network or any third-party uses of the Network.
+<h1>2. GENERAL</h1>
+<strong>2.1</strong> These Terms shall govern our relationship with you in relation to the Token Sale and the Tokens and, to the extent applicable, modify, replace and supersede any previous terms and conditions in relation to the same. In the event there is a conflict between these Terms and any other terms or agreements, these Terms shall take precedence unless such additional terms expressly reference variation to these Terms.
 
-&nbsp;
+<strong>2.2</strong> We reserve the right to notify you of any further Ethereum (ETH) wallet-specific requirements at any time. For the avoidance of doubt, any refunds will be made in ETH.
 
-2. GENERAL
+<strong>2.3</strong> We are not responsible for any delays, losses, costs, non-delivery of refunds or of Tokens, or other issues arising from the failure to provide, or providing an inaccurate Wallet.
 
-&nbsp;
-
-2.1 These Terms shall govern our relationship with you in relation to the Token Sale and the Tokens and, to the extent applicable, modify, replace and supersede any previous terms and conditions in relation to the same. In the event there is a conflict between these Terms and any other terms or agreements, these Terms shall take precedence unless such additional terms expressly reference variation to these Terms.
-
-2.2 We reserve the right to notify you of any further Ethereum (ETH) wallet-specific requirements at any time. For the avoidance of doubt, any refunds will be made in ETH.
-
-2.3 We are not responsible for any delays, losses, costs, non-delivery of refunds or of Tokens, or other issues arising from the failure to provide, or providing an inaccurate Wallet.
-
-2.4 By agreeing to purchase Tokens during the Token Sale you are confirming your acceptance of these Terms and agree to be bound by them.
+<strong>2.4</strong> By agreeing to purchase Tokens during the Token Sale you are confirming your acceptance of these Terms and agree to be bound by them.
 
 &nbsp;
 
 3. DEFINITIONS AND INTERPRETATION
 
-3.1 In this Agreement, references to the following words shall have the meanings set out below:
+<strong>3.1</strong> In this Agreement, references to the following words shall have the meanings set out below:
 
-Agreement: these terms &amp; conditions.
+<strong>Agreement:</strong> these terms &amp; conditions.
 
-Availability Period: has the meaning given in clause 4.2.
+<strong>Availability Period:</strong> has the meaning given in clause 4.2.
 
-Bonus Tokens: The additional Tokens issued to Contributors in accordance with clause 4.4.
+<strong>Bonus Tokens:</strong> The additional Tokens issued to Contributors in accordance with clause 4.4.
 
-Contributor(s): the person(s) who make Contributions in accordance with, and who agree to, these Terms.
+<strong>Contributor(s):</strong> the person(s) who make Contributions in accordance with, and who agree to, these Terms.
 
-Contributions: payment in ETH by persons as permitted during the Token Sale in return for issuance of Tokens in accordance with this Agreement.
+<strong>Contributions:</strong> payment in ETH by persons as permitted during the Token Sale in return for issuance of Tokens in accordance with this Agreement.
 
-Contribution Software: has the meaning given to it in clause 4.15
+<strong>Contribution Software:</strong> has the meaning given to it in clause 4.15
 
-Effective Date: the date on which you have: i) indicate your agreement to these Terms; and ii) we have successfully received your Contribution.
+<strong>Effective Date:</strong> the date on which you have: i) indicate your agreement to these Terms; and ii) we have successfully received your Contribution.
 
-Group: our ultimate holding company and any subsidiary companies of our holding company.
+<strong>Group:</strong> our ultimate holding company and any subsidiary companies of our holding company.
 
-Intellectual Property Rights: rights to all existing and future patents, trademarks, design rights, service marks, trade dress, trade or business names (including domain names), registered designs, copyright (including rights in computer software), moral rights, database rights, format rights and topography rights (whether or not any of these is or are registered and including applications for registration), know-how, trade secrets and rights of confidence and all rights
+<strong>Intellectual Property Rights:</strong> rights to all existing and future patents, trademarks, design rights, service marks, trade dress, trade or business names (including domain names), registered designs, copyright (including rights in computer software), moral rights, database rights, format rights and topography rights (whether or not any of these is or are registered and including applications for registration), know-how, trade secrets and rights of confidence and all rights and forms of protection throughout the world of a similar nature or with similar effect to any of these for the full unexpired period of any such rights and any extensions and/or renewals thereof.
 
-&nbsp;
+<strong>Network:</strong> the decentralized protocol that will permit Participants as ‘data owners’ to control access to the data shared, whilst receiving value from the use of that data in return (in the form of Tokens) and that will further use the Contributions from the Participant and other contributors to attempt to develop the same.
 
-and forms of protection throughout the world of a similar nature or with similar effect to any of these for the full unexpired period of any such rights and any extensions and/or renewals thereof.
+<strong>Our Marks:</strong> the words TBIS, TBIS Marketplace, TBIS Platform, BAR Token and/or any logo, mark, domain name or trade name that contains, is confusingly similar to or is comprised of Our Marks or any other name or mark owned from time to time by us or any company within the Group.
 
-Network: the decentralized protocol that will permit Participants as ‘data owners’ to control access to the data shared, whilst receiving value from the use of that data in return (in the form of Tokens) and that will further use the Contributions from the Participant and other contributors to attempt to develop the same.
+<strong>Our Wallet:</strong> the crypto-wallet(s) that we use for receipt of Contributions and issuance of Tokens to you in accordance with this Agreement and/or any payment account details specified in writing to you from time to time on the applicable Websites.
 
-Our Marks: the words TBIS, TBIS Marketplace, TBIS Platform, BAR Token and/or any logo, mark, domain name or trade name that contains, is confusingly similar to or is comprised of Our Marks or any other name or mark owned from time to time by us or any company within the Group.
+<strong>Payment Date:</strong> the date on which the Price must be paid as specified in clause 4.8.
 
-Our Wallet: the crypto-wallet(s) that we use for receipt of Contributions and issuance of Tokens to you in accordance with this Agreement and/or any payment account details specified in writing to you from time to time on the applicable Websites.
+<strong>Pre-existing Tokens:</strong> has the meaning given in clause 4.10.
 
-Payment Date: the date on which the Price must be paid as specified in clause 4.8.
+<strong>Price:</strong> the price paid for Tokens as specified in clause 4.4.
 
-Pre-existing Tokens: has the meaning given in clause 4.10.
+<strong>Privacy Policy:</strong> the privacy policy available at https://tbis.io/privacy.html.
 
-Price: the price paid for Tokens as specified in clause 4.4.
+<strong>Released Parties:</strong> any of our respective past, present and future founders, employees, officers, directors, contractors, consultants, equity holders, suppliers, advisors, auditors, service providers, parent companies, subsidiaries, affiliates, agents, representatives, predecessors, successors and assigns.
 
-Privacy Policy: the privacy policy available at https://tbis.io/privacy.html.
+<strong>Replacement Tokens:</strong> has the meaning given in clause 4.10.
 
-Released Parties: any of our respective past, present and future founders, employees, officers, directors, contractors, consultants, equity holders, suppliers, advisors, auditors, service providers, parent companies, subsidiaries, affiliates, agents, representatives, predecessors, successors and assigns.
+<strong>Risk Factors:</strong> the non-exhaustive list of material risks involved in the Network project, Tokens and proposed Token Sale included in the Schedule.
 
-Replacement Tokens: has the meaning given in clause 4.10.
+<strong>SCS:</strong> has the meaning given to it in clause 4.13.
 
-Risk Factors: the non-exhaustive list of material risks involved in the Network project, Tokens and proposed Token Sale included in the Schedule.
-
-SCS: has the meaning given to it in clause 4.13.
-
-Sites: The Websites and any other online site, application or platform that are owned, operated or controlled by or on behalf of us or the Group from time to time and each of its related pages through which a Participant takes part in the Token Sale.
+<strong>Sites:</strong> The Websites and any other online site, application or platform that are owned, operated or controlled by or on behalf of us or the Group from time to time and each of its related pages through which a Participant takes part in the Token Sale.
 
 Token Holders: persons who have applied for, and received, Tokens from the Company in accordance with this Agreement or any applicable valid private Token Sale agreement.
 
