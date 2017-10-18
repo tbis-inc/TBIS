@@ -30,6 +30,7 @@ post_date: 2015-05-12 12:57:57
 
 [av_promobox button='yes' label='View Details' link='manually,#contact_form_pop' link_target='' color='theme-color' custom_bg='#444444' custom_font='#ffffff' size='large' icon_select='no' icon='ue800' font='entypo-fontello' box_color='' box_custom_font='#ffffff' box_custom_bg='#444444' box_custom_border='#333333' admin_preview_bg='']
 <h3>Our Pre-Sale is happening for our TBIS BAR Token.  You can be a part of the revolution today!</h3>
+<!--form sale link: #contact_form_pop -->
 [/av_promobox]
 
 [/av_one_half][av_one_fourth min_height='' vertical_alignment='av-align-top' space='' margin='0px' margin_sync='true' padding='0px' padding_sync='true' border='' border_color='' radius='0px' radius_sync='true' background_color='' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='av-hide-on-mobile']
