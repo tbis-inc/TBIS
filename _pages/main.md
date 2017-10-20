@@ -254,7 +254,6 @@ Soon, the TBIS token (BAR) will be sold. As part of this sale, a fixed pool of B
 [/av_section]
 
 [av_section min_height='' min_height_px='500px' padding='default' shadow='no-shadow' bottom_border='no-border-styling' bottom_border_diagonal_color='#333333' bottom_border_diagonal_direction='scroll' bottom_border_style='scroll' scroll_down='' id='' color='main_color' custom_bg='' src='' attach='scroll' position='top left' repeat='no-repeat' video='' video_ratio='16:9' video_mobile_disabled='' overlay_enable='' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide='' av_element_hidden_in_editor='0']
-
 [av_one_fifth first min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
 
 [/av_one_fifth][av_three_fifth min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
@@ -282,4 +281,5 @@ Soon, the TBIS token (BAR) will be sold. As part of this sale, a fixed pool of B
 
 [/av_one_fourth][av_one_fourth min_height='' vertical_alignment='av-align-top' space='' margin='0px' margin_sync='true' padding='0px' padding_sync='true' border='' border_color='' radius='0px' radius_sync='true' background_color='' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='av-hide-on-mobile']
 
-[/av_one_fourth][/av_section]
+[/av_one_fourth]
+[/av_section]
