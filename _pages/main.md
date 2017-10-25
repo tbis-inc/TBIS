@@ -291,7 +291,7 @@ Soon, the TBIS token (BAR) will be sold. As part of this sale, a fixed pool of B
 [av_textblock size='' font_color='' color='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
 <h3><img class="aligncenter wp-image-332 size-square" src="https://tbis.io/wp-content/uploads/2015/05/Parvez-Ahmed-Jalil-180x180.png" alt="" width="180" height="180" /></h3>
 <h3 class="team-member-name" style="text-align: center;">Parvez Ahmed Jalil</h3>
-<div class="team-member-job-title " style="text-align: center;">Customer Service</div>
+<div class="team-member-job-title " style="text-align: center;">Community Manager</div>
 [/av_textblock]
 
 [/av_one_third][av_hr class='invisible' height='80' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' font='entypo-fontello' admin_preview_bg='']
