@@ -213,16 +213,43 @@ Soon, the TBIS token (BAR) will be sold. As part of this sale, a fixed pool of B
 
 [av_hr class='invisible' height='80' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' font='entypo-fontello' admin_preview_bg='']
 
-[av_heading heading='Our Team' tag='h3' style='blockquote modern-quote modern-centered' size='60' subheading_active='' subheading_size='15' padding='10' color='custom-color-heading' custom_font='#ffffff' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg=''][/av_heading]
+[av_heading tag='h3' padding='10' heading='Our Team' color='custom-color-heading' style='blockquote modern-quote modern-centered' custom_font='#ffffff' size='60' subheading_active='' subheading_size='15' custom_class='' admin_preview_bg='' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size=''][/av_heading]
 
 [av_hr class='invisible' height='30' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' font='entypo-fontello' admin_preview_bg='']
 
 [av_one_third first min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
 
 [av_textblock size='' font_color='' color='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
-<h3><img class="size-square wp-image-326 aligncenter" src="https://tbis.io/wp-content/uploads/2015/05/Michael-Stollaire-180x180.png" alt="" width="180" height="180" /></h3>
+<h3><img class="aligncenter wp-image-335 size-square" src="https://tbis.io/wp-content/uploads/2015/05/Michael-Stollaire-1-180x180.png" alt="" width="180" height="180" /></h3>
 <h3 class="team-member-name" style="text-align: center;">Michael Stollaire</h3>
 <div class="team-member-job-title " style="text-align: center;">President &amp; CEO</div>
+[/av_textblock]
+
+[/av_one_third][av_one_third min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
+
+[av_textblock size='' font_color='' color='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
+<h3><img class="aligncenter wp-image-336 size-square" src="https://tbis.io/wp-content/uploads/2015/05/Richard-Silver-180x180.png" alt="" width="180" height="180" /></h3>
+<h3 class="team-member-name" style="text-align: center;">Richard Silverr</h3>
+<div class="team-member-job-title " style="text-align: center;">COO/Director of Marketing</div>
+[/av_textblock]
+
+[/av_one_third][av_one_third min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
+
+[av_textblock size='' font_color='' color='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
+<h3><img class="aligncenter wp-image-337 size-square" src="https://tbis.io/wp-content/uploads/2015/05/Christopher-Snook-180x180.png" alt="" width="180" height="180" /></h3>
+<h3 class="team-member-name" style="text-align: center;">Christopher Snook</h3>
+<div class="team-member-job-title " style="text-align: center;">CTO</div>
+[/av_textblock]
+
+[/av_one_third][av_hr class='invisible' height='50' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' font='entypo-fontello' admin_preview_bg='']
+
+[av_one_third first min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
+
+[av_textblock size='' font_color='' color='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
+<h3><img class="wp-image-328 size-square aligncenter" src="https://tbis.io/wp-content/uploads/2015/05/Vincent-Fullerton-180x180.png" alt="" width="180" height="180" /></h3>
+<h3 class="team-member-name" style="text-align: center;">Vincent Fullerton</h3>
+<div class="team-member-job-title " style="text-align: center;">Technical Advisor</div>
+<div class="team-member-job-title " style="text-align: center;">(NEM Core Team Member)</div>
 [/av_textblock]
 
 [/av_one_third][av_one_third min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
@@ -236,19 +263,19 @@ Soon, the TBIS token (BAR) will be sold. As part of this sale, a fixed pool of B
 [/av_one_third][av_one_third min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
 
 [av_textblock size='' font_color='' color='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
-<h3><img class="wp-image-328 size-square aligncenter" src="https://tbis.io/wp-content/uploads/2015/05/Vincent-Fullerton-180x180.png" alt="" width="180" height="180" /></h3>
-<h3 class="team-member-name" style="text-align: center;">Vincent Fullerton</h3>
-<div class="team-member-job-title " style="text-align: center;">Technical Advisor</div>
+<h3><img class="aligncenter wp-image-331 size-square" src="https://tbis.io/wp-content/uploads/2015/05/Nilo-Ampunen-180x180.png" alt="" width="180" height="180" /></h3>
+<h3 class="team-member-name" style="text-align: center;">Nilo Ampunen</h3>
+<div class="team-member-job-title " style="text-align: center;">Senior Enterprise Management Specialist</div>
 [/av_textblock]
 
-[/av_one_third][av_hr class='invisible' height='50' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' font='entypo-fontello' admin_preview_bg='']
+[/av_one_third][av_hr class='invisible' height='80' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' font='entypo-fontello' admin_preview_bg='']
 
 [av_one_third first min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
 
 [av_textblock size='' font_color='' color='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
-<h3><img class="aligncenter wp-image-331 size-square" src="https://tbis.io/wp-content/uploads/2015/05/Nilo-Ampunen-180x180.png" alt="" width="180" height="180" /></h3>
-<h3 class="team-member-name" style="text-align: center;">Nilo Ampunen</h3>
-<div class="team-member-job-title " style="text-align: center;">Senior Enterprise Management Specialist</div>
+<h3><img class="aligncenter wp-image-338 size-square" src="https://tbis.io/wp-content/uploads/2015/05/JamesConnolly-180x180.png" alt="" width="180" height="180" /></h3>
+<h3 class="team-member-name" style="text-align: center;">James Connolly</h3>
+<div class="team-member-job-title " style="text-align: center;">Ethereum Developer</div>
 [/av_textblock]
 
 [/av_one_third][av_one_third min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
@@ -268,8 +295,6 @@ Soon, the TBIS token (BAR) will be sold. As part of this sale, a fixed pool of B
 [/av_textblock]
 
 [/av_one_third][av_hr class='invisible' height='80' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' font='entypo-fontello' admin_preview_bg='']
-
-[av_hr class='invisible' height='80' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' font='entypo-fontello' admin_preview_bg='']
 
 [/av_section][av_section min_height='custom' min_height_px='550' padding='default' shadow='no-shadow' bottom_border='no-border-styling' bottom_border_diagonal_color='#333333' bottom_border_diagonal_direction='' bottom_border_style='' id='' color='main_color' custom_bg='' src='' attachment='' attachment_size='' attach='scroll' position='top left' repeat='no-repeat' video='' video_ratio='16:9' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='' av_element_hidden_in_editor='0']
 [av_heading tag='h3' padding='10' heading='Accredited &amp; Trust By' color='custom-color-heading' style='blockquote modern-quote modern-centered' custom_font='#ffffff' size='60' subheading_active='' subheading_size='15' custom_class='' admin_preview_bg='' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size=''][/av_heading]
