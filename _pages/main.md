@@ -347,7 +347,7 @@ Soon, the TBIS token (BAR) will be sold. As part of this sale, a fixed pool of B
 [av_textblock size='' font_color='' color='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
 <h3><img class="aligncenter wp-image-345 size-square" src="https://tbis.io/wp-content/uploads/2015/05/Tobiasz-Tomczak-180x180.png" alt="" width="180" height="180" /></h3>
 <h3 class="team-member-name" style="text-align: center;">Dariusz Baniel</h3>
-<div class="team-member-job-title " style="text-align: center;">Graphic Designer</div>
+<div class="team-member-job-title " style="text-align: center;">Community Manager</div>
 <div><a href="https://www.linkedin.com/in/dariusz-baniel-981427150/"><img class="aligncenter wp-image-360 size-full" src="https://tbis.io/wp-content/uploads/2015/05/linkedin2.png" alt="" width="48" height="48" /></a></div>
 [/av_textblock]
 
