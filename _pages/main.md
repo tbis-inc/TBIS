@@ -102,7 +102,7 @@ The distributed TBIS system will monitor the health of the network and everythin
 
 [av_hr class='invisible' height='30' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='150px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='#515a8f' icon='ue8bf' font='entypo-fontello' admin_preview_bg='']
 
-[av_button label='View White Paper' link='manually,https://tbis.io/wp-content/uploads/2017/10/Titanium-Infrastructure-Services-White-Paper-v1.1-10.26.2017.pdf' link_target='_blank' size='x-large' position='center' icon_select='no' icon='ue800' font='entypo-fontello' color='light' custom_bg='#444444' custom_font='#ffffff' admin_preview_bg='']
+[av_button label='View Now' link='manually,https://tbis.io/wp-content/uploads/2017/10/Titanium-Infrastructure-Services-White-Paper.pdf' link_target='_blank' size='x-large' position='center' icon_select='no' icon='ue800' font='entypo-fontello' color='light' custom_bg='#444444' custom_font='#ffffff' admin_preview_bg='']
 
 [av_hr class='invisible' height='60' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='150px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='#515a8f' icon='ue8bf' font='entypo-fontello' admin_preview_bg='']
 [/av_section]
@@ -123,14 +123,14 @@ Soon, the TBIS token (BAR) will be sold. As part of this sale, a fixed pool of B
 [/av_one_fourth][av_one_half min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
 
 [av_textblock size='40' font_color='custom' color='#ffc800' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
-<p style="text-align: center;">December 1st, 2017</p>
+<p style="text-align: center;">November 15th 2017</p>
 [/av_textblock]
 
 [/av_one_half][av_one_fourth min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
 
 [/av_one_fourth][av_hr class='invisible' height='25' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='150px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='#515a8f' icon='ue8bf' font='entypo-fontello' admin_preview_bg='']
 
-[av_countdown date='12 / 01 / 2017' hour='12' minute='0' min='1' max='4' align='av-align-center' size='' style='av-trans-light-style' av-medium-font-size-title='48' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
+[av_countdown date='11 / 15 / 2017' hour='12' minute='0' min='1' max='4' align='av-align-center' size='' style='av-trans-light-style' av-medium-font-size-title='48' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
 
 [av_hr class='invisible' height='50' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='150px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='#515a8f' icon='ue8bf' font='entypo-fontello' admin_preview_bg='']
 
@@ -274,6 +274,14 @@ Soon, the TBIS token (BAR) will be sold. As part of this sale, a fixed pool of B
 [av_one_third first min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
 
 [av_textblock size='' font_color='' color='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
+<h3><img class="aligncenter wp-image-355 size-square" src="https://tbis.io/wp-content/uploads/2015/05/Richard-Whitaker-180x180.png" alt="" width="180" height="180" /></h3>
+<h3 class="team-member-name" style="text-align: center;">RichardWhitaker</h3>
+<div class="team-member-job-title " style="text-align: center;">Senior Enterprise Management Specialist</div>
+[/av_textblock]
+
+[/av_one_third][av_one_third min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
+
+[av_textblock size='' font_color='' color='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
 <h3><img class="aligncenter wp-image-338 size-square" src="https://tbis.io/wp-content/uploads/2015/05/JamesConnolly-180x180.png" alt="" width="180" height="180" /></h3>
 <h3 class="team-member-name" style="text-align: center;">James Connolly</h3>
 <div class="team-member-job-title " style="text-align: center;">Ethereum Developer</div>
@@ -282,9 +290,25 @@ Soon, the TBIS token (BAR) will be sold. As part of this sale, a fixed pool of B
 [/av_one_third][av_one_third min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
 
 [av_textblock size='' font_color='' color='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
+<h3><img class="aligncenter wp-image-356 size-square" src="https://tbis.io/wp-content/uploads/2015/05/Jason-Brink-180x180.png" alt="" width="180" height="180" /></h3>
+<h3 class="team-member-name" style="text-align: center;">Jason Brink</h3>
+<div class="team-member-job-title " style="text-align: center;">Graphic Designer | Technical Writer</div>
+[/av_textblock]
+
+[/av_one_third][av_one_third first min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
+
+[av_textblock size='' font_color='' color='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
 <h3><img class="aligncenter wp-image-330 size-square" src="https://tbis.io/wp-content/uploads/2015/05/Eran-Crop-180x180.png" alt="" width="180" height="180" /></h3>
 <h3 class="team-member-name" style="text-align: center;">Eran Jenkins</h3>
 <div class="team-member-job-title " style="text-align: center;">Network Administrator</div>
+[/av_textblock]
+
+[/av_one_third][av_one_third min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
+
+[av_textblock size='' font_color='' color='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
+<h3><img class="aligncenter wp-image-332 size-square" src="https://tbis.io/wp-content/uploads/2015/05/Parvez-Ahmed-Jalil-180x180.png" alt="" width="180" height="180" /></h3>
+<h3 class="team-member-name" style="text-align: center;">Parvez Ahmed Jalil</h3>
+<div class="team-member-job-title " style="text-align: center;">Community Manager</div>
 [/av_textblock]
 
 [/av_one_third][av_one_third min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
@@ -301,8 +325,8 @@ Soon, the TBIS token (BAR) will be sold. As part of this sale, a fixed pool of B
 
 [av_textblock size='' font_color='' color='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
 <h3><img class="aligncenter wp-image-345 size-square" src="https://tbis.io/wp-content/uploads/2015/05/Tobiasz-Tomczak-180x180.png" alt="" width="180" height="180" /></h3>
-<h3 class="team-member-name" style="text-align: center;">Dariusz Baniel</h3>
-<div class="team-member-job-title " style="text-align: center;">Community Manager</div>
+<h3 class="team-member-name" style="text-align: center;">Tobiasz Tomczak</h3>
+<div class="team-member-job-title " style="text-align: center;">Graphic Designer</div>
 [/av_textblock]
 
 [/av_one_third][av_one_third min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
