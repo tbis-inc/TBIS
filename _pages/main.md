@@ -307,10 +307,10 @@ Soon, the TBIS token (BAR) will be sold. As part of this sale, a fixed pool of B
 [/av_one_third][av_one_third min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
 
 [av_textblock size='' font_color='' color='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
-<h3><img class="aligncenter wp-image-356 size-square" src="https://tbis.io/wp-content/uploads/2015/05/Jason-Brink-180x180.png" alt="" width="180" height="180" /></h3>
-<h3 class="team-member-name" style="text-align: center;">Jason Brink</h3>
-<div class="team-member-job-title " style="text-align: center;">Graphic Designer | Technical Writer</div>
-<div><img class="aligncenter wp-image-360 size-full" src="https://tbis.io/wp-content/uploads/2015/05/linkedin2.png" alt="" width="48" height="48" /></div>
+<h3><img class="aligncenter wp-image-369 size-square" src="https://tbis.io/wp-content/uploads/2015/05/Jesse-Ure-180x180.png" alt="" width="180" height="180" /></h3>
+<h3 class="team-member-name" style="text-align: center;">Jesse Ure</h3>
+<div class="team-member-job-title " style="text-align: center;">Ethereum Developer</div>
+<div><a href="https://www.linkedin.com/in/jesseure/"><img class="aligncenter wp-image-360 size-full" src="https://tbis.io/wp-content/uploads/2015/05/linkedin2.png" alt="" width="48" height="48" /></a></div>
 [/av_textblock]
 
 [/av_one_third][av_one_third first min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
@@ -334,15 +334,24 @@ Soon, the TBIS token (BAR) will be sold. As part of this sale, a fixed pool of B
 [/av_one_third][av_one_third min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
 
 [av_textblock size='' font_color='' color='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
+<h3><img class="aligncenter wp-image-356 size-square" src="https://tbis.io/wp-content/uploads/2015/05/Jason-Brink-180x180.png" alt="" width="180" height="180" /></h3>
+<h3 class="team-member-name" style="text-align: center;">Jason Brink</h3>
+<div class="team-member-job-title " style="text-align: center;">Graphic Designer | Technical Writer</div>
+<div><img class="aligncenter wp-image-360 size-full" src="https://tbis.io/wp-content/uploads/2015/05/linkedin2.png" alt="" width="48" height="48" /></div>
+[/av_textblock]
+
+[/av_one_third][av_hr class='invisible' height='80' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' font='entypo-fontello' admin_preview_bg='']
+
+[av_one_third first min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
+
+[av_textblock size='' font_color='' color='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
 <h3><img class="aligncenter wp-image-332 size-square" src="https://tbis.io/wp-content/uploads/2015/05/Parvez-Ahmed-Jalil-180x180.png" alt="" width="180" height="180" /></h3>
 <h3 class="team-member-name" style="text-align: center;">Parvez Ahmed Jalil</h3>
 <div class="team-member-job-title " style="text-align: center;">Community Manager</div>
 <div><a href="https://www.linkedin.com/in/parvez-ahmed-jalil-644a9972/"><img class="aligncenter wp-image-360 size-full" src="https://tbis.io/wp-content/uploads/2015/05/linkedin2.png" alt="" width="48" height="48" /></a></div>
 [/av_textblock]
 
-[/av_one_third][av_hr class='invisible' height='80' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' font='entypo-fontello' admin_preview_bg='']
-
-[av_one_third first min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
+[/av_one_third][av_one_third min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
 
 [av_textblock size='' font_color='' color='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
 <h3><img class="aligncenter wp-image-345 size-square" src="https://tbis.io/wp-content/uploads/2015/05/Tobiasz-Tomczak-180x180.png" alt="" width="180" height="180" /></h3>
