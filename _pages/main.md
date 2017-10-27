@@ -144,11 +144,12 @@ Soon, the TBIS token (BAR) will be sold. As part of this sale, a fixed pool of B
 [/av_section]
 
 [av_section min_height='' min_height_px='500px' padding='huge' shadow='no-border-styling' bottom_border='border-extra-arrow-down' bottom_border_diagonal_color='#333333' bottom_border_diagonal_direction='' bottom_border_style='' id='service' color='main_color' custom_bg='#2b2f4b' src='' attachment='' attachment_size='' attach='scroll' position='top left' repeat='no-repeat' video='' video_ratio='16:9' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='' av_element_hidden_in_editor='0']
+
 [av_heading tag='h3' padding='10' heading='TBIS Technology ' color='' style='blockquote modern-quote modern-centered' custom_font='' size='60' subheading_active='' subheading_size='15' custom_class='' admin_preview_bg='' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size=''][/av_heading]
 
 [av_hr class='invisible' height='30' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='150px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='#cf1b15' icon='ue806' font='entypo-fontello' admin_preview_bg='']
 
-[av_one_third first min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
+[av_one_fourth first min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
 
 [av_textblock size='' font_color='' color='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
 <a href="https://tbis.io/wp-content/uploads/2015/05/IAAS-icon.png"><img class="aligncenter wp-image-250 size-square" src="https://tbis.io/wp-content/uploads/2015/05/IAAS-icon-180x180.png" alt="" width="180" height="180" /></a>
@@ -156,7 +157,7 @@ Soon, the TBIS token (BAR) will be sold. As part of this sale, a fixed pool of B
 <p style="text-align: center;">With our proprietary IaaS structure, Titanium can create any piece of networked hardware on the blockchain through distributed computing.</p>
 [/av_textblock]
 
-[/av_one_third][av_one_third min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
+[/av_one_fourth][av_one_fourth min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
 
 [av_textblock size='' font_color='' color='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
 <img class="aligncenter size-square wp-image-251" src="https://tbis.io/wp-content/uploads/2015/05/DaaS-icon-180x180.png" alt="" width="180" height="180" />
@@ -164,7 +165,7 @@ Soon, the TBIS token (BAR) will be sold. As part of this sale, a fixed pool of B
 <p style="text-align: center;">Gone are the days when you need to carry a computer around to access premier computing power. With Titanium’s Desktop as a Service, you can have your full-power computing environment anywhere you go.</p>
 [/av_textblock]
 
-[/av_one_third][av_one_third min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
+[/av_one_fourth][av_one_fourth min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
 
 [av_textblock size='' font_color='' color='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
 <img class="aligncenter size-square wp-image-252" src="https://tbis.io/wp-content/uploads/2015/05/CaaS-icon-180x180.png" alt="" width="180" height="180" />
@@ -172,7 +173,15 @@ Soon, the TBIS token (BAR) will be sold. As part of this sale, a fixed pool of B
 <p style="text-align: center;">The Titanium Company as a Service package, you will be able to create a company and complete all legal steps with a click of a button.</p>
 [/av_textblock]
 
-[/av_one_third][av_hr class='invisible' height='30' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='150px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='#cf1b15' icon='ue806' font='entypo-fontello' admin_preview_bg='']
+[/av_one_fourth][av_one_fourth min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
+
+[av_textblock size='' font_color='' color='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
+<img class="aligncenter wp-image-361 size-square" src="https://tbis.io/wp-content/uploads/2015/05/ico-icon-180x180.png" alt="" width="180" height="180" />
+<p style="text-align: center;"><strong>Instant ICO Incubator (III)™</strong></p>
+<p style="text-align: center;">Titanium Instant ICO Incubator™ will take the guesswork out your token launch through providing end-to-end launch services.</p>
+[/av_textblock]
+
+[/av_one_fourth][av_hr class='invisible' height='30' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='150px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='#cf1b15' icon='ue806' font='entypo-fontello' admin_preview_bg='']
 
 [av_one_fourth first min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
 
@@ -207,9 +216,8 @@ Soon, the TBIS token (BAR) will be sold. As part of this sale, a fixed pool of B
 [/av_textblock]
 
 [/av_one_fourth][av_hr class='invisible' height='30' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='150px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='#cf1b15' icon='ue806' font='entypo-fontello' admin_preview_bg='']
-[/av_section]
 
-[av_section min_height='custom' min_height_px='550' padding='default' shadow='no-shadow' bottom_border='no-border-styling' bottom_border_diagonal_color='#333333' bottom_border_diagonal_direction='' bottom_border_style='' id='#team' color='main_color' custom_bg='#3c4374' src='' attachment='' attachment_size='' attach='scroll' position='top left' repeat='no-repeat' video='' video_ratio='16:9' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='' av_element_hidden_in_editor='0']
+[/av_section][av_section min_height='custom' min_height_px='550' padding='default' shadow='no-shadow' bottom_border='no-border-styling' bottom_border_diagonal_color='#333333' bottom_border_diagonal_direction='' bottom_border_style='' id='#team' color='main_color' custom_bg='#3c4374' src='' attachment='' attachment_size='' attach='scroll' position='top left' repeat='no-repeat' video='' video_ratio='16:9' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='' av_element_hidden_in_editor='0']
 
 [av_hr class='invisible' height='80' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' font='entypo-fontello' admin_preview_bg='']
 
@@ -223,6 +231,7 @@ Soon, the TBIS token (BAR) will be sold. As part of this sale, a fixed pool of B
 <h3><img class="aligncenter wp-image-335 size-square" src="https://tbis.io/wp-content/uploads/2015/05/Michael-Stollaire-1-180x180.png" alt="" width="180" height="180" /></h3>
 <h3 class="team-member-name" style="text-align: center;">Michael Stollaire</h3>
 <div class="team-member-job-title " style="text-align: center;">President &amp; CEO</div>
+<div style="text-align: center;"><a href="https://www.linkedin.com/in/openviewmike/"><img class="aligncenter wp-image-360 size-full" style="margin-top: 5px;" src="https://tbis.io/wp-content/uploads/2015/05/linkedin2.png" alt="" width="48" height="48" /></a></div>
 [/av_textblock]
 
 [/av_one_third][av_one_third min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
@@ -231,6 +240,7 @@ Soon, the TBIS token (BAR) will be sold. As part of this sale, a fixed pool of B
 <h3><img class="aligncenter wp-image-336 size-square" src="https://tbis.io/wp-content/uploads/2015/05/Richard-Silver-180x180.png" alt="" width="180" height="180" /></h3>
 <h3 class="team-member-name" style="text-align: center;">Richard Silver</h3>
 <div class="team-member-job-title " style="text-align: center;">COO/Director of Marketing</div>
+<div><img class="aligncenter wp-image-360 size-full" src="https://tbis.io/wp-content/uploads/2015/05/linkedin2.png" alt="" width="48" height="48" /></div>
 [/av_textblock]
 
 [/av_one_third][av_one_third min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
@@ -239,6 +249,7 @@ Soon, the TBIS token (BAR) will be sold. As part of this sale, a fixed pool of B
 <h3><img class="aligncenter wp-image-337 size-square" src="https://tbis.io/wp-content/uploads/2015/05/Christopher-Snook-180x180.png" alt="" width="180" height="180" /></h3>
 <h3 class="team-member-name" style="text-align: center;">Christopher Snook</h3>
 <div class="team-member-job-title " style="text-align: center;">CTO</div>
+<div><a href="https://www.linkedin.com/in/chrisjsnook/"><img class="aligncenter wp-image-360 size-full" src="https://tbis.io/wp-content/uploads/2015/05/linkedin2.png" alt="" width="48" height="48" /></a></div>
 [/av_textblock]
 
 [/av_one_third][av_hr class='invisible' height='50' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' font='entypo-fontello' admin_preview_bg='']
@@ -250,6 +261,7 @@ Soon, the TBIS token (BAR) will be sold. As part of this sale, a fixed pool of B
 <h3 class="team-member-name" style="text-align: center;">Vincent Fullerton</h3>
 <div class="team-member-job-title " style="text-align: center;">Technical Advisor</div>
 <div class="team-member-job-title " style="text-align: center;">(NEM Core Team Member)</div>
+<div><a href="https://www.linkedin.com/in/vincent-fullerton-4901669/"><img class="aligncenter wp-image-360 size-full" src="https://tbis.io/wp-content/uploads/2015/05/linkedin2.png" alt="" width="48" height="48" /></a></div>
 [/av_textblock]
 
 [/av_one_third][av_one_third min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
@@ -259,6 +271,7 @@ Soon, the TBIS token (BAR) will be sold. As part of this sale, a fixed pool of B
 <h3 class="team-member-name" style="text-align: center;">Stuart Siegler</h3>
 <div class="team-member-job-title " style="text-align: center;">Ethereum Developer and</div>
 <div class="team-member-job-title " style="text-align: center;">Enterprise Automation Expert</div>
+<div><a href="https://www.linkedin.com/in/stuartsiegler/"><img class="aligncenter wp-image-360 size-full" src="https://tbis.io/wp-content/uploads/2015/05/linkedin2.png" alt="" width="48" height="48" /></a></div>
 [/av_textblock]
 
 [/av_one_third][av_one_third min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
@@ -267,6 +280,7 @@ Soon, the TBIS token (BAR) will be sold. As part of this sale, a fixed pool of B
 <h3><img class="aligncenter wp-image-331 size-square" src="https://tbis.io/wp-content/uploads/2015/05/Nilo-Ampunen-180x180.png" alt="" width="180" height="180" /></h3>
 <h3 class="team-member-name" style="text-align: center;">Nilo Ampunen</h3>
 <div class="team-member-job-title " style="text-align: center;">Senior Enterprise Management Specialist</div>
+<div><a href="https://www.linkedin.com/in/nilo-ampunan-3864652/"><img class="aligncenter wp-image-360 size-full" src="https://tbis.io/wp-content/uploads/2015/05/linkedin2.png" alt="" width="48" height="48" /></a></div>
 [/av_textblock]
 
 [/av_one_third][av_hr class='invisible' height='80' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' font='entypo-fontello' admin_preview_bg='']
@@ -275,8 +289,10 @@ Soon, the TBIS token (BAR) will be sold. As part of this sale, a fixed pool of B
 
 [av_textblock size='' font_color='' color='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
 <h3><img class="aligncenter wp-image-355 size-square" src="https://tbis.io/wp-content/uploads/2015/05/Richard-Whitaker-180x180.png" alt="" width="180" height="180" /></h3>
-<h3 class="team-member-name" style="text-align: center;">RichardWhitaker</h3>
+<h3 class="team-member-name" style="text-align: center;">Richard Whitaker</h3>
 <div class="team-member-job-title " style="text-align: center;">Senior Enterprise Management Specialist</div>
+<div><a href="https://www.linkedin.com/in/richard-whitaker-549272/"><img class="aligncenter size-full wp-image-360" src="https://tbis.io/wp-content/uploads/2015/05/linkedin2.png" alt="" width="48" height="48" /></a></div>
+<div></div>
 [/av_textblock]
 
 [/av_one_third][av_one_third min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
@@ -285,6 +301,7 @@ Soon, the TBIS token (BAR) will be sold. As part of this sale, a fixed pool of B
 <h3><img class="aligncenter wp-image-338 size-square" src="https://tbis.io/wp-content/uploads/2015/05/JamesConnolly-180x180.png" alt="" width="180" height="180" /></h3>
 <h3 class="team-member-name" style="text-align: center;">James Connolly</h3>
 <div class="team-member-job-title " style="text-align: center;">Ethereum Developer</div>
+<div><a href="https://www.linkedin.com/in/james-connolly-4b93902a/"><img class="aligncenter size-full wp-image-360" src="https://tbis.io/wp-content/uploads/2015/05/linkedin2.png" alt="" width="48" height="48" /></a></div>
 [/av_textblock]
 
 [/av_one_third][av_one_third min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
@@ -293,6 +310,7 @@ Soon, the TBIS token (BAR) will be sold. As part of this sale, a fixed pool of B
 <h3><img class="aligncenter wp-image-356 size-square" src="https://tbis.io/wp-content/uploads/2015/05/Jason-Brink-180x180.png" alt="" width="180" height="180" /></h3>
 <h3 class="team-member-name" style="text-align: center;">Jason Brink</h3>
 <div class="team-member-job-title " style="text-align: center;">Graphic Designer | Technical Writer</div>
+<div><img class="aligncenter wp-image-360 size-full" src="https://tbis.io/wp-content/uploads/2015/05/linkedin2.png" alt="" width="48" height="48" /></div>
 [/av_textblock]
 
 [/av_one_third][av_one_third first min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
@@ -301,6 +319,7 @@ Soon, the TBIS token (BAR) will be sold. As part of this sale, a fixed pool of B
 <h3><img class="aligncenter wp-image-330 size-square" src="https://tbis.io/wp-content/uploads/2015/05/Eran-Crop-180x180.png" alt="" width="180" height="180" /></h3>
 <h3 class="team-member-name" style="text-align: center;">Eran Jenkins</h3>
 <div class="team-member-job-title " style="text-align: center;">Network Administrator</div>
+<div><a href="https://www.linkedin.com/in/eranjenkins/"><img class="aligncenter size-full wp-image-360" src="https://tbis.io/wp-content/uploads/2015/05/linkedin2.png" alt="" width="48" height="48" /></a></div>
 [/av_textblock]
 
 [/av_one_third][av_one_third min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
@@ -309,14 +328,16 @@ Soon, the TBIS token (BAR) will be sold. As part of this sale, a fixed pool of B
 <h3><img class="aligncenter wp-image-332 size-square" src="https://tbis.io/wp-content/uploads/2015/05/Parvez-Ahmed-Jalil-180x180.png" alt="" width="180" height="180" /></h3>
 <h3 class="team-member-name" style="text-align: center;">Parvez Ahmed Jalil</h3>
 <div class="team-member-job-title " style="text-align: center;">Community Manager</div>
+<div><a href="https://www.linkedin.com/in/parvez-ahmed-jalil-644a9972/"><img class="aligncenter wp-image-360 size-full" src="https://tbis.io/wp-content/uploads/2015/05/linkedin2.png" alt="" width="48" height="48" /></a></div>
 [/av_textblock]
 
 [/av_one_third][av_one_third min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
 
 [av_textblock size='' font_color='' color='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
-<h3><img class="aligncenter wp-image-332 size-square" src="https://tbis.io/wp-content/uploads/2015/05/Parvez-Ahmed-Jalil-180x180.png" alt="" width="180" height="180" /></h3>
-<h3 class="team-member-name" style="text-align: center;">Parvez Ahmed Jalil</h3>
-<div class="team-member-job-title " style="text-align: center;">Community Manager</div>
+<h3><img class="aligncenter wp-image-346 size-square" src="https://tbis.io/wp-content/uploads/2015/05/Daniel-Tiech-180x180.png" alt="" width="180" height="180" /></h3>
+<h3 class="team-member-name" style="text-align: center;">Daniel Tiech</h3>
+<div class="team-member-job-title " style="text-align: center;">Graphic Designer</div>
+<div><img class="aligncenter size-full wp-image-360" src="https://tbis.io/wp-content/uploads/2015/05/linkedin2.png" alt="" width="48" height="48" /></div>
 [/av_textblock]
 
 [/av_one_third][av_hr class='invisible' height='80' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' font='entypo-fontello' admin_preview_bg='']
@@ -327,14 +348,16 @@ Soon, the TBIS token (BAR) will be sold. As part of this sale, a fixed pool of B
 <h3><img class="aligncenter wp-image-345 size-square" src="https://tbis.io/wp-content/uploads/2015/05/Tobiasz-Tomczak-180x180.png" alt="" width="180" height="180" /></h3>
 <h3 class="team-member-name" style="text-align: center;">Tobiasz Tomczak</h3>
 <div class="team-member-job-title " style="text-align: center;">Graphic Designer</div>
+<div><a href="https://www.linkedin.com/in/tobiasz-tomczak-785158152/"><img class="aligncenter size-full wp-image-360" src="https://tbis.io/wp-content/uploads/2015/05/linkedin2.png" alt="" width="48" height="48" /></a></div>
 [/av_textblock]
 
 [/av_one_third][av_one_third min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
 
 [av_textblock size='' font_color='' color='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
-<h3><img class="aligncenter wp-image-346 size-square" src="https://tbis.io/wp-content/uploads/2015/05/Daniel-Tiech-180x180.png" alt="" width="180" height="180" /></h3>
-<h3 class="team-member-name" style="text-align: center;">Daniel Tiech</h3>
-<div class="team-member-job-title " style="text-align: center;">Graphic Designer</div>
+<h3><img class="aligncenter wp-image-358 size-square" src="https://tbis.io/wp-content/uploads/2015/05/Dawid-Brzezinski-1-1-180x180.png" alt="" width="180" height="180" /></h3>
+<h3 class="team-member-name" style="text-align: center;"> Dawid Brzezinski</h3>
+<div class="team-member-job-title " style="text-align: center;">Community Manager</div>
+<div><img class="aligncenter size-full wp-image-360" src="https://tbis.io/wp-content/uploads/2015/05/linkedin2.png" alt="" width="48" height="48" /></div>
 [/av_textblock]
 
 [/av_one_third][av_hr class='invisible' height='80' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' font='entypo-fontello' admin_preview_bg='']
