@@ -328,7 +328,7 @@ Soon, the TBIS token (BAR) will be sold. As part of this sale, a fixed pool of B
 <h3><img class="aligncenter wp-image-346 size-square" src="https://tbis.io/wp-content/uploads/2015/05/Daniel-Tiech-180x180.png" alt="" width="180" height="180" /></h3>
 <h3 class="team-member-name" style="text-align: center;">Daniel Tiech</h3>
 <div class="team-member-job-title " style="text-align: center;">Graphic Designer</div>
-<div><img class="aligncenter size-full wp-image-360" src="https://tbis.io/wp-content/uploads/2015/05/linkedin2.png" alt="" width="48" height="48" /></div>
+<div><a href="https://www.linkedin.com/in/daniel-tiech-06b239152/"><img class="aligncenter wp-image-360 size-full" src="https://tbis.io/wp-content/uploads/2015/05/linkedin2.png" alt="" width="48" height="48" /></a></div>
 [/av_textblock]
 
 [/av_one_third][av_one_third min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
