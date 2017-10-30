@@ -441,7 +441,9 @@ Soon, the TBIS token (BAR) will be sold. As part of this sale, a fixed pool of B
 
 [av_textblock size='10' font_color='' color='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
 <p style="text-align: center;"><img class="aligncenter wp-image-318 size-full" src="https://tbis.io/wp-content/uploads/2015/05/bbb-logo.png" alt="" width="197" height="75" /></p>
-<p style="text-align: center;"><a href="https://tbis.io/privacy/">Privacy Policy</a></p>
+
+<h6 style="text-align: center;"><a href="https://tbis.io/privacy/">Privacy Policy</a></h6>
+<h6 style="text-align: center;">Business ID: 756765</h6>
 [/av_textblock]
 
 [/av_one_fourth][av_one_fourth min_height='' vertical_alignment='av-align-top' space='' margin='0px' margin_sync='true' padding='0px' padding_sync='true' border='' border_color='' radius='0px' radius_sync='true' background_color='' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='av-hide-on-mobile']
