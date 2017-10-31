@@ -33,10 +33,11 @@ Total Number of Titanium BARs Initially in Circulation: 69,000,000
 
 <strong>Accepted Currencies:</strong>
 <ul>
+ 	<li>Verge</li>
  	<li>Bitcoin</li>
  	<li>Ethereum</li>
  	<li>Monero</li>
- 	<li>Verge</li>
+ 	<li>ZCash</li>
  	<li>Fiat</li>
 </ul>
 [/av_textblock]
