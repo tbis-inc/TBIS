@@ -29,7 +29,9 @@ Before the December 1, 2017 BAR token crowdfunding sale begins, a pre-sale perio
 
 Two bonus periods will be offered at the beginning of the sale to provide early-bird contributors a small incentive. During the first 24 hours of the funding period, the exchange rate will be 330 BAR for 1 ETH, a 10% bonus. For the 48 hours after that, the exchange rate will be 315 BAR for 1 ETH, a 5% bonus. After the early bird periods, the price of BAR will remain at 300 BAR for 1 ETH for the rest of the sale.
 
-Total Number of Titanium BARs Initially in Circulation: 69,000,000
+Total Number of Titanium BARs Initially in Circulation: 69,000,000.
+
+Please indicate the currency that you will be using to purchase BARs with, and we will send you instructions as to how to proceed with the transaction.
 
 <strong>Accepted Currencies:</strong>
 <ul>
