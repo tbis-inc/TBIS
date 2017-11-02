@@ -33,8 +33,6 @@ We are also offering a 5% referral bonus to those that refer other individuals t
 
 Total Number of Titanium BARs Initially in Circulation: 69,000,000.
 
-Important Note: There are no guarantees that BARs will increase in value.
-
 Please indicate the currency that you will be using to purchase BARs with, and we will send you instructions as to how to proceed with the transaction.
 
 <strong>Accepted Currencies:</strong>
