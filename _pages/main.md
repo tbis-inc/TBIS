@@ -48,7 +48,7 @@ Today, the largest transportation company in the world owns no cars (Uber), the 
 <p style="text-align: center;"><strong>The EHI Advantage</strong></p>
 Unlike 99.99% of Blockchain start-ups and Initial Coin Offerings (ICOs), the Titanium Core Team is not composed of relative newcomers to technology. In stark contrast, the Titanium Core Team has over two-hundred (200) years of combined experience. This is also not the first technology company that Titanium's Founder and CEO, Michael Stollaire, has ever formed. In 1999, Mr. Stollaire founded EHI, a technology consultancy specializing in enterprise infrastructure management.
 
-EHI and its consultants are known in the industry as top-tier, elite personnel, as shown by their impressive <a href="http://www.ehiinsm.com/index.php/clients/">Client List</a> and Testimonials.
+EHI and its consultants are known in the industry as top-tier, elite personnel, as shown by their impressive <a href="http://www.ehiinsm.com/index.php/clients/">Client List</a> and <a href="https://tbis.io/wp-content/uploads/2017/11/Testimonials-2017.pdf">Testimonials</a>.
 
 Most Blockchain start-ups and ICOs face a very serious problem after they develop a viable product and or service: finding companies and people that will actually purchase them and use them.
 <h6 style="text-align: center;"></h6>
