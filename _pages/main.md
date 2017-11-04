@@ -9,7 +9,6 @@ published: true
 post_date: 2015-05-12 12:57:57
 ---
 [av_section min_height='custom' min_height_px='650' padding='default' shadow='no-shadow' bottom_border='no-border-styling' bottom_border_diagonal_color='#333333' bottom_border_diagonal_direction='' bottom_border_style='' id='' color='main_color' custom_bg='#294789' src='https://tbis.io/wp-content/uploads/2015/05/section-bg5b.jpg' attachment='362' attachment_size='full' attach='scroll' position='center center' repeat='stretch' video='https://www.youtube.com/watch?v=Q4-elN2l7ic' video_ratio='16:9' video_mobile_disabled='aviaTBvideo_mobile_disabled' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='' av_element_hidden_in_editor='0']
-
 [av_one_fourth first min_height='' vertical_alignment='av-align-top' space='' margin='0px' margin_sync='true' padding='0px' padding_sync='true' border='' border_color='' radius='0px' radius_sync='true' background_color='' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='av-hide-on-mobile']
 
 [/av_one_fourth][av_one_half min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
@@ -35,13 +34,61 @@ post_date: 2015-05-12 12:57:57
 
 [/av_one_half][av_one_fourth min_height='' vertical_alignment='av-align-top' space='' margin='0px' margin_sync='true' padding='0px' padding_sync='true' border='' border_color='' radius='0px' radius_sync='true' background_color='' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='av-hide-on-mobile']
 
-[/av_one_fourth][/av_section][av_section min_height='' min_height_px='500px' padding='huge' shadow='no-border-styling' bottom_border='border-extra-arrow-down' id='story' color='main_color' custom_bg='' src='' attachment='' attachment_size='' attach='scroll' position='top left' repeat='no-repeat' video='' video_ratio='16:9' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='']
+[/av_one_fourth]
+[/av_section]
+
+[av_section min_height='' min_height_px='500px' padding='huge' shadow='no-border-styling' bottom_border='border-extra-arrow-down' id='story' color='main_color' custom_bg='' src='' attachment='' attachment_size='' attach='scroll' position='top left' repeat='no-repeat' video='' video_ratio='16:9' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='']
+
 [av_heading tag='h3' padding='10' heading='About Us' color='' style='blockquote modern-quote modern-centered' custom_font='' size='60' subheading_active='' subheading_size='15' custom_class='' admin_preview_bg='' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size=''][/av_heading]
 
 [av_hr class='invisible' height='20' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='150px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='#515a8f' icon='ue8bf' font='entypo-fontello' admin_preview_bg='']
 
 [av_textblock size='' font_color='' color='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
 Today, the largest transportation company in the world owns no cars (Uber), the largest hospitality company on the face of the planet owns no hotels (AirBnB), the largest retailer carries no stock (Alibaba), and the world’s most popular media network creates no content (Facebook). Clearly, we are living in a time of radical change. Why should internet infrastructure be any different?
+<p style="text-align: center;"><strong>The EHI Advantage</strong></p>
+Unlike 99.99% of other Blockchain start-ups and ICOs, the Titanium Team is not composed of relative newcomers to technology. The combined experience on the Titanium Team is over two-hundred (200) years. Titanium is also not the first technology company that Founder and CEO, Michael Stollaire, started. In March 1999, his first technology company, EHI, was formed, specializing in professional services and software sales in the realms of enterprise management, infrastructure and cybersecurity. EHI and its consultants are known as top-tier elite personnel in their areas of expertise and <a href="http://www.ehiinsm.com/index.php/clients">The EHI Client List</a> and <a href="https://tbis.io/wp-content/uploads/2017/11/Testimonials-2017.pdf">Testimonials</a> speak for themselves.
+
+Titanium is EHI's sister company, a natural evolution of what EHI has already accomplished, and in the eyes of Founder and CEO, Michael Stollaire, should essentially be considered "EHI v2.0."
+
+This is a key, differentiating factor for Titanium, as EHI and Titanium can and will exist in a synergistic relationship for years to come. Of course, this means that EHI's clients would also be Titanium's clients as well.
+
+Most Blockchain start-ups and ICOs will be facing an extremely hard task after their products and/or services have been created: finding customers that are willing to buy and use them.
+
+In stark contrast, Titanium will not be making any "cold calls." Titanium will simply leverage EHI's existing clientelle.
+
+What follows is only a small example of clients that Titanium will be providing services to via Titanium's sister company status with EHI:
+<ul>
+ 	<li>Accenture</li>
+ 	<li>Apple</li>
+ 	<li>Applied Materials</li>
+ 	<li>Boeing</li>
+ 	<li>Cargill</li>
+ 	<li>Citizens Bank</li>
+ 	<li>eBay</li>
+ 	<li>Exelon</li>
+ 	<li>ERCOT</li>
+ 	<li>General Electric (GE)</li>
+ 	<li>Hewlett-Packard Inc.</li>
+ 	<li>Hewlett-Packard Enterprise</li>
+ 	<li>Honeywell</li>
+ 	<li>IBM</li>
+ 	<li>McDonalds</li>
+ 	<li>MicroFocus</li>
+ 	<li>Microsoft</li>
+ 	<li>Pacific Capital Bancorp</li>
+ 	<li>PayPal</li>
+ 	<li>Pfizer</li>
+ 	<li>Santa Barbara Bank and Trust</li>
+ 	<li>SAP</li>
+ 	<li>Synchrony Financial</li>
+ 	<li>Verizon</li>
+ 	<li>The Bank of Scotland in Ireland</li>
+ 	<li>The Federal Reserve</li>
+ 	<li>The Royal Bank of Scotland</li>
+ 	<li>The United States Treasury</li>
+ 	<li>Universal Studios</li>
+ 	<li>Walt Disney</li>
+</ul>
 <h6 style="text-align: center;"></h6>
 [/av_textblock]
 
@@ -54,9 +101,8 @@ info@tbis.io ~ TEL: 1.833.DIAL.TITANIUM</p>
 [/av_textblock]
 
 [av_hr class='invisible' height='20' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='150px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='#515a8f' icon='ue8bf' font='entypo-fontello' admin_preview_bg='']
-[/av_section]
 
-[av_section min_height='custom' min_height_px='600px' padding='huge' shadow='no-border-styling' bottom_border='border-extra-arrow-down' bottom_border_diagonal_color='#333333' bottom_border_diagonal_direction='' bottom_border_style='' id='story' color='main_color' custom_bg='' src='https://tbis.io/wp-content/uploads/2015/05/section-bg4.jpg' attachment='282' attachment_size='full' attach='scroll' position='center center' repeat='stretch' video='' video_ratio='16:9' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='' av_element_hidden_in_editor='0']
+[/av_section][av_section min_height='custom' min_height_px='600px' padding='huge' shadow='no-border-styling' bottom_border='border-extra-arrow-down' bottom_border_diagonal_color='#333333' bottom_border_diagonal_direction='' bottom_border_style='' id='story' color='main_color' custom_bg='' src='https://tbis.io/wp-content/uploads/2015/05/section-bg4.jpg' attachment='282' attachment_size='full' attach='scroll' position='center center' repeat='stretch' video='' video_ratio='16:9' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='' av_element_hidden_in_editor='0']
 [av_hr class='invisible' height='20' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='150px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='#515a8f' icon='ue8bf' font='entypo-fontello' admin_preview_bg='']
 
 [av_video src='https://www.youtube.com/watch?v=Baca1YT-xR4' format='16-9' width='16' height='9']
@@ -93,7 +139,6 @@ The distributed TBIS system will monitor the health of the network and everythin
 [/av_section]
 
 [av_section min_height='custom' min_height_px='700px' padding='huge' shadow='no-border-styling' bottom_border='border-extra-arrow-down' bottom_border_diagonal_color='#333333' bottom_border_diagonal_direction='' bottom_border_style='' id='future' color='main_color' custom_bg='' src='https://tbis.io/wp-content/uploads/2015/05/section-bg1-3.jpg' attachment='249' attachment_size='full' attach='scroll' position='center center' repeat='stretch' video='' video_ratio='16:9' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='' av_element_hidden_in_editor='0']
-
 [av_heading tag='h3' padding='10' heading='The Future Is Now' color='' style='blockquote modern-quote modern-centered' custom_font='' size='60' subheading_active='' subheading_size='15' custom_class='' admin_preview_bg='' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size=''][/av_heading]
 
 [av_hr class='invisible' height='20' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='150px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='#515a8f' icon='ue8bf' font='entypo-fontello' admin_preview_bg='']
@@ -113,9 +158,9 @@ The distributed TBIS system will monitor the health of the network and everythin
 [av_button label='View Whitepaper Now' link='manually,https://tbis.io/wp-content/uploads/2017/11/Titanium-Infrastructure-Services-White-Paper-v1.2-11.04.2017.pdf' link_target='_blank' size='x-large' position='center' icon_select='no' icon='ue800' font='entypo-fontello' color='light' custom_bg='#444444' custom_font='#ffffff' admin_preview_bg='']
 
 [av_hr class='invisible' height='60' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='150px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='#515a8f' icon='ue8bf' font='entypo-fontello' admin_preview_bg='']
+[/av_section]
 
-[/av_section][av_section min_height='' min_height_px='500px' padding='huge' shadow='no-border-styling' bottom_border='border-extra-arrow-down' bottom_border_diagonal_color='#333333' bottom_border_diagonal_direction='' bottom_border_style='' id='sale' color='main_color' custom_bg='' src='' attachment='' attachment_size='' attach='scroll' position='top left' repeat='no-repeat' video='' video_ratio='16:9' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='' av_element_hidden_in_editor='0']
-
+[av_section min_height='' min_height_px='500px' padding='huge' shadow='no-border-styling' bottom_border='border-extra-arrow-down' bottom_border_diagonal_color='#333333' bottom_border_diagonal_direction='' bottom_border_style='' id='sale' color='main_color' custom_bg='' src='' attachment='' attachment_size='' attach='scroll' position='top left' repeat='no-repeat' video='' video_ratio='16:9' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='' av_element_hidden_in_editor='0']
 [av_heading tag='h3' padding='10' heading='Token Mechanics and Sale Details' color='' style='blockquote modern-quote modern-centered' custom_font='' size='60' subheading_active='' subheading_size='15' custom_class='' admin_preview_bg='' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size=''][/av_heading]
 
 [av_hr class='custom' height='50' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='150px' custom_border_color='#e0e0e0' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='#515a8f' icon='ue8bf' font='entypo-fontello' admin_preview_bg='']
@@ -149,8 +194,9 @@ Soon, the TBIS token (BAR) will be sold. As part of this sale, a fixed pool of B
 [av_hr class='invisible' height='25' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='150px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='#515a8f' icon='ue8bf' font='entypo-fontello' admin_preview_bg='']
 
 [av_button label='View Token Pre-Sale Details' link='manually,https://tbis.io/pre-sale-form/' link_target='' size='x-large' position='center' icon_select='no' icon='ue800' font='entypo-fontello' color='light' custom_bg='#444444' custom_font='#ffffff' admin_preview_bg='']
+[/av_section]
 
-[/av_section][av_section min_height='' min_height_px='500px' padding='huge' shadow='no-border-styling' bottom_border='border-extra-arrow-down' bottom_border_diagonal_color='#333333' bottom_border_diagonal_direction='' bottom_border_style='' id='service' color='main_color' custom_bg='#2b2f4b' src='' attachment='' attachment_size='' attach='scroll' position='top left' repeat='no-repeat' video='' video_ratio='16:9' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='' av_element_hidden_in_editor='0']
+[av_section min_height='' min_height_px='500px' padding='huge' shadow='no-border-styling' bottom_border='border-extra-arrow-down' bottom_border_diagonal_color='#333333' bottom_border_diagonal_direction='' bottom_border_style='' id='service' color='main_color' custom_bg='#2b2f4b' src='' attachment='' attachment_size='' attach='scroll' position='top left' repeat='no-repeat' video='' video_ratio='16:9' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='' av_element_hidden_in_editor='0']
 [av_heading tag='h3' padding='10' heading='TBIS Technology ' color='' style='blockquote modern-quote modern-centered' custom_font='' size='60' subheading_active='' subheading_size='15' custom_class='' admin_preview_bg='' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size=''][/av_heading]
 
 [av_hr class='invisible' height='30' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='150px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='#cf1b15' icon='ue806' font='entypo-fontello' admin_preview_bg='']
