@@ -84,7 +84,7 @@ What follows is a short excerpt of some of EHI’s customers, which Titanium wil
  	<li>Universal Studios</li>
  	<li>Walt Disney</li>
 </ul>
-As you can see, the Titanium project had a huge advantage over other Blockchain start-ups and ICOs, before anyone on the Titanium Team ever lifted a finger.
+<strong><em>As you can see, the Titanium project had a huge advantage over other Blockchain start-ups and ICOs, before anyone on the Titanium Team ever lifted a finger.</em></strong>
 <h6 style="text-align: center;"></h6>
 [/av_textblock]
 
