@@ -46,49 +46,11 @@ post_date: 2015-05-12 12:57:57
 [av_textblock size='' font_color='' color='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
 Today, the largest transportation company in the world owns no cars (Uber), the largest hospitality company on the face of the planet owns no hotels (AirBnB), the largest retailer carries no stock (Alibaba), and the world’s most popular media network creates no content (Facebook). Clearly, we are living in a time of radical change. Why should internet infrastructure be any different?
 <p style="text-align: center;"><strong>The EHI Advantage</strong></p>
-Unlike 99.99% of other Blockchain start-ups and ICOs, the Titanium Team is not composed of relative newcomers to technology. The combined experience on the Titanium Team is over two-hundred (200) years. Titanium is also not the first technology company that Founder and CEO, Michael Stollaire, started. In March 1999, his first technology company, EHI, was formed, specializing in professional services and software sales in the realms of enterprise management, infrastructure and cybersecurity. EHI and its consultants are known as top-tier elite personnel in their areas of expertise and <a href="http://www.ehiinsm.com/index.php/clients">The EHI Client List</a> and <a href="https://tbis.io/wp-content/uploads/2017/11/Testimonials-2017.pdf">Testimonials</a> speak for themselves.
+Unlike 99.99% of Blockchain start-ups and Initial Coin Offerings (ICOs), the Titanium Core Team is not composed of relative newcomers to technology. In stark contrast, the Titanium Core Team has over two-hundred (200) years of combined experience. This is also not the first technology company that Titanium's Founder and CEO, Michael Stollaire, has ever formed. In 1999, Mr. Stollaire founded EHI, a technology consultancy specializing in enterprise infrastructure management.
 
-Titanium is EHI's sister company, a natural evolution of what EHI has already accomplished, and in the eyes of Founder and CEO, Michael Stollaire, should essentially be considered "EHI v2.0."
+EHI and its consultants are known in the industry as top-tier, elite personnel, as shown by their impressive <a href="http://www.ehiinsm.com/index.php/clients/">Client List</a> and Testimonials.
 
-This is a key, differentiating factor for Titanium, as EHI and Titanium can and will exist in a synergistic relationship for years to come. Of course, this means that EHI's clients would also be Titanium's clients as well.
-
-Most Blockchain start-ups and ICOs will be facing an extremely hard task after their products and/or services have been created: finding customers that are willing to buy and use them.
-
-In stark contrast, Titanium will not be making any "cold calls." Titanium will simply leverage EHI's existing clientelle.
-
-What follows is only a small example of clients that Titanium will be providing services to via Titanium's sister company status with EHI:
-<ul>
- 	<li>Accenture</li>
- 	<li>Apple</li>
- 	<li>Applied Materials</li>
- 	<li>Boeing</li>
- 	<li>Cargill</li>
- 	<li>Citizens Bank</li>
- 	<li>eBay</li>
- 	<li>Exelon</li>
- 	<li>ERCOT</li>
- 	<li>General Electric (GE)</li>
- 	<li>Hewlett-Packard Inc.</li>
- 	<li>Hewlett-Packard Enterprise</li>
- 	<li>Honeywell</li>
- 	<li>IBM</li>
- 	<li>McDonalds</li>
- 	<li>MicroFocus</li>
- 	<li>Microsoft</li>
- 	<li>Pacific Capital Bancorp</li>
- 	<li>PayPal</li>
- 	<li>Pfizer</li>
- 	<li>Santa Barbara Bank and Trust</li>
- 	<li>SAP</li>
- 	<li>Synchrony Financial</li>
- 	<li>Verizon</li>
- 	<li>The Bank of Scotland in Ireland</li>
- 	<li>The Federal Reserve</li>
- 	<li>The Royal Bank of Scotland</li>
- 	<li>The United States Treasury</li>
- 	<li>Universal Studios</li>
- 	<li>Walt Disney</li>
-</ul>
+Most Blockchain start-ups and ICOs face a very serious problem after they develop a viable product and or service: finding companies and people that will actually purchase them and use them.
 <h6 style="text-align: center;"></h6>
 [/av_textblock]
 
