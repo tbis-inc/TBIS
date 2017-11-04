@@ -51,6 +51,40 @@ Unlike 99.99% of Blockchain start-ups and Initial Coin Offerings (ICOs), the Tit
 EHI and its consultants are known in the industry as top-tier, elite personnel, as shown by their impressive <a href="http://www.ehiinsm.com/index.php/clients/">Client List</a> and <a href="https://tbis.io/wp-content/uploads/2017/11/Testimonials-2017.pdf">Testimonials</a>.
 
 Most Blockchain start-ups and ICOs face a very serious problem after they develop a viable product and or service: finding companies and people that will actually purchase them and use them.
+
+Titanium will not have this problem. As EHI’s sister company, Titanium will simply inherit EHI’s clientele, and since EHI is considered a trusted source of excellent customer service and personnel, Titanium will also be held in high regard.
+
+In the eyes and opinion of Mr. Stollaire, in fact, Titanium is an organic evolution of EHI, and should effectively be considered “EHI v2.0.”
+
+What follows is a short excerpt of some of EHI’s customers, which Titanium will leverage immediately:
+<ul>
+ 	<li>Accenture</li>
+ 	<li>Apple</li>
+ 	<li>Applied Materials</li>
+ 	<li>Boeing</li>
+ 	<li>Cargill</li>
+ 	<li>Citizens Bank</li>
+ 	<li>eBay</li>
+ 	<li>Exelon</li>
+ 	<li>ERCOT</li>
+ 	<li>General Electric</li>
+ 	<li>Hewlett-Packard</li>
+ 	<li>Honeywell</li>
+ 	<li>IBM</li>
+ 	<li>Intel</li>
+ 	<li>Microsoft</li>
+ 	<li>PayPal</li>
+ 	<li>Pfizer</li>
+ 	<li>Santa Barbara Bank and Trust</li>
+ 	<li>Synchrony Financial</li>
+ 	<li>The Bank of Scotland in Ireland</li>
+ 	<li>The Federal Reserve Bank</li>
+ 	<li>The Royal Bank of Scotland</li>
+ 	<li>com</li>
+ 	<li>Universal Studios</li>
+ 	<li>Walt Disney</li>
+</ul>
+As you can see, the Titanium project had a huge advantage over other Blockchain start-ups and ICOs, before anyone on the Titanium Team ever lifted a finger.
 <h6 style="text-align: center;"></h6>
 [/av_textblock]
 
