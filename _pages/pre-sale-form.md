@@ -31,7 +31,7 @@ Two bonus periods will be offered at the beginning of the sale to provide early-
 
 We are also offering a 5% referral bonus to those that refer other individuals to our pre-sale, who purchase a minimum of $5,000 of Titanium BAR Tokens.
 
-Total Number of Titanium BARs Initially in Circulation: 69,000,000.
+Total Number of Titanium BARs Initially in Circulation: 60,000,000.
 
 Please indicate the currency that you will be using to purchase BARs with, and we will send you instructions as to how to proceed with the transaction.
 
