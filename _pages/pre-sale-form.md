@@ -46,9 +46,13 @@ Please indicate the currency that you will be using to purchase BARs with, and w
  	<li>Fiat</li>
 </ul>
 <p style="text-align: center;"><strong>TITANIUM: The EHI Advantage</strong></p>
-Unlike 99.99% of Blockchain start-ups and Initial Coin Offerings (ICOs), the Titanium Core Team is not composed of relative newcomers to technology. In stark contrast, the Titanium Core Team has over two-hundred (200) years of combined experience. This is also not the first technology company that Titanium's Founder and CEO, Michael Stollaire, has ever formed. In 1999, Mr. Stollaire founded EHI, a technology consultancy specializing in enterprise infrastructure management.
+Unlike 99.99% of Blockchain start-ups and Initial Coin Offerings (ICOs), the Titanium Core Team is not composed of relative newcomers to technology. In stark contrast, the Titanium Core Team has over two-hundred (200) years of combined experience. This is also not the first technology company that Titanium's Founder and CEO, Michael Stollaire, has ever formed. In 1999, Mr. Stollaire founded EHI, a technology consultancy specializing in enterprise infrastructure management, which is still thriving and growing today with Michael at the helm.
 
-EHI and its consultants are known in the industry as top-tier, elite personnel, as shown by their impressive Client List and Testimonials.
+Two decades of experience taught EHI’s personnel the strengths of infrastructure-based enterprise management, but it also unveiled the weaknesses of several solutions and problems that had to be minimized at several past customers.
+
+Taking these problems and weaknesses under consideration, The EHI Team formulated a new architectural design on an entirely new bleeding-edge platform, The Ethereum Blockchain, which mitigated all of these issues. It was called Titanium, because the objective was to make our clients’ technology infrastructure stronger than steel.
+
+Also, EHI and its consultants are known in the industry as top-tier, elite personnel, as shown by their impressive Client List and Testimonials.
 
 Most Blockchain start-ups and ICOs face a very serious problem after they develop a viable product and or service: finding companies and people that will actually purchase them and use them.
 
