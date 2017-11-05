@@ -44,6 +44,46 @@ Please indicate the currency that you will be using to purchase BARs with, and w
  	<li>ZCash</li>
  	<li>Fiat</li>
 </ul>
+<p style="text-align: center;"><strong>TITANIUM: The EHI Advantage</strong></p>
+Unlike 99.99% of Blockchain start-ups and Initial Coin Offerings (ICOs), the Titanium Core Team is not composed of relative newcomers to technology. In stark contrast, the Titanium Core Team has over two-hundred (200) years of combined experience. This is also not the first technology company that Titanium's Founder and CEO, Michael Stollaire, has ever formed. In 1999, Mr. Stollaire founded EHI, a technology consultancy specializing in enterprise infrastructure management.
+
+EHI and its consultants are known in the industry as top-tier, elite personnel, as shown by their impressive Client List and Testimonials.
+
+Most Blockchain start-ups and ICOs face a very serious problem after they develop a viable product and or service: finding companies and people that will actually purchase them and use them.
+
+Titanium will not have this problem. As EHI’s sister company, Titanium will simply inherit EHI’s clientele, and since EHI is considered a trusted source of excellent customer service and personnel, Titanium will also be held in high regard.
+
+In the eyes and opinion of Mr. Stollaire, in fact, Titanium is an organic evolution of EHI, and should effectively be considered “EHI v2.0.”
+
+What follows is a short excerpt of some of EHI’s customers, which Titanium will leverage immediately:
+<ul>
+ 	<li>Accenture</li>
+ 	<li>Apple</li>
+ 	<li>Applied Materials</li>
+ 	<li>Boeing</li>
+ 	<li>Cargill</li>
+ 	<li>Citizens Bank</li>
+ 	<li>eBay</li>
+ 	<li>Exelon</li>
+ 	<li>ERCOT</li>
+ 	<li>General Electric</li>
+ 	<li>Hewlett-Packard</li>
+ 	<li>Honeywell</li>
+ 	<li>IBM</li>
+ 	<li>Intel</li>
+ 	<li>Microsoft</li>
+ 	<li>PayPal</li>
+ 	<li>Pfizer</li>
+ 	<li>Santa Barbara Bank and Trust</li>
+ 	<li>Synchrony Financial</li>
+ 	<li>The Bank of Scotland in Ireland</li>
+ 	<li>The Federal Reserve Bank</li>
+ 	<li>The Royal Bank of Scotland</li>
+ 	<li>com</li>
+ 	<li>Universal Studios</li>
+ 	<li>Walt Disney</li>
+</ul>
+<strong><em>As you can see, the Titanium project had a huge advantage over other Blockchain start-ups and ICOs, before anyone on the Titanium Team ever lifted a finger.</em></strong>
 [/av_textblock]
 
 [/av_one_half][av_one_fourth min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display=''][/av_one_fourth]
