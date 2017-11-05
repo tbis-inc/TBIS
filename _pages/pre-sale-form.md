@@ -26,7 +26,7 @@ post_date: 2017-10-18 23:43:52
 
 [av_textblock size='' font_color='' color='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
 <p style="text-align: center;"><strong>The Titanium BAR Token Pre-Sale</strong></p>
-Before the December 1, 2017 BAR token crowdfunding sale begins, a pre-sale period of approximately one-month will transpire. During that time, participants that are willing to complete an advance purchase of a minimum of $5,000 in BAR tokens will receive a 20% bonus. This would equate roughly to 360 BAR for 1 ETH. Therefore, an initial purchase of $5,000 would equate to 6,000 BARs.
+Before the January 1, 2018 BAR token crowdfunding sale begins, a pre-sale period of approximately one-month will transpire. During that time, participants that are willing to complete an advance purchase of a minimum of $5,000 in BAR tokens will receive a 20% bonus. This would equate roughly to 360 BAR for 1 ETH. Therefore, an initial purchase of $5,000 would equate to 6,000 BARs.
 
 Three (3) bonus periods will be offered at the beginning of the sale to provide early bird contributors a small incentive. During the first 24 hours of the funding period, the exchange rate will be 345 BAR for 1 ETH, a 15% bonus. For the 48 hours after that, the exchange rate will be 330 BAR for 1 ETH, a 10% bonus.  For the 48 hours after that, the exchange rate will be 315 BAR for 1 ETH, a 5% bonus. After the early bird periods, the price of BAR will remain at 300 BAR for 1 ETH for the rest of the sale.
 
