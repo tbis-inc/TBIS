@@ -84,8 +84,9 @@ What follows is a short excerpt of some of EHI’s customers, which Titanium wil
  	<li>The Bank of Scotland in Ireland</li>
  	<li>The Federal Reserve Bank</li>
  	<li>The Royal Bank of Scotland</li>
- 	<li>com</li>
+ 	<li>TrueCar.com</li>
  	<li>Universal Studios</li>
+ 	<li>Verizon</li>
  	<li>Walt Disney</li>
 </ul>
 <strong><em>As you can see, the Titanium project had a huge advantage over other Blockchain start-ups and ICOs, before anyone on the Titanium Team ever lifted a finger.</em></strong>
