@@ -371,7 +371,7 @@ Soon, the TBIS token (BAR) will be sold. As part of this sale, a fixed pool of B
 <h3><img class="aligncenter wp-image-455 size-square" src="https://tbis.io/wp-content/uploads/2017/11/Ritchey-Mulhollem2-180x180.png" alt="" width="180" height="180" /></h3>
 <h3 class="team-member-name" style="text-align: center;">Ritchey Mulhollem</h3>
 <div class="team-member-job-title " style="text-align: center;">Ethereum Developer</div>
-<div><a href="#"><img class="aligncenter wp-image-360 size-full" src="https://tbis.io/wp-content/uploads/2015/05/linkedin2.png" alt="" width="48" height="48" /></a></div>
+<div><a href="https://www.linkedin.com/in/michaelstollaire"><img class="aligncenter wp-image-360 size-full" src="https://tbis.io/wp-content/uploads/2015/05/linkedin2.png" alt="" width="48" height="48" /></a></div>
 [/av_textblock]
 
 [/av_one_third][av_one_third min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
