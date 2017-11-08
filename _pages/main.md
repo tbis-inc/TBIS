@@ -510,7 +510,7 @@ Soon, the TBIS token (BAR) will be sold. As part of this sale, a fixed pool of B
 
 [av_textblock size='10' font_color='' color='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
 <p style="text-align: center;"><a href="http://www.dnb.com/duns-number/lookup.html"><img class="alignnone wp-image-320 size-full" style="margin-top: 10px; margin-left: 20px;" src="https://tbis.io/wp-content/uploads/2017/10/DB_logo.png" alt="" width="365" height="85" /></a></p>
-<p style="text-align: center;">D&amp;B Number: 080926636</p>
+<p style="text-align: center;">D&amp;B Number: <a href="http://www.dnb.com/duns-number/lookup.html">080926636</a></p>
 [mpf_popup_form_html id="303" ]
 [/av_textblock]
 
