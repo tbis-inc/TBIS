@@ -328,7 +328,7 @@ Soon, the TBIS token (BAR) will be sold. As part of this sale, a fixed pool of B
 
 [av_textblock size='' font_color='' color='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
 <h3><img class="aligncenter wp-image-331 size-square" src="https://tbis.io/wp-content/uploads/2015/05/Nilo-Ampunen-180x180.png" alt="" width="180" height="180" /></h3>
-<h3 class="team-member-name" style="text-align: center;">Nilo Ampunen</h3>
+<h3 class="team-member-name" style="text-align: center;">Nilo Ampunan</h3>
 <div class="team-member-job-title " style="text-align: center;">Senior Enterprise Management Specialist</div>
 <div><a href="https://www.linkedin.com/in/nilo-ampunan-3864652/"><img class="aligncenter wp-image-360 size-full" src="https://tbis.io/wp-content/uploads/2015/05/linkedin2.png" alt="" width="48" height="48" /></a></div>
 [/av_textblock]
