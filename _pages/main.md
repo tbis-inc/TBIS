@@ -268,6 +268,7 @@ Soon, the TBIS token (BAR) will be sold. As part of this sale, a fixed pool of B
 [/av_section]
 
 [av_section min_height='custom' min_height_px='550' padding='default' shadow='no-shadow' bottom_border='no-border-styling' bottom_border_diagonal_color='#333333' bottom_border_diagonal_direction='' bottom_border_style='' id='#team' color='main_color' custom_bg='#3c4374' src='' attachment='' attachment_size='' attach='scroll' position='top left' repeat='no-repeat' video='' video_ratio='16:9' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='' av_element_hidden_in_editor='0']
+
 [av_hr class='invisible' height='80' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' font='entypo-fontello' admin_preview_bg='']
 
 [av_heading tag='h3' padding='10' heading='Our Team' color='custom-color-heading' style='blockquote modern-quote modern-centered' custom_font='#ffffff' size='60' subheading_active='' subheading_size='15' custom_class='' admin_preview_bg='' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size=''][/av_heading]
@@ -309,7 +310,7 @@ Soon, the TBIS token (BAR) will be sold. As part of this sale, a fixed pool of B
 <h3><img class="wp-image-328 size-square aligncenter" src="https://tbis.io/wp-content/uploads/2015/05/Vincent-Fullerton-180x180.png" alt="" width="180" height="180" /></h3>
 <h3 class="team-member-name" style="text-align: center;">Vincent Fullerton</h3>
 <div class="team-member-job-title " style="text-align: center;">Technical Advisor</div>
-<div class="team-member-job-title " style="text-align: center;">(NEM Core Team Member)</div>
+<div class="team-member-job-title " style="text-align: center;">(Pura Core Team &amp; NEM Developer)</div>
 <div><a href="https://www.linkedin.com/in/vincent-fullerton-4901669/"><img class="aligncenter wp-image-360 size-full" src="https://tbis.io/wp-content/uploads/2015/05/linkedin2.png" alt="" width="48" height="48" /></a></div>
 [/av_textblock]
 
@@ -450,10 +451,8 @@ Soon, the TBIS token (BAR) will be sold. As part of this sale, a fixed pool of B
 [/av_textblock]
 
 [/av_one_third][av_hr class='invisible' height='80' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' font='entypo-fontello' admin_preview_bg='']
-[/av_section]
 
-[av_section min_height='custom' min_height_px='550' padding='default' shadow='no-shadow' bottom_border='no-border-styling' bottom_border_diagonal_color='#333333' bottom_border_diagonal_direction='' bottom_border_style='' id='' color='main_color' custom_bg='' src='' attachment='' attachment_size='' attach='scroll' position='top left' repeat='no-repeat' video='' video_ratio='16:9' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='' av_element_hidden_in_editor='0']
-
+[/av_section][av_section min_height='custom' min_height_px='550' padding='default' shadow='no-shadow' bottom_border='no-border-styling' bottom_border_diagonal_color='#333333' bottom_border_diagonal_direction='' bottom_border_style='' id='' color='main_color' custom_bg='' src='' attachment='' attachment_size='' attach='scroll' position='top left' repeat='no-repeat' video='' video_ratio='16:9' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='' av_element_hidden_in_editor='0']
 [av_heading tag='h3' padding='10' heading='Accredited &amp; Trusted By' color='custom-color-heading' style='blockquote modern-quote modern-centered' custom_font='#ffffff' size='60' subheading_active='' subheading_size='15' custom_class='' admin_preview_bg='' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size=''][/av_heading]
 
 [av_hr class='invisible' height='80' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' font='entypo-fontello' admin_preview_bg='']
@@ -470,7 +469,10 @@ Soon, the TBIS token (BAR) will be sold. As part of this sale, a fixed pool of B
 
 [av_hr class='invisible' height='40' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' font='entypo-fontello' admin_preview_bg='']
 
-[/av_one_half][/av_section][av_section min_height='' min_height_px='500px' padding='huge' shadow='no-border-styling' bottom_border='no-border-styling' bottom_border_diagonal_color='#333333' bottom_border_diagonal_direction='' bottom_border_style='' id='contact' color='main_color' custom_bg='' src='https://tbis.io/wp-content/uploads/2015/05/section-bg2.jpg' attachment='257' attachment_size='full' attach='fixed' position='center center' repeat='stretch' video='' video_ratio='16:9' overlay_enable='aviaTBoverlay_enable' overlay_opacity='0.5' overlay_color='#000000' overlay_pattern='' overlay_custom_pattern='' av_element_hidden_in_editor='0']
+[/av_one_half]
+[/av_section]
+
+[av_section min_height='' min_height_px='500px' padding='huge' shadow='no-border-styling' bottom_border='no-border-styling' bottom_border_diagonal_color='#333333' bottom_border_diagonal_direction='' bottom_border_style='' id='contact' color='main_color' custom_bg='' src='https://tbis.io/wp-content/uploads/2015/05/section-bg2.jpg' attachment='257' attachment_size='full' attach='fixed' position='center center' repeat='stretch' video='' video_ratio='16:9' overlay_enable='aviaTBoverlay_enable' overlay_opacity='0.5' overlay_color='#000000' overlay_pattern='' overlay_custom_pattern='' av_element_hidden_in_editor='0']
 [av_one_fifth first]
 
 [/av_one_fifth][av_three_fifth space='' padding='50px' padding_sync='true' border='' border_color='' radius='3px' radius_sync='true' background_color='rgba(255,255,255,0.15)' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat']
