@@ -61,7 +61,6 @@ What follows is a short excerpt of some of EHI’s customers, which Titanium wil
 [av_hr class='invisible' height='40' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='150px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='#515a8f' icon='ue8bf' font='entypo-fontello' admin_preview_bg='']
 
 [av_partner columns='4' heading='' size='no scaling' border='av-border-deactivate' type='slider' animation='fade' navigation='dots' autoplay='true' interval='3']
-[av_partner_logo id='468' hover='' link='' linktitle='' link_target='']
 [av_partner_logo id='472' hover='' link='' linktitle='' link_target='']
 [av_partner_logo id='473' hover='' link='' linktitle='' link_target='']
 [av_partner_logo id='475' hover='' link='' linktitle='' link_target='']
@@ -71,7 +70,7 @@ What follows is a short excerpt of some of EHI’s customers, which Titanium wil
 [av_partner_logo id='481' hover='' link='' linktitle='' link_target='']
 [av_partner_logo id='479' hover='' link='' linktitle='' link_target='']
 [av_partner_logo id='483' hover='' link='' linktitle='' link_target='']
-[av_partner_logo id='469' hover='' link='' linktitle='' link_target='']
+[av_partner_logo id='490' hover='' link='' linktitle='' link_target='']
 [av_partner_logo id='484' hover='' link='' linktitle='' link_target='']
 [av_partner_logo id='470' hover='' link='' linktitle='' link_target='']
 [av_partner_logo id='474' hover='' link='' linktitle='' link_target='']
@@ -81,6 +80,11 @@ What follows is a short excerpt of some of EHI’s customers, which Titanium wil
 [av_partner_logo id='477' hover='' link='' linktitle='' link_target='']
 [av_partner_logo id='487' hover='' link='' linktitle='' link_target='']
 [av_partner_logo id='488' hover='' link='' linktitle='' link_target='']
+[av_partner_logo id='491' hover='' link='' linktitle='' link_target='']
+[av_partner_logo id='468' hover='' link='' linktitle='' link_target='']
+[av_partner_logo id='492' hover='' link='' linktitle='' link_target='']
+[av_partner_logo id='493' hover='' link='' linktitle='' link_target='']
+[av_partner_logo id='494' hover='' link='' linktitle='' link_target='']
 [/av_partner]
 
 [av_hr class='invisible' height='40' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='150px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='#515a8f' icon='ue8bf' font='entypo-fontello' admin_preview_bg='']
