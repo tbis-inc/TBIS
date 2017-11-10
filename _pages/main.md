@@ -58,6 +58,8 @@ What follows is a short excerpt of some of EHI’s customers, which Titanium wil
 <h6 style="text-align: center;"></h6>
 [/av_textblock]
 
+[av_hr class='invisible' height='40' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='150px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='#515a8f' icon='ue8bf' font='entypo-fontello' admin_preview_bg='']
+
 [av_partner columns='4' heading='' size='no scaling' border='av-border-deactivate' type='slider' animation='fade' navigation='dots' autoplay='true' interval='3']
 [av_partner_logo id='468' hover='' link='' linktitle='' link_target='']
 [av_partner_logo id='472' hover='' link='' linktitle='' link_target='']
@@ -80,6 +82,8 @@ What follows is a short excerpt of some of EHI’s customers, which Titanium wil
 [av_partner_logo id='487' hover='' link='' linktitle='' link_target='']
 [av_partner_logo id='488' hover='' link='' linktitle='' link_target='']
 [/av_partner]
+
+[av_hr class='invisible' height='40' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='150px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='#515a8f' icon='ue8bf' font='entypo-fontello' admin_preview_bg='']
 
 [av_textblock size='' font_color='' color='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
 <strong><em>As you can see, the Titanium project had a huge advantage over other Blockchain start-ups and ICOs, before anyone on the Titanium Team ever lifted a finger.</em></strong>
