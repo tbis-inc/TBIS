@@ -23,6 +23,7 @@ post_date: 2017-10-18 23:43:52
 [av_one_fourth first min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display=''][/av_one_fourth]
 
 [av_one_half min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
+
 [av_textblock size='' font_color='' color='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
 <p style="text-align: center;"><strong>The Titanium BAR Token Pre-Sale</strong></p>
 Before the January 1, 2018 BAR token crowdfunding sale begins, a pre-sale period of approximately one-month will transpire. During that time, participants that are willing to complete an advance purchase of a minimum of $5,000 in BAR tokens will receive a 20% bonus. This would equate roughly to 360 BAR for 1 ETH. Therefore, an initial purchase of $5,000 would equate to 6,000 BARs.
@@ -59,45 +60,41 @@ Titanium will not have this problem. As EHI’s sister company, Titanium will si
 
 In the eyes and opinion of Mr. Stollaire, in fact, Titanium is an organic evolution of EHI, and should effectively be considered “EHI v2.0.”
 
-What follows is a short excerpt of some of EHI’s customers, which Titanium will leverage immediately:
-<ul>
- 	<li>Accenture</li>
- 	<li>Apple</li>
- 	<li>Applied Materials</li>
- 	<li>Boeing</li>
- 	<li>Cargill</li>
- 	<li>Citizens Bank</li>
- 	<li>eBay</li>
- 	<li>Exelon</li>
- 	<li>ERCOT</li>
- 	<li>General Electric</li>
- 	<li>Hewlett-Packard</li>
- 	<li>Honeywell</li>
- 	<li>IBM</li>
- 	<li>Intel</li>
- 	<li>Microsoft</li>
- 	<li>PayPal</li>
- 	<li>Pfizer</li>
- 	<li>Santa Barbara Bank and Trust</li>
- 	<li>Synchrony Financial</li>
- 	<li>The Bank of Scotland in Ireland</li>
- 	<li>The Federal Reserve Bank</li>
- 	<li>The Royal Bank of Scotland</li>
- 	<li>TrueCar.com</li>
- 	<li>Universal Studios</li>
- 	<li>Verizon</li>
- 	<li>Walt Disney</li>
-</ul>
 <strong><em>As you can see, the Titanium project had a huge advantage over other Blockchain start-ups and ICOs, before anyone on the Titanium Team ever lifted a finger.</em></strong>
-[/av_textblock]
-[/av_one_half]
 
-[av_one_fourth min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display=''][/av_one_fourth]
+What follows is a short excerpt of some of EHI’s customers, which Titanium will leverage immediately:
+[/av_textblock]
+
+[/av_one_half][av_partner columns='3' heading='' size='no scaling' border='' type='slider' animation='slide' navigation='arrows' autoplay='false' interval='5']
+[av_partner_logo id='494'][/av_partner_logo]
+[av_partner_logo id='481'][/av_partner_logo]
+[av_partner_logo id='470'][/av_partner_logo]
+[av_partner_logo id='468'][/av_partner_logo]
+[av_partner_logo id='479'][/av_partner_logo]
+[av_partner_logo id='492'][/av_partner_logo]
+[av_partner_logo id='493'][/av_partner_logo]
+[av_partner_logo id='480'][/av_partner_logo]
+[av_partner_logo id='478'][/av_partner_logo]
+[av_partner_logo id='491'][/av_partner_logo]
+[av_partner_logo id='477'][/av_partner_logo]
+[av_partner_logo id='476'][/av_partner_logo]
+[av_partner_logo id='489'][/av_partner_logo]
+[av_partner_logo id='488'][/av_partner_logo]
+[av_partner_logo id='474'][/av_partner_logo]
+[av_partner_logo id='475'][/av_partner_logo]
+[av_partner_logo id='486'][/av_partner_logo]
+[av_partner_logo id='487'][/av_partner_logo]
+[av_partner_logo id='473'][/av_partner_logo]
+[av_partner_logo id='472'][/av_partner_logo]
+[av_partner_logo id='484'][/av_partner_logo]
+[av_partner_logo id='482'][/av_partner_logo]
+[av_partner_logo id='471'][/av_partner_logo]
+[av_partner_logo id='483'][/av_partner_logo]
+[/av_partner]
 
 [av_one_fourth first min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display=''][/av_one_fourth]
 
 [av_one_half min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
-
 [av_contact email='michael.stollaire@tbis.io' title='Titanium ICO Pre-Sale Form' button='Submit' on_send='' sent='You Have Successfully Joined The Titanium Revolution!' link='manually,http://' subject='TITANIUM ICO PRE-SALE: Titanium BAR Token Purchase Instructions' autorespond='' captcha='' form_align='' color='' admin_preview_bg='']
 [av_contact_field label='Name' type='text' check='is_empty' options='' multi_select='' av_contact_preselect='' width=''][/av_contact_field]
 [av_contact_field label='E-Mail' type='text' check='is_email' options='' multi_select='' av_contact_preselect='' width=''][/av_contact_field]
@@ -105,5 +102,8 @@ What follows is a short excerpt of some of EHI’s customers, which Titanium wil
 [av_contact_field label='Subject' type='text' check='is_empty' options='' multi_select='' av_contact_preselect='' width=''][/av_contact_field]
 [av_contact_field label='Message' type='textarea' check='is_empty' options='' multi_select='' av_contact_preselect='' width=''][/av_contact_field]
 [/av_contact]
+[/av_one_half]
 
-[/av_one_half][av_one_fourth min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display=''][/av_one_fourth]
+[av_one_fourth min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display=''][/av_one_fourth]
+
+[av_one_fourth first min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display=''][/av_one_fourth]
