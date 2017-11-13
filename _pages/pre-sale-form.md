@@ -20,9 +20,7 @@ post_date: 2017-10-18 23:43:52
 
 [av_hr class='invisible' height='50' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' font='entypo-fontello' admin_preview_bg='']
 
-[av_one_fourth first min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display=''][/av_one_fourth]
-
-[av_one_half min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
+[av_one_full first min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
 
 [av_textblock size='' font_color='' color='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
 <p style="text-align: center;"><strong>The Titanium BAR Token Pre-Sale</strong></p>
@@ -65,32 +63,36 @@ In the eyes and opinion of Mr. Stollaire, in fact, Titanium is an organic evolut
 What follows is a short excerpt of some of EHI’s customers, which Titanium will leverage immediately:
 [/av_textblock]
 
-[/av_one_half][av_partner columns='3' heading='' size='no scaling' border='' type='slider' animation='slide' navigation='arrows' autoplay='false' interval='5']
-[av_partner_logo id='494'][/av_partner_logo]
-[av_partner_logo id='481'][/av_partner_logo]
-[av_partner_logo id='470'][/av_partner_logo]
-[av_partner_logo id='468'][/av_partner_logo]
-[av_partner_logo id='479'][/av_partner_logo]
-[av_partner_logo id='492'][/av_partner_logo]
-[av_partner_logo id='493'][/av_partner_logo]
-[av_partner_logo id='480'][/av_partner_logo]
-[av_partner_logo id='478'][/av_partner_logo]
-[av_partner_logo id='491'][/av_partner_logo]
-[av_partner_logo id='477'][/av_partner_logo]
-[av_partner_logo id='476'][/av_partner_logo]
-[av_partner_logo id='489'][/av_partner_logo]
-[av_partner_logo id='488'][/av_partner_logo]
-[av_partner_logo id='474'][/av_partner_logo]
-[av_partner_logo id='475'][/av_partner_logo]
-[av_partner_logo id='486'][/av_partner_logo]
-[av_partner_logo id='487'][/av_partner_logo]
-[av_partner_logo id='473'][/av_partner_logo]
-[av_partner_logo id='472'][/av_partner_logo]
-[av_partner_logo id='484'][/av_partner_logo]
-[av_partner_logo id='482'][/av_partner_logo]
-[av_partner_logo id='471'][/av_partner_logo]
-[av_partner_logo id='483'][/av_partner_logo]
+[/av_one_full][av_hr class='invisible' height='50' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' font='entypo-fontello' admin_preview_bg='']
+
+[av_partner columns='4' heading='' size='no scaling' border='av-border-deactivate' type='slider' animation='fade' navigation='dots' autoplay='true' interval='4']
+[av_partner_logo id='494' hover='' link='' linktitle='' link_target='']
+[av_partner_logo id='481' hover='' link='' linktitle='' link_target='']
+[av_partner_logo id='470' hover='' link='' linktitle='' link_target='']
+[av_partner_logo id='468' hover='' link='' linktitle='' link_target='']
+[av_partner_logo id='479' hover='' link='' linktitle='' link_target='']
+[av_partner_logo id='492' hover='' link='' linktitle='' link_target='']
+[av_partner_logo id='493' hover='' link='' linktitle='' link_target='']
+[av_partner_logo id='480' hover='' link='' linktitle='' link_target='']
+[av_partner_logo id='484' hover='' link='' linktitle='' link_target='']
+[av_partner_logo id='491' hover='' link='' linktitle='' link_target='']
+[av_partner_logo id='477' hover='' link='' linktitle='' link_target='']
+[av_partner_logo id='476' hover='' link='' linktitle='' link_target='']
+[av_partner_logo id='489' hover='' link='' linktitle='' link_target='']
+[av_partner_logo id='488' hover='' link='' linktitle='' link_target='']
+[av_partner_logo id='474' hover='' link='' linktitle='' link_target='']
+[av_partner_logo id='475' hover='' link='' linktitle='' link_target='']
+[av_partner_logo id='486' hover='' link='' linktitle='' link_target='']
+[av_partner_logo id='487' hover='' link='' linktitle='' link_target='']
+[av_partner_logo id='473' hover='' link='' linktitle='' link_target='']
+[av_partner_logo id='472' hover='' link='' linktitle='' link_target='']
+[av_partner_logo id='484' hover='' link='' linktitle='' link_target='']
+[av_partner_logo id='482' hover='' link='' linktitle='' link_target='']
+[av_partner_logo id='471' hover='' link='' linktitle='' link_target='']
+[av_partner_logo id='483' hover='' link='' linktitle='' link_target='']
 [/av_partner]
+
+[av_hr class='invisible' height='50' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' font='entypo-fontello' admin_preview_bg='']
 
 [av_one_fourth first min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display=''][/av_one_fourth]
 
@@ -105,5 +107,3 @@ What follows is a short excerpt of some of EHI’s customers, which Titanium wil
 [/av_one_half]
 
 [av_one_fourth min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display=''][/av_one_fourth]
-
-[av_one_fourth first min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display=''][/av_one_fourth]
