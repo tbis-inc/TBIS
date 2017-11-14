@@ -34,7 +34,7 @@ Total Number of Titanium BARs Initially in Circulation: 60,000,000.
 
 Soft Cap: 1,000,000
 
-Hard Cap: 100,000,000
+Hard Cap: 35,000,000
 
 The pre-sale ends on December 31, 2017.
 
