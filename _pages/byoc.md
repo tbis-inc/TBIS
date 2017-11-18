@@ -4,8 +4,7 @@ post_title: 'Titanium&#8217;s Bring Your Own Cloud (BYOC)™ ~ Product Details'
 author: Michael Stolliare
 post_excerpt: ""
 layout: page
-permalink: >
-  http://tbis.io/titaniums-bring-your-own-cloud-byoc-product-details/
+permalink: http://tbis.io/byoc/
 published: true
 post_date: 2017-11-18 02:03:41
 ---
