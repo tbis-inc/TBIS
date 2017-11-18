@@ -277,9 +277,9 @@ of the $1,000,000 Initial Coin Offering (ICO) Soft Cap
 [/av_one_fourth][av_one_fourth min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
 
 [av_textblock size='' font_color='' color='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
-<img class="aligncenter size-square wp-image-256" src="https://tbis.io/wp-content/uploads/2015/05/currency-icon-180x180.png" alt="" width="180" height="180" />
+<a href="https://tbis.io/dexchange"><img class="aligncenter wp-image-256 size-square" src="https://tbis.io/wp-content/uploads/2015/05/currency-icon-180x180.png" alt="" width="180" height="180" /></a>
 <p style="text-align: center;"><strong>DEXchange™</strong></p>
-<p style="text-align: center;">Trade cryptocurrencies with other users on an entirely decentralized exchange (DEX). The top one-hundred (100) cryptocurrencies (or more) will be listed initially, along with the top twenty (20) fiat currencies globally.</p>
+<p style="text-align: center;">Trade cryptocurrencies with other users on an entirely decentralized exchange (DEX). The top two-hundred (200) cryptocurrencies will be listed initially, along with the top twenty (20) fiat currency pairs globally.</p>
 [/av_textblock]
 
 [/av_one_fourth][av_hr class='invisible' height='30' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='150px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='#cf1b15' icon='ue806' font='entypo-fontello' admin_preview_bg='']
