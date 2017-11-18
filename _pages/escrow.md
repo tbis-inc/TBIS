@@ -4,8 +4,7 @@ post_title: 'Titanium&#8217;s CryptoEscrow™ ~ Product Details'
 author: Michael Stolliare
 post_excerpt: ""
 layout: page
-permalink: >
-  http://tbis.io/titaniums-cryptoescrow-product-details/
+permalink: http://tbis.io/escrow/
 published: true
 post_date: 2017-11-18 02:09:59
 ---
