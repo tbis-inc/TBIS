@@ -253,7 +253,7 @@ of the $1,000,000 Initial Coin Offering (ICO) Soft Cap
 [av_one_fourth first min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
 
 [av_textblock size='' font_color='' color='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
-<img class="aligncenter size-square wp-image-253" src="https://tbis.io/wp-content/uploads/2015/05/byoc-icon-180x180.png" alt="" width="180" height="180" />
+<a href="https://tbis.io/byoc"><img class="aligncenter wp-image-253 size-square" src="https://tbis.io/wp-content/uploads/2015/05/byoc-icon-180x180.png" alt="" width="180" height="180" /></a>
 <p style="text-align: center;"><strong>Bring Your Own Cloud™ (BYOC)</strong></p>
 <p style="text-align: center;">The Titanium Bring Your Own Cloud will allow you to create a truly private computing environment by leveraging a cryptographically secure device-based context to provide total privacy. .</p>
 [/av_textblock]
