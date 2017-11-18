@@ -269,7 +269,7 @@ of the $1,000,000 Initial Coin Offering (ICO) Soft Cap
 [/av_one_fourth][av_one_fourth min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
 
 [av_textblock size='' font_color='' color='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
-<a href="https://tbis.io/cryptoescrow"><img class="aligncenter wp-image-255 size-square" src="https://tbis.io/wp-content/uploads/2015/05/contract-icon-180x180.png" alt="" width="180" height="180" /></a>
+<a href="https://tbis.io/cryptoescrow/"><img class="aligncenter wp-image-255 size-square" src="https://tbis.io/wp-content/uploads/2015/05/contract-icon-180x180.png" alt="" width="180" height="180" /></a>
 <p style="text-align: center;"><strong>CryptoEscrow™</strong></p>
 <p style="text-align: center;">Leveraging the power of Ethereum smart contracts to facilitate Peer-to-Peer sales on the blockchain using any of the top-100 cryptocurrencies using TBIS Atomic Swaps.</p>
 [/av_textblock]
