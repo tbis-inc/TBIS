@@ -45,6 +45,7 @@ Please indicate the currency that you will be using to purchase BARs with, and w
  	<li>Verge</li>
  	<li>Bitcoin</li>
  	<li>Ethereum</li>
+ 	<li>Litecoin</li>
  	<li>Monero</li>
  	<li>ZCash</li>
  	<li>Fiat</li>
