@@ -330,7 +330,7 @@ of the $1,000,000 Initial Coin Offering (ICO) Soft Cap
 <p style="text-align: center;">If you are looking for more information, or want to learn how TBIS can help you, please reach out and get in touch today.</p>
 [/av_textblock]
 
-[av_contact email='michael.stollaire@tbis.io' title='' button='Send' on_send='' sent='Thanks a lot, your message has been sent!' link='manually,http://' subject='TITANIUM CONTACT: Main Page Form' autorespond='' captcha='' form_align='centered' color='av-custom-form-color av-light-form' admin_preview_bg='']
+[av_contact email='michael.stollaire@tbis.io' title='' button='Send' on_send='' sent='You are one step closer to joining the revolution!' link='manually,http://' subject='TITANIUM CONTACT: Main Page Form' autorespond='' captcha='' form_align='centered' color='av-custom-form-color av-light-form' admin_preview_bg='']
 [av_contact_field label='Your Name' type='text' options='' check='is_empty' width='element_half' multi_select='' av_contact_preselect=''][/av_contact_field]
 [av_contact_field label='Your E-Mail' type='text' options='' check='is_email' width='element_half' multi_select='' av_contact_preselect=''][/av_contact_field]
 [av_contact_field label='Message' type='textarea' options='' check='is_empty' width='' multi_select='' av_contact_preselect=''][/av_contact_field]
