@@ -21,13 +21,16 @@ post_date: 2017-10-18 23:43:52
 [av_hr class='invisible' height='50' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' font='entypo-fontello' admin_preview_bg='']
 
 [av_one_full first min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
+
 [av_textblock size='' font_color='' color='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
 <p style="text-align: center;"><strong>The Titanium BAR Token Pre-Sale</strong></p>
 Before the January 1, 2018 BAR token crowdfunding sale begins, a pre-sale period of approximately one-month will transpire. During that time, participants that are willing to complete an advance purchase of a minimum of $1,000 in BAR tokens will receive a 20% bonus. This would equate roughly to 360 BAR for 1 ETH. Therefore, an initial purchase of $1,000 would equate to 1,200 BARs.
 
-Three (3) bonus periods will be offered at the beginning of the sale to provide early bird contributors a small incentive. During the first 24 hours of the funding period, the exchange rate will be 345 BAR for 1 ETH, a 15% bonus. For the 48 hours after that, the exchange rate will be 330 BAR for 1 ETH, a 10% bonus.  For the 48 hours after that, the exchange rate will be 315 BAR for 1 ETH, a 5% bonus. After the early bird periods, the price of BAR will remain at 300 BAR for 1 ETH for the rest of the sale.
+Larger pre-sale purchases will be entitled to higher bonus percentages. Please contact us, letting us know how many Titanium BAR Tokens you are interested in purchasing and we will negotiate your bonus percentage, on a case-by-case basis.
 
-We are also offering a 5% referral bonus to those that refer other individuals to our pre-sale, who purchase a minimum of $1,000 of Titanium BAR Tokens.
+Three (3) bonus periods will be offered at the beginning of the sale to provide early bird contributors a small incentive. During the first 24 hours of the funding period, the exchange rate will be 345 BAR for 1 ETH, a 15% bonus. For the 48 hours after that, the exchange rate will be 330 BAR for 1 ETH, a 10% bonus.  For the 48 hours after that, the exchange rate will be 315 BAR for 1 ETH, a 5% bonus. After the early bird periods, the price of BAR will remain at 300 BAR for 1 ETH for the rest of the sale. Please note that these numbers are based on a price of $300 for 1 ETH, and will fluctuate, based on the current price of Ethereum.
+
+We are also offering a 5% referral bonus to those that refer other individuals to our pre-sale, who purchase a minimum of $1,000 of Titanium BAR Tokens. Of course, larger referral bonuses can and will be negotiated for larger purchases. Please contact us to get more information.
 
 Total Number of Titanium BARs Initially Minted: 60,000,000.
 
@@ -68,9 +71,8 @@ In the eyes and opinion of Mr. Stollaire, in fact, Titanium is an organic evolut
 
 What follows is a short excerpt of some of EHI’s customers, which Titanium will leverage immediately:
 [/av_textblock]
-[/av_one_full]
 
-[av_hr class='invisible' height='50' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' font='entypo-fontello' admin_preview_bg='']
+[/av_one_full][av_hr class='invisible' height='50' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' font='entypo-fontello' admin_preview_bg='']
 
 [av_partner columns='4' heading='' size='no scaling' border='av-border-deactivate' type='slider' animation='fade' navigation='dots' autoplay='true' interval='4']
 [av_partner_logo id='494' hover='' link='' linktitle='' link_target='']
@@ -104,7 +106,6 @@ What follows is a short excerpt of some of EHI’s customers, which Titanium wil
 [av_one_fourth first min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display=''][/av_one_fourth]
 
 [av_one_half min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
-
 [av_contact email='michael.stollaire@tbis.io' title='Titanium ICO Pre-Sale Form' button='Submit' on_send='' sent='You Have Successfully Joined The Titanium Revolution!' link='manually,http://' subject='TITANIUM ICO PRE-SALE: Titanium BAR Token Purchase Instructions' autorespond='' captcha='active' form_align='' color='' admin_preview_bg='']
 [av_contact_field label='Name' type='text' check='is_empty' options='' multi_select='' av_contact_preselect='' width=''][/av_contact_field]
 [av_contact_field label='E-Mail' type='text' check='is_email' options='' multi_select='' av_contact_preselect='' width=''][/av_contact_field]
@@ -112,5 +113,6 @@ What follows is a short excerpt of some of EHI’s customers, which Titanium wil
 [av_contact_field label='Subject' type='text' check='is_empty' options='' multi_select='' av_contact_preselect='' width=''][/av_contact_field]
 [av_contact_field label='Message' type='textarea' check='is_empty' options='' multi_select='' av_contact_preselect='' width=''][/av_contact_field]
 [/av_contact]
+[/av_one_half]
 
-[/av_one_half][av_one_fourth min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display=''][/av_one_fourth]
+[av_one_fourth min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display=''][/av_one_fourth]
