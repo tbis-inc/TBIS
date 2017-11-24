@@ -21,7 +21,6 @@ post_date: 2017-10-18 23:43:52
 [av_hr class='invisible' height='50' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' font='entypo-fontello' admin_preview_bg='']
 
 [av_one_full first min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
-
 [av_textblock size='' font_color='' color='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
 <p style="text-align: center;"><strong>The Titanium BAR Token Pre-Sale</strong></p>
 Before the January 1, 2018 BAR token crowdfunding sale begins, a pre-sale period of approximately one-month will transpire. During that time, participants that are willing to complete an advance purchase of a minimum of $1,000 in BAR tokens will receive a 20% bonus. This would equate roughly to 360 BAR for 1 ETH. Therefore, an initial purchase of $1,000 would equate to 1,200 BARs.
@@ -69,8 +68,9 @@ In the eyes and opinion of Mr. Stollaire, in fact, Titanium is an organic evolut
 
 What follows is a short excerpt of some of EHI’s customers, which Titanium will leverage immediately:
 [/av_textblock]
+[/av_one_full]
 
-[/av_one_full][av_hr class='invisible' height='50' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' font='entypo-fontello' admin_preview_bg='']
+[av_hr class='invisible' height='50' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' font='entypo-fontello' admin_preview_bg='']
 
 [av_partner columns='4' heading='' size='no scaling' border='av-border-deactivate' type='slider' animation='fade' navigation='dots' autoplay='true' interval='4']
 [av_partner_logo id='494' hover='' link='' linktitle='' link_target='']
@@ -104,13 +104,13 @@ What follows is a short excerpt of some of EHI’s customers, which Titanium wil
 [av_one_fourth first min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display=''][/av_one_fourth]
 
 [av_one_half min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
-[av_contact email='michael.stollaire@tbis.io' title='Titanium ICO Pre-Sale Form' button='Submit' on_send='' sent='You Have Successfully Joined The Titanium Revolution!' link='manually,http://' subject='TITANIUM ICO PRE-SALE: Titanium BAR Token Purchase Instructions' autorespond='' captcha='' form_align='' color='' admin_preview_bg='']
+
+[av_contact email='michael.stollaire@tbis.io' title='Titanium ICO Pre-Sale Form' button='Submit' on_send='' sent='You Have Successfully Joined The Titanium Revolution!' link='manually,http://' subject='TITANIUM ICO PRE-SALE: Titanium BAR Token Purchase Instructions' autorespond='' captcha='active' form_align='' color='' admin_preview_bg='']
 [av_contact_field label='Name' type='text' check='is_empty' options='' multi_select='' av_contact_preselect='' width=''][/av_contact_field]
 [av_contact_field label='E-Mail' type='text' check='is_email' options='' multi_select='' av_contact_preselect='' width=''][/av_contact_field]
 [av_contact_field label='Phone Number' type='text' options='' check='' width='' multi_select='' av_contact_preselect=''][/av_contact_field]
 [av_contact_field label='Subject' type='text' check='is_empty' options='' multi_select='' av_contact_preselect='' width=''][/av_contact_field]
 [av_contact_field label='Message' type='textarea' check='is_empty' options='' multi_select='' av_contact_preselect='' width=''][/av_contact_field]
 [/av_contact]
-[/av_one_half]
 
-[av_one_fourth min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display=''][/av_one_fourth]
+[/av_one_half][av_one_fourth min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display=''][/av_one_fourth]
