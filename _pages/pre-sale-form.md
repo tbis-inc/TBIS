@@ -24,11 +24,17 @@ post_date: 2017-10-18 23:43:52
 
 [av_textblock size='' font_color='' color='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
 <p style="text-align: center;"><strong>The Titanium BAR Token Pre-Sale</strong></p>
-Before the January 1, 2018 BAR token crowdfunding sale begins, a pre-sale period of approximately one-month will transpire. During that time, participants that are willing to complete an advance purchase of a minimum of $1,000 in BAR tokens will receive a 20% bonus. This would equate roughly to 360 BAR for 1 ETH. Therefore, an initial purchase of $1,000 would equate to 1,200 BARs.
+<strong>PRE-SALE TERMS:</strong>
+
+Before the January 1, 2018 BAR token crowdfunding sale begins, a pre-sale period of approximately one-month will transpire. During that time, participants that are willing to complete an advance purchase of a minimum of $1,000 in BAR tokens will receive a 20% bonus. One BAR is being sold at an initial pre-sale price of $1 with a bonus of 20%. Therefore, an initial purchase of $1,000 would equate to 1,200 BARs.
+
+Therefore, if 1 ETH is $400 you will receive 400 BARs + 80 BARs in bonus for a total of 480 BARs.
 
 Larger pre-sale purchases will be entitled to higher bonus percentages. Please contact us, letting us know how many Titanium BAR Tokens you are interested in purchasing and we will negotiate your bonus percentage, on a case-by-case basis.
 
-Three (3) bonus periods will be offered at the beginning of the sale to provide early bird contributors a small incentive. During the first 24 hours of the funding period, the exchange rate will be 345 BAR for 1 ETH, a 15% bonus. For the 48 hours after that, the exchange rate will be 330 BAR for 1 ETH, a 10% bonus.  For the 48 hours after that, the exchange rate will be 315 BAR for 1 ETH, a 5% bonus. After the early bird periods, the price of BAR will remain at 300 BAR for 1 ETH for the rest of the sale. Please note that these numbers are based on a price of $300 for 1 ETH, and will fluctuate, based on the current price of Ethereum.
+After the early bird periods, the price of BAR will remain at $1 = 1 BAR for the rest of the sale.
+
+<strong>REFERRAL BONUSES:</strong>
 
 We are also offering a 5% referral bonus to those that refer other individuals to our pre-sale, who purchase a minimum of $1,000 of Titanium BAR Tokens. Of course, larger referral bonuses can and will be negotiated for larger purchases. Please contact us to get more information.
 
