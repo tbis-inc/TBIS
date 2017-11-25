@@ -38,6 +38,8 @@ After the early bird periods, the price of BAR will remain at $1 = 1 BAR for the
 
 We are also offering a 5% referral bonus to those that refer other individuals to our pre-sale, who purchase a minimum of $1,000 of Titanium BAR Tokens. Of course, larger referral bonuses can and will be negotiated for larger purchases. Please contact us to get more information.
 
+<strong>TITANIUM BAR TOKEN SPECIFICS:</strong>
+
 Total Number of Titanium BARs Initially Minted: 60,000,000.
 
 Soft Cap: 1,000,000
@@ -48,7 +50,7 @@ The pre-sale ends on December 31, 2017.
 
 Please indicate the currency that you will be using to purchase BARs with, and we will send you instructions as to how to proceed with the transaction.
 
-<strong>Accepted Currencies:</strong>
+<strong>ACCEPTED CURRENCIES:</strong>
 <ul>
  	<li>Verge</li>
  	<li>Bitcoin</li>
