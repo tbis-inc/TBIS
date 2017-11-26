@@ -60,6 +60,22 @@ Please indicate the currency that you will be using to purchase BARs with, and w
  	<li>ZCash</li>
  	<li>Fiat</li>
 </ul>
+&lt;form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top"&gt;
+&lt;input type="hidden" name="cmd" value="_s-xclick"&gt;
+&lt;input type="hidden" name="hosted_button_id" value="RWVFQW6GKGT7S"&gt;
+&lt;table&gt;
+&lt;tr&gt;&lt;td&gt;&lt;input type="hidden" name="on0" value="Number of BARs"&gt;Number of BARs&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;select name="os0"&gt;
+&lt;option value="10 BARs"&gt;10 BARs $10.00 USD&lt;/option&gt;
+&lt;option value="100 BARs"&gt;100 BARs $100.00 USD&lt;/option&gt;
+&lt;option value="1000 BARs"&gt;1000 BARs $1,000.00 USD&lt;/option&gt;
+&lt;option value="10000 BARs"&gt;10000 BARs $10,000.00 USD&lt;/option&gt;
+&lt;option value="100000 BARs"&gt;100000 BARs $100,000.00 USD&lt;/option&gt;
+&lt;/select&gt; &lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+&lt;input type="hidden" name="currency_code" value="USD"&gt;
+&lt;input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!"&gt;
+&lt;img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1"&gt;
+&lt;/form&gt;
 <p style="text-align: center;"><strong>TITANIUM: The EHI Advantage</strong></p>
 Unlike 99.99% of Blockchain start-ups and Initial Coin Offerings (ICOs), the Titanium Core Team is not composed of relative newcomers to technology. In stark contrast, the Titanium Core Team has over two-hundred (200) years of combined experience. This is also not the first technology company that Titanium's Founder and CEO, Michael Stollaire, has ever formed. In 1999, Mr. Stollaire founded EHI, a technology consultancy specializing in enterprise infrastructure management, which is still thriving and growing today with Michael at the helm.
 
