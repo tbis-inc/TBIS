@@ -158,7 +158,7 @@ The distributed TBIS system will monitor the health of the network and everythin
 
 [av_hr class='invisible' height='30' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='150px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='#515a8f' icon='ue8bf' font='entypo-fontello' admin_preview_bg='']
 
-[av_button label='View Whitepaper Now' link='manually,https://tbis.io/titanium-infrastructure-services-white-paper' link_target='_blank' size='x-large' position='center' icon_select='no' icon='ue800' font='entypo-fontello' color='light' custom_bg='#444444' custom_font='#ffffff' admin_preview_bg='']
+[av_button label='View Whitepaper Now' link='manually,https://tbis.io/wp-content/uploads/2017/11/Titanium-Infrastructure-Services-White-Paper-v2.4-11.25.2017.pdf.pdf' link_target='_blank' size='x-large' position='center' icon_select='no' icon='ue800' font='entypo-fontello' color='light' custom_bg='#444444' custom_font='#ffffff' admin_preview_bg='']
 
 [av_hr class='invisible' height='60' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='150px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='#515a8f' icon='ue8bf' font='entypo-fontello' admin_preview_bg='']
 
