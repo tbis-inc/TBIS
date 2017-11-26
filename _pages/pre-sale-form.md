@@ -23,7 +23,7 @@ post_date: 2017-10-18 23:43:52
 [av_one_full first min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
 
 [av_textblock size='' font_color='' color='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
-<h2 style="text-align: center;"><strong>The Titanium BAR Token Pre-Sale</strong></h2>
+<h3 style="text-align: center;"><strong>The Titanium BAR Token Pre-Sale</strong></h3>
 <strong>PRE-SALE TERMS:</strong>
 
 Before the January 1, 2018 BAR token crowdfunding sale begins, a pre-sale period of approximately one-month will transpire. During that time, participants that are willing to complete an advance purchase of a minimum of $5,000 in BAR tokens will receive a 20% bonus. One BAR is being sold at an initial pre-sale price of $1 with a bonus of 20%. Therefore, an initial purchase of $5,000 would equate to 6,000 BARs.
