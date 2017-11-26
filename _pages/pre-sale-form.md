@@ -62,19 +62,21 @@ Please indicate the currency that you will be using to purchase BARs with, and w
  	<li>PayPal</li>
 </ul>
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top"><input name="cmd" type="hidden" value="_s-xclick" />
-<input name="hosted_button_id" type="hidden" value="RWVFQW6GKGT7S" />
+<input name="hosted_button_id" type="hidden" value="GE3RNW88HVK82" />
 <table>
 <tbody>
 <tr>
-<td><input name="on0" type="hidden" value="Number of BARs" />Number of BARs</td>
+<td><input name="on0" type="hidden" value="Number of Titanium BARs" />Number of Titanium BARs</td>
 </tr>
 <tr>
 <td><select name="os0">
-<option value="10 BARs">10 BARs $10.00 USD</option>
-<option value="100 BARs">100 BARs $100.00 USD</option>
-<option value="1000 BARs">1000 BARs $1,000.00 USD</option>
-<option value="10000 BARs">10000 BARs $10,000.00 USD</option>
-<option value="100000 BARs">100000 BARs $100,000.00 USD</option>
+<option value="1 Titanium BAR">1 Titanium BAR $1.00 USD</option>
+<option value="10 Titanium BARs">10 Titanium BARs $10.00 USD</option>
+<option value="100 Titanium BARs">100 Titanium BARs $100.00 USD</option>
+<option value="1000 Titanium BARs">1000 Titanium BARs $1,000.00 USD</option>
+<option value="10000 Titanium BARs">10000 Titanium BARs $10,000.00 USD</option>
+<option value="100000 Titanium BARs">100000 Titanium BARs $100,000.00 USD</option>
+<option value="1000000 Titanium BARs">1000000 Titanium BARs $1,000,000.00 USD</option>
 </select></td>
 </tr>
 </tbody>
