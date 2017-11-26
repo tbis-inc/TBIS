@@ -80,6 +80,32 @@ In the eyes and opinion of Mr. Stollaire, in fact, Titanium is an organic evolut
 What follows is a short excerpt of some of EHI’s customers, which Titanium will leverage immediately:
 [/av_textblock]
 
+[av_codeblock wrapper_element='' wrapper_element_attributes='']
+
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top"><input name="cmd" type="hidden" value="_s-xclick" />
+<input name="hosted_button_id" type="hidden" value="RWVFQW6GKGT7S" />
+<table>
+<tbody>
+<tr>
+<td><input name="on0" type="hidden" value="Number of BARs" />Number of BARs</td>
+</tr>
+<tr>
+<td><select name="os0">
+<option value="10 BARs">10 BARs $10.00 USD</option>
+<option value="100 BARs">100 BARs $100.00 USD</option>
+<option value="1000 BARs">1000 BARs $1,000.00 USD</option>
+<option value="10000 BARs">10000 BARs $10,000.00 USD</option>
+<option value="100000 BARs">100000 BARs $100,000.00 USD</option>
+</select></td>
+</tr>
+</tbody>
+</table>
+<input name="currency_code" type="hidden" value="USD" />
+<input alt="PayPal - The safer, easier way to pay online!" name="submit" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" type="image" />
+<img src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" alt="" width="1" height="1" border="0" />
+
+</form>[/av_codeblock]
+
 [/av_one_full][av_hr class='invisible' height='50' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' font='entypo-fontello' admin_preview_bg='']
 
 [av_partner columns='4' heading='' size='no scaling' border='av-border-deactivate' type='slider' animation='fade' navigation='dots' autoplay='true' interval='4']
@@ -125,3 +151,5 @@ What follows is a short excerpt of some of EHI’s customers, which Titanium wil
 [/av_one_half]
 
 [av_one_fourth min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display=''][/av_one_fourth]
+
+[av_codeblock wrapper_element='' wrapper_element_attributes='' escape_html='' deactivate_shortcode='' deactivate_wrapper='' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide=''][/av_codeblock]
