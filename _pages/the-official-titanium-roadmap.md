@@ -9,4 +9,4 @@ permalink: >
 published: true
 post_date: 2017-11-28 00:43:01
 ---
-<img class="aligncenter size-square wp-image-616" src="https://tbis.io/wp-content/uploads/2017/11/Roadmap_IAAS-180x180.png" alt="" width="180" height="180" />
+<img class="size-square" src="https://tbis.io/wp-content/uploads/2017/11/Roadmap_IAAS.png" alt="The Official Titanium Roadmap" width="2551" height="3703" />
