@@ -37,7 +37,17 @@ After the early bird periods, the price of BAR will remain at $1 = 1 BAR for the
 <strong>REFERRAL BONUSES:</strong>
 
 We are also offering a 5% referral bonus to those that refer other individuals to our pre-sale, who purchase a minimum of $1,000 of Titanium BAR Tokens. Of course, larger referral bonuses can and will be negotiated for larger purchases. Please contact us to get more information.
+<p style="text-align: center;"><strong>WHY TITANIUM?</strong></p>
 
+<ul>
+ 	<li>Titanium is first-to-market, regarding providing Infrastructure as a Service (IaaS) and Platform as a Service (PaaS) on blockchain, our core competencies.</li>
+ 	<li>Decentralized resources will allow Titanium to charge at least 50% less than our competitors.</li>
+ 	<li>Because of its decentralized nature, Titanium will be able to promise customers uptimes of 99.99% for all services, applications, devices, etc.</li>
+ 	<li>Cloud-based IaaS and PaaS are centralized, and therefore prone to <a href="http://technologynews.site/2017/11/09/great-ovh-hosting-crash-thousands-of-websites-stopped-working/">outages</a>, performance degradation, and typical hacker attacks, such as Distributed Denial of Service (DDoS).</li>
+ 	<li>Titanium is the sister company of EHI, the first technology company that our Founder and CEO started, which has been in business close to two decades and can give a warm handoff of Fortune 500, Education and Government clients to Titanium.</li>
+ 	<li>The Titanium Core Team has over two-hundred (200) years of experience, and are considered to be in the top 1% of their respective technology fields.</li>
+ 	<li>Titanium is the very first blockchain start-up to achieve both Dun and Bradstreet (D&amp;B) and Better Business Bureau (BBB) accreditation.</li>
+</ul>
 <strong>TITANIUM BAR TOKEN SPECIFICS:</strong>
 
 Total Number of Titanium BARs Initially Minted: 60,000,000.
@@ -83,17 +93,7 @@ Please indicate the currency that you will be using to purchase BARs with, and w
 <input name="currency_code" type="hidden" value="USD" />
 <input alt="PayPal - The safer, easier way to pay online!" name="submit" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" type="image" />
 <img src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" alt="" width="1" height="1" border="0" />
-<p style="text-align: center;"><strong>WHY TITANIUM?</strong></p>
 
-<ul>
- 	<li>Titanium is first-to-market, regarding providing Infrastructure as a Service (IaaS) and Platform as a Service (PaaS) on blockchain, our core competencies.</li>
- 	<li>Decentralized resources will allow Titanium to charge at least 50% less than our competitors.</li>
- 	<li>Because of its decentralized nature, Titanium will be able to promise customers uptimes of 99.99% for all services, applications, devices, etc.</li>
- 	<li>Cloud-based IaaS and PaaS are centralized, and therefore prone to <a href="http://technologynews.site/2017/11/09/great-ovh-hosting-crash-thousands-of-websites-stopped-working/">outages</a>, performance degradation, and typical hacker attacks, such as Distributed Denial of Service (DDoS).</li>
- 	<li>Titanium is the sister company of EHI, the first technology company that our Founder and CEO started, which has been in business close to two decades and can give a warm handoff of Fortune 500, Education and Government clients to Titanium.</li>
- 	<li>The Titanium Core Team has over two-hundred (200) years of experience, and are considered to be in the top 1% of their respective technology fields.</li>
- 	<li>Titanium is the very first blockchain start-up to achieve both Dun and Bradstreet (D&amp;B) and Better Business Bureau (BBB) accreditation.</li>
-</ul>
 </form>
 <p style="text-align: center;"><strong>TITANIUM: The EHI Advantage</strong></p>
 Unlike 99.99% of Blockchain start-ups and Initial Coin Offerings (ICOs), the Titanium Core Team is not composed of relative newcomers to technology. In stark contrast, the Titanium Core Team has over two-hundred (200) years of combined experience. This is also not the first technology company that Titanium's Founder and CEO, Michael Stollaire, has ever formed. In 1999, Mr. Stollaire founded EHI, a technology consultancy specializing in enterprise infrastructure management, which is still thriving and growing today with Michael at the helm.
