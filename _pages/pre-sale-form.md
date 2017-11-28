@@ -72,6 +72,7 @@ Please indicate the currency that you will be using to purchase BARs with, and w
  	<li>PayPal</li>
 </ul>
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top"><input name="cmd" type="hidden" value="_s-xclick" />
+<input name="hosted_button_id" type="hidden" value="GE3RNW88HVK82" />
 <table>
 <tbody>
 <tr>
