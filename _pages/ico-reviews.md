@@ -10,7 +10,7 @@ post_date: 2017-11-29 01:05:01
 ---
 &nbsp;
 
-[caption id="attachment_627" align="alignnone" width="1131"]<a href="https://www.trackico.io/ico/titanium-blockchain-infrastructure-services"><img class="wp-image-627 size-full" src="https://tbis.io/wp-content/uploads/2017/11/Titanium-TrackICO-5-out-of-5-Rating-2-11.22.2017.png" alt="Titanium Gets Perfect 5/5 Score at TrackICO!" width="1131" height="467" /></a> Titanium Gets Perfect 5/5 Score at TrackICO![/caption]
+[caption id="attachment_627" align="alignnone" width="1131"]<a href="https://www.trackico.io/ico/titanium-blockchain-infrastructure-services"><img class="wp-image-627 size-full" src="https://tbis.io/wp-content/uploads/2017/11/Titanium-TrackICO-5-out-of-5-Rating-2-11.22.2017.png" alt="Titanium Gets Perfect 5/5 Score at TrackICO!" width="1131" height="467" /></a> <strong>Titanium Gets Perfect 5/5 Score at TrackICO!</strong>[/caption]
 
 &nbsp;
 
