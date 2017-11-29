@@ -14,4 +14,8 @@ post_date: 2017-11-29 01:05:01
 
 &nbsp;
 
+[caption id="attachment_643" align="aligncenter" width="1197"]<img class="size-full wp-image-643" src="https://tbis.io/wp-content/uploads/2017/11/Titanium-ICOBench-4.3.png" alt="Titanium Receives 4.3/5 Score on ICOBench!" width="1197" height="492" /> <strong>Titanium Receives 4.3/5 Score on ICOBench!</strong>[/caption]
+
+&nbsp;
+
 [caption id="attachment_628" align="aligncenter" width="581"]<img class="wp-image-628 size-full" src="https://tbis.io/wp-content/uploads/2017/11/Titanium-Sangus-92.jpg" alt="Titanium Receives All-Time Best Rating at Sangus!" width="581" height="460" /> <strong>Titanium Receives All-Time Best Rating at Sangus!</strong>[/caption]
