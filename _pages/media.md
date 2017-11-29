@@ -14,4 +14,10 @@ post_date: 2017-11-29 01:17:41
 
 &nbsp;
 
+&nbsp;
+
+[caption id="attachment_642" align="aligncenter" width="506"]<a href="https://techama.com/ama-how-to-successfully-transition-from-cloud-computing-clientserver-465291/"><img class="size-full wp-image-642" src="https://tbis.io/wp-content/uploads/2017/11/Stollaire-AMA-11.08.2017.png" alt="Michael Stollaire: AMA ~ How to Successfully Transition from Cloud Computing to Blockchain" width="506" height="506" /></a> <strong>Michael Stollaire: AMA ~ How to Successfully Transition from Cloud Computing to Blockchain</strong>[/caption]
+
+&nbsp;
+
 [caption id="attachment_639" align="aligncenter" width="714"]<a href="https://www.youtube.com/watch?v=JK5597BvPfs"><img class="size-full wp-image-639" src="https://tbis.io/wp-content/uploads/2017/11/Larry-and-Joe.png" alt="Michael Stollaire: Interviewed on the Larry and Joe Show, November 11, 2017" width="714" height="380" /></a> <strong>Michael Stollaire: Interviewed on the Larry and Joe Show, November 11, 2017</strong>[/caption]
