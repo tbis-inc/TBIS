@@ -26,7 +26,7 @@ post_date: 2017-10-18 23:43:52
 <h3 style="text-align: center;"><strong>The Titanium BAR Token Pre-Sale</strong></h3>
 <strong>PRE-SALE TERMS:</strong>
 
-Before the January 1, 2018 BAR token crowdfunding sale begins, a pre-sale period of approximately one-month will transpire. During that time, participants that are willing to complete an advance purchase of a minimum of $5,000 in BAR tokens will receive a 20% bonus. One BAR is being sold at an initial pre-sale price of $1 with a bonus of 20%. Therefore, an initial purchase of $5,000 would equate to 6,000 BARs.
+Before the January 1, 2018 BAR token crowdfunding sale begins, a pre-sale period of approximately one-month will transpire. During that time, participants that are willing to complete an advance purchase will receive a 20% bonus. One BAR is being sold at an initial pre-sale price of $1 with a bonus of 20%. Therefore, an initial purchase of $500 would equate to 600 BARs.
 
 Hence, if 1 ETH is $400 you will receive 400 BARs + 80 BARs in bonus for a total of 480 BARs.
 
@@ -36,7 +36,7 @@ After the early bird periods, the price of BAR will remain at $1 = 1 BAR for the
 
 <strong>REFERRAL BONUSES:</strong>
 
-We are also offering a 5% referral bonus to those that refer other individuals to our pre-sale, who purchase a minimum of $1,000 of Titanium BAR Tokens. Of course, larger referral bonuses can and will be negotiated for larger purchases. Please contact us to get more information.
+We are also offering a 5% referral bonus to those that refer other individuals to our pre-sale. Of course, larger referral bonuses can and will be negotiated for larger purchases. Please contact us to get more information.
 <p style="text-align: center;"><strong>WHY TITANIUM?</strong></p>
 
 <ul>
