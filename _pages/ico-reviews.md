@@ -22,6 +22,4 @@ post_date: 2017-11-29 01:05:01
 
 &nbsp;
 
-&nbsp;
-
-[caption id="attachment_628" align="aligncenter" width="581"]<img class="wp-image-628 size-full" src="https://tbis.io/wp-content/uploads/2017/11/Titanium-Sangus-92.jpg" alt="Titanium Receives All-Time Best Rating at Sangus!" width="581" height="460" /> <strong>Titanium Receives All-Time Best Rating at Sangus!</strong>[/caption]
+[caption id="attachment_667" align="aligncenter" width="623"]<a href="https://sangus.org/ico/993"><img class="size-full wp-image-667" src="https://tbis.io/wp-content/uploads/2017/11/Sangus.png" alt="Titanium: One of the Highest Rated ICOs at Sangus!" width="623" height="186" /></a> <strong>Titanium: One of the Highest Rated ICOs at Sangus!</strong>[/caption]
