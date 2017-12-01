@@ -20,12 +20,6 @@ post_date: 2017-11-29 01:17:41
 
 &nbsp;
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
 [caption id="attachment_661" align="aligncenter" width="849"]<a href="https://www.youtube.com/watch?v=xhcWYBeH_3k&amp;feature=youtu.be"><img class="size-full wp-image-661" src="https://tbis.io/wp-content/uploads/2017/11/CryptoCentral-Video-Review-11.30.2017.png" alt="CryptoCentral: Glowing Review of the Titanium Ecosystem!" width="849" height="454" /></a> <strong>CryptoCentral: Glowing Review of the Titanium Ecosystem!</strong>[/caption]
 
 &nbsp;
