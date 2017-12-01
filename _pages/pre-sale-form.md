@@ -37,6 +37,15 @@ After the early bird periods, the price of BAR will remain at $1 = 1 BAR for the
 <strong>REFERRAL BONUSES:</strong>
 
 We are also offering a 5% referral bonus to those that refer other individuals to our pre-sale. Of course, larger referral bonuses can and will be negotiated for larger purchases. Please contact us to get more information.
+
+<strong>THE TITANIUM COMMUNITY:</strong>
+<div>Please feel free to join the Telegram and Discord Titanium groups, filled with hundreds of people who decided to purchase BARs, and discuss your common interests in blockchain, cryptocurrency and fintech:</div>
+<div></div>
+<div><a href="https://t.me/joinchat/EWyz4RBDXhw6-EN1h1Da5g">Telegram</a></div>
+<div></div>
+<div><a href="https://t.me/tbisinc">Telegram</a> (Announcements Only)</div>
+<div></div>
+<div><a href="https://discord.gg/trrad7b">Discord</a></div>
 <p style="text-align: center;"><strong>WHY TITANIUM?</strong></p>
 
 <ul>
