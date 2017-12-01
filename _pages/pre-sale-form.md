@@ -41,6 +41,7 @@ We are also offering a 5% referral bonus to those that refer other individuals t
 <strong>THE TITANIUM COMMUNITY:</strong>
 <div>Please feel free to join the Telegram and Discord Titanium groups, filled with hundreds of people who decided to purchase BARs, and discuss your common interests in blockchain, cryptocurrency and fintech:</div>
 <div></div>
+<div></div>
 <div><a href="https://t.me/joinchat/EWyz4RBDXhw6-EN1h1Da5g">Telegram</a></div>
 <div></div>
 <div><a href="https://t.me/tbisinc">Telegram</a> (Announcements Only)</div>
