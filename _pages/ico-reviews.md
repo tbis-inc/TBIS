@@ -18,4 +18,10 @@ post_date: 2017-11-29 01:05:01
 
 &nbsp;
 
+[caption id="attachment_665" align="aligncenter" width="1174"]<a href="https://cryptocentral.io/index.php/ico-central"><img class="size-full wp-image-665" src="https://tbis.io/wp-content/uploads/2017/11/Titanium-Certified-ICO-CryptoCentral-12.01.2017.png" alt="Titanium: Certified ICO at CryptoCentral!" width="1174" height="597" /></a> <strong>Titanium: Certified ICO at CryptoCentral!</strong>[/caption]
+
+&nbsp;
+
+&nbsp;
+
 [caption id="attachment_628" align="aligncenter" width="581"]<img class="wp-image-628 size-full" src="https://tbis.io/wp-content/uploads/2017/11/Titanium-Sangus-92.jpg" alt="Titanium Receives All-Time Best Rating at Sangus!" width="581" height="460" /> <strong>Titanium Receives All-Time Best Rating at Sangus!</strong>[/caption]
