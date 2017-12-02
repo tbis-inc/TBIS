@@ -13,15 +13,14 @@ post_date: 2017-10-18 23:43:52
 [/av_one_fourth]
 
 [av_three_fourth min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
-[av_textblock size='11' font_color='' color='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
-<p style="text-align: right;"><span style="color: #ffffff;"><a href="https://tbis.io/#top"><span class="avia-menu-text">Home </span></a> | <a href="https://tbis.io/#story"><span class="avia-menu-text">About</span></a> | <a href="https://tbis.io/#future"><span class="avia-menu-text">The Future</span></a> | <a href="https://tbis.io/#sale"><span class="avia-menu-text">Token Sale</span></a> | <a href="https://tbis.io/#service"><span class="avia-menu-text">Services</span></a> | <a href="https://tbis.io/#team"><span class="avia-menu-text">Our Team</span></a> | <a href="https://tbis.io/#contact"><span class="avia-menu-text">Contact</span></a></span></p>
-[/av_textblock]
-[/av_three_fourth]
 
-[av_hr class='invisible' height='50' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' font='entypo-fontello' admin_preview_bg='']
+[av_textblock size='11' font_color='' color='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
+<p style="text-align: right;"><span style="color: #000000;"><a href="https://tbis.io/#top"><span class="avia-menu-text">Home</span></a> | <a href="https://tbis.io/titanium-infrastructure-services-white-paper-v2-5">White Paper</a> | <a href="https://tbis.io/#story"><span class="avia-menu-text">About</span></a> | <a href="https://tbis.io/#future"><span class="avia-menu-text">The Future</span></a> | <a href="https://tbis.io/#sale"><span class="avia-menu-text">Token Sale</span></a> | <a href="https://tbis.io/#service"><span class="avia-menu-text">Services</span></a> | <a href="https://tbis.io/#team"><span class="avia-menu-text">Our Team</span></a> | <a href="https://tbis.io/#contact"><span class="avia-menu-text">Contact</span></a></span></p>
+[/av_textblock]
+
+[/av_three_fourth][av_hr class='invisible' height='50' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' font='entypo-fontello' admin_preview_bg='']
 
 [av_one_full first min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
-
 [av_textblock size='' font_color='' color='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
 <h3 style="text-align: center;"><strong>The Titanium BAR Token Pre-Sale</strong></h3>
 <strong>PRE-SALE TERMS:</strong>
@@ -125,8 +124,9 @@ In the eyes and opinion of Mr. Stollaire, in fact, Titanium is an organic evolut
 
 What follows is a short excerpt of some of EHI’s customers, which Titanium will leverage immediately:
 [/av_textblock]
+[/av_one_full]
 
-[/av_one_full][av_hr class='invisible' height='50' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' font='entypo-fontello' admin_preview_bg='']
+[av_hr class='invisible' height='50' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' font='entypo-fontello' admin_preview_bg='']
 
 [av_partner columns='4' heading='' size='no scaling' border='av-border-deactivate' type='slider' animation='fade' navigation='dots' autoplay='true' interval='4']
 [av_partner_logo id='494' hover='' link='' linktitle='' link_target='']
