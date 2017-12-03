@@ -114,7 +114,6 @@ info@tbis.io ~ TEL: 1.833.DIAL.TITANIUM</p>
 
 [av_partner columns='1' heading='Media' size='no scaling' border='av-border-deactivate' type='slider' animation='slide' navigation='arrows' autoplay='false' interval='5']
 [av_partner_logo id='678' hover='Michael Stollaire: Talking Blockchain, Cryptocurrency and Fintech in Forbes Magazine!' link='manually,https://www.forbes.com/sites/jiawertz/2017/12/02/icos-new-startup-lifeblood/#71fb0267525b' linktitle='' link_target='_blank']
-
 [/av_partner]
 
 [av_section min_height='' min_height_px='500px' padding='huge' shadow='no-border-styling' bottom_border='border-extra-arrow-down' id='story' color='main_color' custom_bg='' src='' attachment='' attachment_size='' attach='scroll' position='top left' repeat='no-repeat' video='' video_ratio='16:9' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='']
@@ -168,12 +167,13 @@ The distributed TBIS system will monitor the health of the network and everythin
 [/av_section]
 
 [av_section min_height='' min_height_px='500px' padding='huge' shadow='no-border-styling' bottom_border='border-extra-arrow-down' bottom_border_diagonal_color='#333333' bottom_border_diagonal_direction='' bottom_border_style='' id='sale' color='main_color' custom_bg='' src='' attachment='' attachment_size='' attach='scroll' position='top left' repeat='no-repeat' video='' video_ratio='16:9' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='' av_element_hidden_in_editor='0']
+
 [av_heading tag='h3' padding='10' heading='Token Mechanics and Sale Details' color='' style='blockquote modern-quote modern-centered' custom_font='' size='60' subheading_active='' subheading_size='15' custom_class='' admin_preview_bg='' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size=''][/av_heading]
 
 [av_hr class='custom' height='50' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='150px' custom_border_color='#e0e0e0' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='#515a8f' icon='ue8bf' font='entypo-fontello' admin_preview_bg='']
 
 [av_textblock size='' font_color='' color='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
-Soon, the TBIS token (BAR) will be sold. As part of this sale, a fixed pool of BAR will generated. No further BAR will be created in the future. BAR will be a deflationary currency used within the Titanium Ecosystem. Once the sale concludes, a portion of BAR tokens will be allocated and given to the TBIS team as an incentive for the success of our platform, and a separate portion will be held as a reserve pool and expenditure fund. The Titanium Community will hold 60% of all BAR, the TBIS team will hold 20% of BAR (subject to a freeze period), 10% of BAR will be retained to be used for Titanium Community Bounties and 10% of BAR will be allocated for the reserve pool.
+Soon, the Titanium token (BAR) will be sold. As part of this sale, a fixed pool of BAR will generated. No further BAR will be created in the future. BAR will be a deflationary currency used within the Titanium Ecosystem, limited to only 35 million BARs, just like Bitcoin is limited to 21 million Bitcoins. Once the sale concludes, a portion of BAR tokens will be allocated and given to the Titanium team as an incentive for the success of our platform, and a separate portion will be held as a reserve pool and expenditure fund. The Titanium Community will hold 60% of all BAR, the Titanium team will hold 20% of BAR (subject to a freeze period), 10% of BAR will be retained to be used for Titanium Community Bounties and 10% of BAR will be allocated for the reserve pool.
 [/av_textblock]
 
 [av_hr class='invisible' height='25' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='150px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='#515a8f' icon='ue8bf' font='entypo-fontello' admin_preview_bg='']
@@ -195,12 +195,12 @@ Soon, the TBIS token (BAR) will be sold. As part of this sale, a fixed pool of B
 [av_hr class='invisible' height='50' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='150px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='#515a8f' icon='ue8bf' font='entypo-fontello' admin_preview_bg='']
 
 [av_textblock size='30' font_color='custom' color='#ffffff' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
-<h3 style="text-align: center;">Our Pre-Sale is happening for our Titanium BAR Token.  You can be a part of the revolution today!</h3>
+<h3 style="text-align: center;">Our Pre-Sale has started for our Titanium BAR Token.  You can be a part of the revolution today!</h3>
 [/av_textblock]
 
 [av_hr class='invisible' height='80' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='150px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='#515a8f' icon='ue8bf' font='entypo-fontello' admin_preview_bg='']
 
-[av_animated_numbers number='$424,729' icon_select='no' icon='ue800' font='entypo-fontello' font_size='' font_size_description='24' link='' linktarget='no' color='' custom_color='#444444' admin_preview_bg='']
+[av_animated_numbers number='$487,291' icon_select='no' icon='ue800' font='entypo-fontello' font_size='' font_size_description='24' link='' linktarget='no' color='' custom_color='#444444' admin_preview_bg='']
 of the $1,000,000 Initial Coin Offering (ICO) Soft Cap
 [/av_animated_numbers]
 
@@ -213,9 +213,8 @@ of the $1,000,000 Initial Coin Offering (ICO) Soft Cap
 [av_hr class='invisible' height='80' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='150px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='#515a8f' icon='ue8bf' font='entypo-fontello' admin_preview_bg='']
 
 [av_button label='View Token Pre-Sale Details' link='manually,https://tbis.io/pre-sale-form/' link_target='' size='x-large' position='center' icon_select='no' icon='ue800' font='entypo-fontello' color='light' custom_bg='#444444' custom_font='#ffffff' admin_preview_bg='']
-[/av_section]
 
-[av_section min_height='' min_height_px='500px' padding='huge' shadow='no-border-styling' bottom_border='border-extra-arrow-down' bottom_border_diagonal_color='#333333' bottom_border_diagonal_direction='' bottom_border_style='' id='service' color='main_color' custom_bg='#2b2f4b' src='' attachment='' attachment_size='' attach='scroll' position='top left' repeat='no-repeat' video='' video_ratio='16:9' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='' av_element_hidden_in_editor='0']
+[/av_section][av_section min_height='' min_height_px='500px' padding='huge' shadow='no-border-styling' bottom_border='border-extra-arrow-down' bottom_border_diagonal_color='#333333' bottom_border_diagonal_direction='' bottom_border_style='' id='service' color='main_color' custom_bg='#2b2f4b' src='' attachment='' attachment_size='' attach='scroll' position='top left' repeat='no-repeat' video='' video_ratio='16:9' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='' av_element_hidden_in_editor='0']
 [av_heading tag='h3' padding='10' heading='Titanium Technology ' color='' style='blockquote modern-quote modern-centered' custom_font='' size='60' subheading_active='' subheading_size='15' custom_class='' admin_preview_bg='' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size=''][/av_heading]
 
 [av_hr class='invisible' height='30' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='150px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='#cf1b15' icon='ue806' font='entypo-fontello' admin_preview_bg='']
