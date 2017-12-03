@@ -112,7 +112,7 @@ info@tbis.io ~ TEL: 1.833.DIAL.TITANIUM</p>
 [av_hr class='invisible' height='20' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='150px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='#515a8f' icon='ue8bf' font='entypo-fontello' admin_preview_bg='']
 [/av_section]
 
-[av_partner columns='1' heading='Media' size='no scaling' border='' type='slider' animation='slide' navigation='arrows' autoplay='false' interval='5']
+[av_partner columns='1' heading='Media' size='no scaling' border='av-border-deactivate' type='slider' animation='slide' navigation='arrows' autoplay='false' interval='5']
 [av_partner_logo id='678' hover='Michael Stollaire: Talking Blockchain, Cryptocurrency and Fintech in Forbes Magazine!' link='manually,https://www.forbes.com/sites/jiawertz/2017/12/02/icos-new-startup-lifeblood/#71fb0267525b' linktitle='' link_target='_blank']
 
 [/av_partner]
