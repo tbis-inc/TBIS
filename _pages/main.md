@@ -200,7 +200,7 @@ Soon, the Titanium token (BAR) will be sold. As part of this sale, a fixed pool
 
 [av_hr class='invisible' height='80' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='150px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='#515a8f' icon='ue8bf' font='entypo-fontello' admin_preview_bg='']
 
-[av_animated_numbers number='$487,291' icon_select='no' icon='ue800' font='entypo-fontello' font_size='' font_size_description='24' link='' linktarget='no' color='' custom_color='#444444' admin_preview_bg='']
+[av_animated_numbers number='$523,839' icon_select='no' icon='ue800' font='entypo-fontello' font_size='' font_size_description='24' link='' linktarget='no' color='' custom_color='#444444' admin_preview_bg='']
 of the $1,000,000 Initial Coin Offering (ICO) Soft Cap
 [/av_animated_numbers]
 
@@ -208,7 +208,6 @@ of the $1,000,000 Initial Coin Offering (ICO) Soft Cap
 
 [av_progress bar_styling='av-flat-bar' bar_animation='av-animated-bar' bar_styling_secondary='' show_percentage='' bar_height='10' admin_preview_bg='']
 [av_progress_bar title='Funds Raised' progress='47' color='theme-color' icon_select='no' icon='43' font='entypo-fontello']
-
 [/av_progress]
 
 [av_hr class='invisible' height='80' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='150px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='#515a8f' icon='ue8bf' font='entypo-fontello' admin_preview_bg='']
