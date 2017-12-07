@@ -79,33 +79,11 @@ Please indicate the currency that you will be using to purchase BARs with, and w
  	<li>Monero</li>
  	<li>ZCash</li>
  	<li>Fiat</li>
- 	<li>PayPal</li>
+ 	<li>Venmo</li>
 </ul>
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top"><input name="cmd" type="hidden" value="_s-xclick" />
-<input name="hosted_button_id" type="hidden" value="GE3RNW88HVK82" />
-<table>
-<tbody>
-<tr>
-<td><input name="on0" type="hidden" value="Number of Titanium BARs" />Number of Titanium BARs</td>
-</tr>
-<tr>
-<td><select name="os0">
-<option value="1 Titanium BAR">1 Titanium BAR $1.00 USD</option>
-<option value="10 Titanium BARs">10 Titanium BARs $10.00 USD</option>
-<option value="100 Titanium BARs">100 Titanium BARs $100.00 USD</option>
-<option value="1000 Titanium BARs">1000 Titanium BARs $1,000.00 USD</option>
-<option value="10000 Titanium BARs">10000 Titanium BARs $10,000.00 USD</option>
-<option value="100000 Titanium BARs">100000 Titanium BARs $100,000.00 USD</option>
-<option value="1000000 Titanium BARs">1000000 Titanium BARs $1,000,000.00 USD</option>
-</select></td>
-</tr>
-</tbody>
-</table>
-<input name="currency_code" type="hidden" value="USD" />
-<input alt="PayPal - The safer, easier way to pay online!" name="submit" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" type="image" />
-<img src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" alt="" width="1" height="1" border="0" />
+[caption id="attachment_690" align="aligncenter" width="300"]<a href="https://venmo.com/Michael-Stollaire"><img class="size-medium wp-image-690" src="https://tbis.io/wp-content/uploads/2017/10/Venmo-Quarterly-Growth-Slows-Down-as-the-Base-Grows-300x94.png" alt="Purchase Titanium BARs with Venmo!" width="300" height="94" /></a> <strong>Purchase Titanium BARs with Venmo!</strong>[/caption]
 
-</form>
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top"><input name="cmd" type="hidden" value="_s-xclick" /></form>
 <p style="text-align: center;"><strong>TITANIUM: The EHI Advantage</strong></p>
 Unlike 99.99% of Blockchain start-ups and Initial Coin Offerings (ICOs), the Titanium Core Team is not composed of relative newcomers to technology. In stark contrast, the Titanium Core Team has over two-hundred (200) years of combined experience. This is also not the first technology company that Titanium's Founder and CEO, Michael Stollaire, has ever formed. In 1999, Mr. Stollaire founded EHI, a technology consultancy specializing in enterprise infrastructure management, which is still thriving and growing today with Michael at the helm.
 
