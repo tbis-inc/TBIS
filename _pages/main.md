@@ -38,7 +38,6 @@ post_date: 2015-05-12 12:57:57
 [/av_section]
 
 [av_section min_height='' min_height_px='500px' padding='huge' shadow='no-border-styling' bottom_border='border-extra-arrow-down' bottom_border_diagonal_color='#333333' bottom_border_diagonal_direction='' bottom_border_style='' id='story' color='main_color' custom_bg='#3c4374' src='' attachment='' attachment_size='' attach='scroll' position='top left' repeat='no-repeat' video='' video_ratio='16:9' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='' av_element_hidden_in_editor='0']
-
 [av_heading heading='About Us' tag='h3' style='blockquote modern-quote modern-centered' size='60' subheading_active='' subheading_size='15' padding='10' color='' custom_font='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg=''][/av_heading]
 
 [av_hr class='invisible' height='20' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='150px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='#515a8f' icon='ue8bf' font='entypo-fontello' admin_preview_bg='']
@@ -103,10 +102,11 @@ info@tbis.io ~ TEL: 1.833.DIAL.TITANIUM</p>
 [/av_textblock]
 
 [av_hr class='invisible' height='20' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='150px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='#515a8f' icon='ue8bf' font='entypo-fontello' admin_preview_bg='']
+[/av_section]
 
-[/av_section][av_section min_height='' min_height_px='500px' padding='huge' shadow='no-border-styling' bottom_border='border-extra-arrow-down' id='story' color='main_color' custom_bg='' src='' attachment='' attachment_size='' attach='scroll' position='top left' repeat='no-repeat' video='' video_ratio='16:9' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='']
+[av_section min_height='' min_height_px='500px' padding='huge' shadow='no-border-styling' bottom_border='border-extra-arrow-down' id='story' color='main_color' custom_bg='' src='' attachment='' attachment_size='' attach='scroll' position='top left' repeat='no-repeat' video='' video_ratio='16:9' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='']
 
-[av_heading heading='In The Media' tag='h3' style='blockquote modern-quote modern-centered' size='60' subheading_active='' subheading_size='15' padding='10' color='' custom_font='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg=''][/av_heading]
+[av_heading tag='h3' padding='10' heading='In The Media' color='' style='blockquote modern-quote modern-centered' custom_font='' size='60' subheading_active='' subheading_size='15' custom_class='' admin_preview_bg='' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size=''][/av_heading]
 
 [av_hr class='invisible' height='20' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='150px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='#515a8f' icon='ue8bf' font='entypo-fontello' admin_preview_bg='']
 
@@ -141,11 +141,8 @@ New IaaS technology is making it so data can be managed on demand as well. Compu
 [av_image src='https://tbis.io/wp-content/uploads/2015/05/huff-pic.png' attachment='711' attachment_size='full' align='center' styling='' hover='' link='' target='' caption='' font_size='' appearance='' overlay_opacity='0.4' overlay_color='#000000' overlay_text_color='#ffffff' animation='no-animation' admin_preview_bg=''][/av_image]
 
 [av_textblock size='' font_color='' color='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
-<div class="content-list-component bn-content-list-text yr-content-list-text text" data-beacon="{&quot;p&quot;:{&quot;mnid&quot;:&quot;citation&quot;}}" data-beacon-parsed="true" data-rapid-cpos="5" data-rapid-subsec="paragraph" data-rapid-parsed="subsec">
+Titanium is a company that is planning on changing the internet as we know it and make it much more efficient, while also creating an infrastructure that cannot be controlled or manipulated by anyone.  The Titanium infrastructure will exist on the Ethereum blockchain (which has over 200,000 nodes) and will be completely decentralized.
 
-<a class="bn-clickable" href="https://tbis.io/" target="_blank" rel="nofollow noopener" data-beacon="{&quot;p&quot;:{&quot;lnid&quot;:&quot;Titanium&quot;,&quot;mpid&quot;:1,&quot;plid&quot;:&quot;https://tbis.io/&quot;}}" data-beacon-parsed="true" data-ylk="subsec:paragraph;cpos:5" data-rapid-parsed="slk" data-rapid_p="2" data-v9y="1">Titanium</a> is a company that is planning on changing the internet as we know it and make it much more efficient, while also creating an infrastructure that cannot be controlled or manipulated by anyone.  The Titanium infrastructure will exist on the Ethereum blockchain (which has over 200,000 nodes) and will be completely decentralized.
-
-</div>
 <a href="https://www.huffingtonpost.com/entry/the-internet-is-about-to-be-revolutionized-with-titanium_us_5a2e5533e4b04e0bc8f3b66b" target="_blank" rel="noopener">Read more...</a>
 [/av_textblock]
 
