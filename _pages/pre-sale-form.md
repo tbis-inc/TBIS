@@ -51,8 +51,8 @@ We are also offering a 5% referral bonus to those that refer other individuals t
 
 <ul>
  	<li>Titanium is first-to-market, regarding providing Infrastructure as a Service (IaaS) and Platform as a Service (PaaS) on blockchain, our core competencies.</li>
- 	<li>Decentralized resources will allow Titanium to charge at least 50% less than our competitors.</li>
- 	<li>Because of its decentralized nature, Titanium will be able to promise customers uptimes of <a href="https://en.wikipedia.org/wiki/High_availability">99.99%</a> for all services, applications, devices, etc.</li>
+ 	<li>Decentralized resources will allow Titanium to charge a fraction of what our competitors cost.</li>
+ 	<li>Because of its decentralized nature, Titanium will be able to promise customers uptimes significantly better than our competition, for all services, applications, devices, etc.</li>
  	<li>Cloud-based IaaS and PaaS are centralized, and therefore prone to <a href="http://technologynews.site/2017/11/09/great-ovh-hosting-crash-thousands-of-websites-stopped-working/">outages</a>, performance degradation, and typical hacker attacks, such as Distributed Denial of Service (DDoS).</li>
  	<li>Titanium is the sister company of EHI, the first technology company that our Founder and CEO started, which has been in business close to two decades and can give a warm handoff of Fortune 500, Education and Government clients to Titanium.</li>
  	<li>The Titanium Core Team has over two-hundred (200) years of experience, and are considered to be in the top 1% of their respective technology fields.</li>
@@ -79,11 +79,8 @@ Please indicate the currency that you will be using to purchase BARs with, and w
  	<li>Monero</li>
  	<li>Ripple</li>
  	<li>ZCash</li>
- 	<li>Fiat</li>
- 	<li>Venmo</li>
+ 	<li>Fiat via Bank Transfer</li>
 </ul>
-[caption id="attachment_690" align="aligncenter" width="300"]<a href="https://venmo.com/Michael-Stollaire"><img class="size-medium wp-image-690" src="https://tbis.io/wp-content/uploads/2017/10/Venmo-Quarterly-Growth-Slows-Down-as-the-Base-Grows-300x94.png" alt="Purchase Titanium BARs with Venmo!" width="300" height="94" /></a> <strong>Purchase Titanium BARs with Venmo!</strong>[/caption]
-
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top"><input name="cmd" type="hidden" value="_s-xclick" /></form>
 <p style="text-align: center;"><strong>TITANIUM: The EHI Advantage</strong></p>
 Unlike 99.99% of Blockchain start-ups and Initial Coin Offerings (ICOs), the Titanium Core Team is not composed of relative newcomers to technology. In stark contrast, the Titanium Core Team has over two-hundred (200) years of combined experience. This is also not the first technology company that Titanium's Founder and CEO, Michael Stollaire, has ever formed. In 1999, Mr. Stollaire founded EHI, a technology consultancy specializing in enterprise infrastructure management, which is still thriving and growing today with Michael at the helm.
