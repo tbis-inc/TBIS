@@ -1,10 +1,10 @@
 ---
 ID: 233
-post_title: Main
+post_title: Home
 author: Michael Stolliare
 post_excerpt: ""
 layout: page
-permalink: http://tbis.io/main/
+permalink: http://tbis.io/home/
 published: true
 post_date: 2015-05-12 12:57:57
 ---
