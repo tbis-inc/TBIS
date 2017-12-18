@@ -149,7 +149,7 @@ The distributed TBIS system will monitor the health of the network and everythin
 
 [av_one_half first min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
 
-[av_image src='https://tbis.io/wp-content/uploads/2017/10/DB_logo-300x70.png' attachment='320' attachment_size='medium' align='left' styling='' hover='' link='manually,http://www.dnb.com/duns-number/lookup.html' target='_blank' caption='' font_size='' appearance='' overlay_opacity='0.4' overlay_color='#000000' overlay_text_color='#ffffff' animation='no-animation' admin_preview_bg=''][/av_image]
+[av_image src='https://tbis.io/wp-content/uploads/2017/10/DB_logo-300x70.png' attachment='320' attachment_size='medium' align='' styling='' hover='' link='manually,http://www.dnb.com/duns-number/lookup.html' target='_blank' caption='' font_size='' appearance='' overlay_opacity='0.4' overlay_color='#000000' overlay_text_color='#ffffff' animation='no-animation' admin_preview_bg=''][/av_image]
 
 [av_hr class='invisible' height='40' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' font='entypo-fontello' admin_preview_bg='']
 
