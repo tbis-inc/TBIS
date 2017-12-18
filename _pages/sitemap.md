@@ -8,4 +8,4 @@ permalink: http://tbis.io/sitemap/
 published: true
 post_date: 2017-12-18 20:16:07
 ---
-[html_sitemap exclude = 16,121,195,233,297,521,740]
+[html_sitemap exclude = 16,121,195,233,297,521,740,782]
