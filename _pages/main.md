@@ -37,73 +37,6 @@ post_date: 2015-05-12 12:57:57
 [/av_one_fourth]
 [/av_section]
 
-[av_section min_height='' min_height_px='500px' padding='huge' shadow='no-border-styling' bottom_border='border-extra-arrow-down' bottom_border_diagonal_color='#333333' bottom_border_diagonal_direction='' bottom_border_style='' id='story' color='main_color' custom_bg='#3c4374' src='' attachment='' attachment_size='' attach='scroll' position='top left' repeat='no-repeat' video='' video_ratio='16:9' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='' av_element_hidden_in_editor='0']
-[av_heading heading='About Us' tag='h3' style='blockquote modern-quote modern-centered' size='60' subheading_active='' subheading_size='15' padding='10' color='' custom_font='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg=''][/av_heading]
-
-[av_hr class='invisible' height='20' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='150px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='#515a8f' icon='ue8bf' font='entypo-fontello' admin_preview_bg='']
-
-[av_textblock size='' font_color='' color='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
-Today, the largest transportation company in the world owns no cars (Uber), the largest hospitality company on the face of the planet owns no hotels (AirBnB), the largest retailer carries no stock (Alibaba), and the world’s most popular media network creates no content (Facebook). Clearly, we are living in a time of radical change. Why should internet infrastructure be any different?
-<p style="text-align: center;"><strong>The EHI Advantage</strong></p>
-Unlike 99.99% of Blockchain start-ups and Initial Coin Offerings (ICOs), the Titanium Core Team is not composed of relative newcomers to technology. In stark contrast, the Titanium Core Team has over two-hundred (200) years of combined experience. This is also not the first technology company that Titanium's Founder and CEO, Michael Stollaire, has ever formed. In 1999, Mr. Stollaire founded EHI, a technology consultancy specializing in enterprise infrastructure management.
-
-EHI and its consultants are known in the industry as top-tier, elite personnel, as shown by their impressive <a href="http://www.ehiinsm.com/index.php/clients/">Client List</a> and <a href="https://tbis.io/wp-content/uploads/2017/11/Testimonials-2017.pdf">Testimonials</a>.
-
-Most Blockchain start-ups and ICOs face a very serious problem after they develop a viable product and or service: finding companies and people that will actually purchase them and use them.
-
-Titanium will not have this problem. As EHI’s sister company, Titanium will simply inherit EHI’s clientele, and since EHI is considered a trusted source of excellent customer service and personnel, Titanium will also be held in high regard.
-
-What follows is a short excerpt of some of EHI’s customers, which Titanium will leverage immediately:
-<h6 style="text-align: center;"></h6>
-[/av_textblock]
-
-[av_hr class='invisible' height='40' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='150px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='#515a8f' icon='ue8bf' font='entypo-fontello' admin_preview_bg='']
-
-[av_partner columns='4' heading='' size='no scaling' border='av-border-deactivate' type='slider' animation='fade' navigation='dots' autoplay='true' interval='3']
-[av_partner_logo id='472' hover='' link='' linktitle='' link_target='']
-[av_partner_logo id='473' hover='' link='' linktitle='' link_target='']
-[av_partner_logo id='475' hover='' link='' linktitle='' link_target='']
-[av_partner_logo id='476' hover='' link='' linktitle='' link_target='']
-[av_partner_logo id='480' hover='' link='' linktitle='' link_target='']
-[av_partner_logo id='471' hover='' link='' linktitle='' link_target='']
-[av_partner_logo id='481' hover='' link='' linktitle='' link_target='']
-[av_partner_logo id='479' hover='' link='' linktitle='' link_target='']
-[av_partner_logo id='483' hover='' link='' linktitle='' link_target='']
-[av_partner_logo id='490' hover='' link='' linktitle='' link_target='']
-[av_partner_logo id='474' hover='' link='' linktitle='' link_target='']
-[av_partner_logo id='484' hover='' link='' linktitle='' link_target='']
-[av_partner_logo id='470' hover='' link='' linktitle='' link_target='']
-[av_partner_logo id='482' hover='' link='' linktitle='' link_target='']
-[av_partner_logo id='489' hover='' link='' linktitle='' link_target='']
-[av_partner_logo id='486' hover='' link='' linktitle='' link_target='']
-[av_partner_logo id='477' hover='' link='' linktitle='' link_target='']
-[av_partner_logo id='487' hover='' link='' linktitle='' link_target='']
-[av_partner_logo id='488' hover='' link='' linktitle='' link_target='']
-[av_partner_logo id='491' hover='' link='' linktitle='' link_target='']
-[av_partner_logo id='468' hover='' link='' linktitle='' link_target='']
-[av_partner_logo id='492' hover='' link='' linktitle='' link_target='']
-[av_partner_logo id='493' hover='' link='' linktitle='' link_target='']
-[av_partner_logo id='494' hover='' link='' linktitle='' link_target='']
-[/av_partner]
-
-[av_hr class='invisible' height='40' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='150px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='#515a8f' icon='ue8bf' font='entypo-fontello' admin_preview_bg='']
-
-[av_textblock size='' font_color='' color='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
-<strong><em>As you can see, the Titanium project had a huge advantage over other Blockchain start-ups and ICOs, before anyone on the Titanium Team ever lifted a finger.</em></strong>
-<h6 style="text-align: center;"></h6>
-[/av_textblock]
-
-[av_hr class='invisible' height='20' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='150px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='#515a8f' icon='ue8bf' font='entypo-fontello' admin_preview_bg='']
-
-[av_textblock size='12' font_color='' color='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
-<p style="text-align: center;">Titanium Blockchain Infrastructure Services Inc.
-15027 Dickens Street, Suite 4, North Hollywood, CA, 91403, USA
-info@tbis.io ~ TEL: 1.833.DIAL.TITANIUM</p>
-[/av_textblock]
-
-[av_hr class='invisible' height='20' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='150px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='#515a8f' icon='ue8bf' font='entypo-fontello' admin_preview_bg='']
-[/av_section]
-
 [av_section min_height='' min_height_px='500px' padding='huge' shadow='no-border-styling' bottom_border='border-extra-arrow-down' id='story' color='main_color' custom_bg='' src='' attachment='' attachment_size='' attach='scroll' position='top left' repeat='no-repeat' video='' video_ratio='16:9' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='']
 [av_heading tag='h3' padding='10' heading='In The Media' color='' style='blockquote modern-quote modern-centered' custom_font='' size='60' subheading_active='' subheading_size='15' custom_class='' admin_preview_bg='' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size=''][/av_heading]
 
@@ -231,7 +164,6 @@ The distributed TBIS system will monitor the health of the network and everythin
 [/av_section]
 
 [av_section min_height='' min_height_px='500px' padding='huge' shadow='no-border-styling' bottom_border='border-extra-arrow-down' bottom_border_diagonal_color='#333333' bottom_border_diagonal_direction='' bottom_border_style='' id='sale' color='main_color' custom_bg='' src='' attachment='' attachment_size='' attach='scroll' position='top left' repeat='no-repeat' video='' video_ratio='16:9' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='' av_element_hidden_in_editor='0']
-
 [av_heading tag='h3' padding='10' heading='Token Mechanics and Sale Details' color='' style='blockquote modern-quote modern-centered' custom_font='' size='60' subheading_active='' subheading_size='15' custom_class='' admin_preview_bg='' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size=''][/av_heading]
 
 [av_hr class='custom' height='50' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='150px' custom_border_color='#e0e0e0' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='#515a8f' icon='ue8bf' font='entypo-fontello' admin_preview_bg='']
@@ -278,8 +210,9 @@ of the $1,000,000 Initial Coin Offering (ICO) Soft Cap
 [av_hr class='invisible' height='80' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='150px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='#515a8f' icon='ue8bf' font='entypo-fontello' admin_preview_bg='']
 
 [av_button label='View Token Pre-Sale Details' link='manually,https://tbis.io/pre-sale-form/' link_target='' size='x-large' position='center' icon_select='no' icon='ue800' font='entypo-fontello' color='light' custom_bg='#444444' custom_font='#ffffff' admin_preview_bg='']
+[/av_section]
 
-[/av_section][av_section min_height='' min_height_px='500px' padding='huge' shadow='no-border-styling' bottom_border='border-extra-arrow-down' bottom_border_diagonal_color='#333333' bottom_border_diagonal_direction='' bottom_border_style='' id='service' color='main_color' custom_bg='#2b2f4b' src='' attachment='' attachment_size='' attach='scroll' position='top left' repeat='no-repeat' video='' video_ratio='16:9' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='' av_element_hidden_in_editor='0']
+[av_section min_height='' min_height_px='500px' padding='huge' shadow='no-border-styling' bottom_border='border-extra-arrow-down' bottom_border_diagonal_color='#333333' bottom_border_diagonal_direction='' bottom_border_style='' id='service' color='main_color' custom_bg='#2b2f4b' src='' attachment='' attachment_size='' attach='scroll' position='top left' repeat='no-repeat' video='' video_ratio='16:9' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='' av_element_hidden_in_editor='0']
 [av_heading tag='h3' padding='10' heading='Titanium Technology ' color='' style='blockquote modern-quote modern-centered' custom_font='' size='60' subheading_active='' subheading_size='15' custom_class='' admin_preview_bg='' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size=''][/av_heading]
 
 [av_hr class='invisible' height='30' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='150px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='#cf1b15' icon='ue806' font='entypo-fontello' admin_preview_bg='']
