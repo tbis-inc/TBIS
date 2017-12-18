@@ -4,7 +4,7 @@ post_title: Main
 author: Michael Stolliare
 post_excerpt: ""
 layout: page
-permalink: http://tbis.io/home/
+permalink: http://tbis.io/main/
 published: true
 post_date: 2015-05-12 12:57:57
 ---
