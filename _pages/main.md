@@ -4,7 +4,7 @@ post_title: Main
 author: Michael Stolliare
 post_excerpt: ""
 layout: page
-permalink: http://tbis.io/home/
+permalink: http://tbis.io/main/
 published: true
 post_date: 2015-05-12 12:57:57
 ---
@@ -139,18 +139,6 @@ The distributed TBIS system will monitor the health of the network and everythin
 [av_image src='https://tbis.io/wp-content/uploads/2015/05/network1.png' attachment='245' attachment_size='full' align='center' styling='' hover='' link='' target='' caption='' font_size='' appearance='' overlay_opacity='0.4' overlay_color='#000000' overlay_text_color='#ffffff' animation='pop-up' admin_preview_bg=''][/av_image]
 
 [/av_one_half][av_hr class='invisible' height='20' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='150px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='#515a8f' icon='ue8bf' font='entypo-fontello' admin_preview_bg='']
-[/av_section]
-
-[av_section min_height='custom' min_height_px='550' padding='default' shadow='no-shadow' bottom_border='no-border-styling' bottom_border_diagonal_color='#333333' bottom_border_diagonal_direction='' bottom_border_style='' id='#team' color='main_color' custom_bg='#3c4374' src='' attachment='' attachment_size='' attach='scroll' position='top left' repeat='no-repeat' video='' video_ratio='16:9' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='' av_element_hidden_in_editor='0']
-[av_hr class='invisible' height='40' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' font='entypo-fontello' admin_preview_bg='']
-
-[av_heading tag='h3' padding='10' heading='Our Team' color='custom-color-heading' style='blockquote modern-quote modern-centered' custom_font='#ffffff' size='60' subheading_active='' subheading_size='15' custom_class='' admin_preview_bg='' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size=''][/av_heading]
-
-[av_textblock size='30' font_color='custom' color='#ffffff' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
-[team_awesome]
-[/av_textblock]
-
-[av_hr class='invisible' height='80' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' font='entypo-fontello' admin_preview_bg='']
 [/av_section]
 
 [av_section min_height='custom' min_height_px='550' padding='default' shadow='no-shadow' bottom_border='no-border-styling' bottom_border_diagonal_color='#333333' bottom_border_diagonal_direction='' bottom_border_style='' id='' color='main_color' custom_bg='' src='' attachment='' attachment_size='' attach='scroll' position='top left' repeat='no-repeat' video='' video_ratio='16:9' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='' av_element_hidden_in_editor='0']
