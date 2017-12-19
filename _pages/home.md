@@ -28,7 +28,7 @@ post_date: 2015-05-12 12:57:57
 
 [av_hr class='invisible' height='50' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' font='entypo-fontello' admin_preview_bg='']
 
-[av_promobox button='yes' label='PURCHASE TITANIUM BARs' link='page,312' link_target='' color='theme-color' custom_bg='#444444' custom_font='#ffffff' size='large' icon_select='no' icon='ue800' font='entypo-fontello' box_color='' box_custom_font='#ffffff' box_custom_bg='#444444' box_custom_border='#333333' admin_preview_bg='']
+[av_promobox button='yes' label='PURCHASE BARs' link='page,312' link_target='' color='theme-color' custom_bg='#444444' custom_font='#ffffff' size='large' icon_select='no' icon='ue800' font='entypo-fontello' box_color='' box_custom_font='#ffffff' box_custom_bg='#444444' box_custom_border='#333333' admin_preview_bg='']
 <h2><strong>Our Pre-Sale has begun for The Titanium BAR Token. You can be a part of the revolution today!</strong></h2>
 <!--form sale link: #contact_form_pop -->
 [/av_promobox]
