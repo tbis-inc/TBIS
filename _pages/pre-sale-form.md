@@ -38,6 +38,18 @@ After the early bird periods, the price of BAR will remain at $1 = 1 BAR for the
 
 We are also offering a 5% referral bonus to those that refer other individuals to our pre-sale. Of course, larger referral bonuses can and will be negotiated for larger purchases. Please contact us to get more information.
 
+<strong>TO PURCHASE TITANIUM BARs:</strong>
+
+Please let us know the cryptocurrency or FIAT currency you will be purchasing Titanium BARs with and we will respond with exact details.
+
+Put this information into the Message field of the form below.
+
+FYI, we are running a promotion right now:
+
+Purchase a minimum of $100 USD in Titanium BARs and you will receive an official Titanium T-shirt.
+
+Purchase a minimum of $1,000 USD in Titanium BARs and you will receive an official Titanium Gear Box, including a T-shirt, baseball cap, coffee mug, coasters, calendar, post-it notes, ballpoint pen, notebook, tote bag, and a mouse pad.
+
 <strong>THE TITANIUM COMMUNITY:</strong>
 <div>Please feel free to join the Telegram and Discord Titanium groups, filled with hundreds of people who decided to purchase BARs, and discuss your common interests in blockchain, cryptocurrency and fintech:</div>
 <div></div>
