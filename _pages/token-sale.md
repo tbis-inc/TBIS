@@ -47,7 +47,8 @@ of the $35,000,000 Initial Coin Offering (ICO) Hard Cap
 [av_hr class='default' height='50' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide='']
 
 [av_progress bar_styling='av-flat-bar' bar_animation='av-animated-bar' bar_styling_secondary='' show_percentage='' bar_height='10' admin_preview_bg='']
-[av_progress_bar title='Funds Raised' progress='91' color='theme-color' icon_select='no' icon='43' font='entypo-fontello']
+[av_progress_bar title='Funds Raised' progress='4' color='theme-color' icon_select='no' icon='43' font='entypo-fontello']
+
 [/av_progress]
 
 [av_hr class='default' height='50' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide='']
