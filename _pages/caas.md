@@ -4,7 +4,7 @@ post_title: 'Titanium&#8217;s Company as a Service (CaaS) ~ Product Details'
 author: Michael Stolliare
 post_excerpt: ""
 layout: page
-permalink: http://tbis.io/caas/
+permalink: http://tbis.io/services/caas/
 published: true
 post_date: 2017-11-18 01:45:14
 ---
