@@ -4,7 +4,7 @@ post_title: 'Titanium&#8217;s Instant Ico Incubator (III)™ ~ Product Details'
 author: Michael Stolliare
 post_excerpt: ""
 layout: page
-permalink: http://tbis.io/iii/
+permalink: http://tbis.io/services/iii/
 published: true
 post_date: 2017-11-18 01:55:10
 ---
