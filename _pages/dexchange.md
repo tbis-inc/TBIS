@@ -4,7 +4,7 @@ post_title: 'Titanium&#8217;s DEXchange™ ~ Product Details'
 author: Michael Stolliare
 post_excerpt: ""
 layout: page
-permalink: http://tbis.io/dexchange/
+permalink: http://tbis.io/services/dexchange/
 published: true
 post_date: 2017-11-18 02:32:18
 ---
