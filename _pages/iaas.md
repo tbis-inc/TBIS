@@ -6,7 +6,7 @@ post_title: >
 author: Michael Stolliare
 post_excerpt: ""
 layout: page
-permalink: http://tbis.io/iaas/
+permalink: http://tbis.io/services/iaas/
 published: true
 post_date: 2017-11-18 00:27:31
 ---
