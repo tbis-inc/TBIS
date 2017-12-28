@@ -4,7 +4,7 @@ post_title: 'Titanium&#8217;s Desktop as a Service (DaaS) ~ Product Details'
 author: Michael Stolliare
 post_excerpt: ""
 layout: page
-permalink: http://tbis.io/daas/
+permalink: http://tbis.io/services/daas/
 published: true
 post_date: 2017-11-18 01:34:36
 ---
