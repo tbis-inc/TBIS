@@ -13,47 +13,33 @@ post_date: 2017-12-18 21:27:14
 [av_hr class='default' height='50' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide='']
 
 [av_textblock size='' font_color='' color='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
-Soon, the Titanium token (BAR) will be sold. As part of this sale, a fixed pool of BAR will generated. No further BAR will be created in the future. BAR will be a deflationary currency used within the Titanium Ecosystem, limited to only 35 million BARs, just like Bitcoin is limited to 21 million Bitcoins. If any BARs are not sold at the end of the ICO period, they will be BURNED. Once the sale concludes, a portion of BAR tokens will be allocated and given to the Titanium team as an incentive for the success of our platform, and a separate portion will be held as a reserve pool and expenditure fund. The Titanium Community will hold 60% of all BAR, the Titanium team will hold 20% of BAR (subject to a freeze period), 10% of BAR will be retained to be used for Titanium Community Bounties and 10% of BAR will be allocated for the reserve pool.
+As part of this sale, a fixed pool of BAR will generated. No further BAR will be created in the future. BAR will be a deflationary currency used within the Titanium Ecosystem, limited to only 35 million BARs, just like Bitcoin is limited to 21 million Bitcoins. If any BARs are not sold at the end of the ICO period, they will be BURNED. Once the sale concludes, a portion of BAR tokens will be allocated and given to the Titanium team as an incentive for the success of our platform, and a separate portion will be held as a reserve pool and expenditure fund. The Titanium Community will hold 60% of all BAR, the Titanium team will hold 20% of BAR (subject to a freeze period), 10% of BAR will be retained to be used for Titanium Community Bounties and 10% of BAR will be allocated for the reserve pool.
 [/av_textblock]
 
 [av_hr class='default' height='50' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide='']
 
-[av_promobox button='yes' label='Buy BARs' link='manually,https://tbis.io/ICO' link_target='' color='theme-color' custom_bg='#444444' custom_font='#ffffff' size='large' icon_select='no' icon='ue800' font='entypo-fontello' box_color='' box_custom_font='#ffffff' box_custom_bg='#444444' box_custom_border='#333333' admin_preview_bg='']
-<h2>Our ICO has officially begun!
-Take part in the Revolution today.</h2>
-[/av_promobox]
+[av_textblock size='26' font_color='' color='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
+<p style="text-align: center;"><span style="color: #ffc800;">Our Pre-Sale goals were shattered.  We raised more than double our goal in just 2 weeks.  It's not too late.  You can still receive a bonus for the first week of our ICO.  </span></p>
+[/av_textblock]
+
+[av_textblock size='36' font_color='' color='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
+<p style="text-align: center;"><span style="color: #ffc800;">Buy today and get a 15% bonus, good until January 5, 2018!</span></p>
+[/av_textblock]
+
+[av_hr class='default' height='50' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide='']
 
 [av_one_fourth first min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display=''][/av_one_fourth]
 
 [av_one_half min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
-[av_textblock size='' font_color='' color='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
-<p style="text-align: center;">January 1st 2018</p>
-[/av_textblock]
-[/av_one_half]
 
-[av_one_fourth min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display=''][/av_one_fourth]
+[av_promobox button='yes' label='Buy BARs' link='manually,https://tbis.io/ICO' link_target='' color='theme-color' custom_bg='#444444' custom_font='#ffffff' size='large' icon_select='no' icon='ue800' font='entypo-fontello' box_color='' box_custom_font='#ffffff' box_custom_bg='#444444' box_custom_border='#333333' admin_preview_bg='']
+<h3><strong>Our ICO has officially begun!
+Be a part of the Revolution today!</strong></h3>
+[/av_promobox]
 
-[av_hr class='default' height='50' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide='']
-
-[av_countdown date='01 / 01 / 2018' hour='12' minute='0' min='1' max='4' align='av-align-center' size='' style='av-trans-light-style' av-medium-font-size-title='48' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
+[/av_one_half][av_one_fourth min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display=''][/av_one_fourth]
 
 [av_hr class='default' height='50' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide='']
-
-[av_textblock size='' font_color='' color='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
-<h3 style="text-align: center;">Our Pre-Sale has started for our Titanium BAR Token.  You can be a part of the revolution today!</h3>
-[/av_textblock]
-
-[av_hr class='default' height='50' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide='']
-
-[av_animated_numbers number='$2,119,472' icon_select='no' icon='ue800' font='entypo-fontello' font_size='' font_size_description='24' link='' linktarget='no' color='' custom_color='#444444' admin_preview_bg='']
-of the $1,000,000 Initial Coin Offering (ICO) Soft Cap
-[/av_animated_numbers]
-
-[av_hr class='default' height='50' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide='']
-
-[av_progress bar_styling='av-flat-bar' bar_animation='av-animated-bar' bar_styling_secondary='' show_percentage='' bar_height='10' admin_preview_bg='']
-[av_progress_bar title='Funds Raised' progress='100' color='red' icon_select='no' icon='43' font='entypo-fontello']
-[/av_progress]
 
 [av_hr class='default' height='50' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide='']
 
@@ -66,10 +52,6 @@ of the $35,000,000 Initial Coin Offering (ICO) Hard Cap (NOTE: The Soft Cap Has 
 [av_progress bar_styling='av-flat-bar' bar_animation='av-animated-bar' bar_styling_secondary='' show_percentage='' bar_height='10' admin_preview_bg='']
 [av_progress_bar title='Funds Raised' progress='7' color='theme-color' icon_select='no' icon='43' font='entypo-fontello']
 [/av_progress]
-
-[av_hr class='default' height='50' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide='']
-
-[av_button label='View Token Pre-Sale Details' link='manually,https://tbis.io/pre-sale-form/' link_target='' size='x-large' position='center' icon_select='no' icon='ue800' font='entypo-fontello' color='light' custom_bg='#444444' custom_font='#ffffff' admin_preview_bg='']
 
 [av_hr class='default' height='50' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide='']
 
