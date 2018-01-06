@@ -9,7 +9,6 @@ published: true
 post_date: 2015-05-12 12:57:57
 ---
 [av_section min_height='custom' min_height_px='650' padding='default' shadow='no-shadow' bottom_border='no-border-styling' bottom_border_diagonal_color='#333333' bottom_border_diagonal_direction='' bottom_border_style='' id='' color='main_color' custom_bg='#294789' src='https://tbis.io/wp-content/uploads/2015/05/section-bg5b.jpg' attachment='362' attachment_size='full' attach='scroll' position='center center' repeat='stretch' video='https://www.youtube.com/watch?v=Q4-elN2l7ic' video_ratio='16:9' video_mobile_disabled='aviaTBvideo_mobile_disabled' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='' av_element_hidden_in_editor='0']
-
 [av_one_fourth first min_height='' vertical_alignment='av-align-top' space='' margin='0px' margin_sync='true' padding='0px' padding_sync='true' border='' border_color='' radius='0px' radius_sync='true' background_color='' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='av-hide-on-mobile']
 
 [/av_one_fourth][av_one_half min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
@@ -35,7 +34,10 @@ post_date: 2015-05-12 12:57:57
 
 [/av_one_half][av_one_fourth min_height='' vertical_alignment='av-align-top' space='' margin='0px' margin_sync='true' padding='0px' padding_sync='true' border='' border_color='' radius='0px' radius_sync='true' background_color='' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='av-hide-on-mobile']
 
-[/av_one_fourth][/av_section][av_section min_height='' min_height_px='500px' padding='huge' shadow='no-border-styling' bottom_border='border-extra-arrow-down' id='story' color='main_color' custom_bg='' src='' attachment='' attachment_size='' attach='scroll' position='top left' repeat='no-repeat' video='' video_ratio='16:9' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='']
+[/av_one_fourth]
+[/av_section]
+
+[av_section min_height='' min_height_px='500px' padding='huge' shadow='no-border-styling' bottom_border='border-extra-arrow-down' id='story' color='main_color' custom_bg='' src='' attachment='' attachment_size='' attach='scroll' position='top left' repeat='no-repeat' video='' video_ratio='16:9' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='']
 [av_textblock size='' font_color='' color='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
 <p class="p1">What if an entire IT enterprise could be virtualized, including data centers, firewalls, load-balancers, routers, switches, network appliances and servers?  Imagine being able to set up an enterprise level infrastructure for a global company from a tablet in your living room, without spending any time installing rack servers, routers, load balancers, or any other network component beyond what is needed to access the network.</p>
 <p class="p1">With TBIS’ proprietary Company as a Service™ (CaaS) and Infrastructure as a Service (IaaS), every device, from enterprise level on down, can be virtualized; routers, firewalls, and specialized equipment such as cryptocurrency miners, can exist in an entirely cloud-based environment based on the decentralized Ethereum blockchain.</p>
@@ -112,14 +114,14 @@ The Titanium Blockchain Infrastructure Services (TBIS) strives to create a robu
 
 [av_hr class='default' height='50' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide='']
 
-[av_animated_numbers number='2,270,722' icon_select='no' icon='ue800' font='entypo-fontello' font_size='' font_size_description='' link='' linktarget='no' color='' custom_color='#444444' admin_preview_bg='']
+[av_animated_numbers number='$2,270,722' icon_select='no' icon='ue800' font='entypo-fontello' font_size='' font_size_description='' link='' linktarget='no' color='' custom_color='#444444' admin_preview_bg='']
 of the $35,000,000 Initial Coin Offering (ICO) Hard Cap (NOTE: The Soft Cap Has Been Shattered!)
 [/av_animated_numbers]
 
 [av_hr class='default' height='50' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide='']
 
 [av_progress bar_styling='av-striped-bar' bar_animation='av-animated-bar' bar_styling_secondary='' show_percentage='' bar_height='10' admin_preview_bg='']
-[av_progress_bar title='Skill or Task' icon='43' progress='100' icon_select='no' color='theme-color']
+[av_progress_bar title='Funds Raised' progress='8' color='theme-color' icon_select='no' icon='43' font='entypo-fontello']
 
 [/av_progress]
 
@@ -215,7 +217,3 @@ The distributed TBIS system will monitor the health of the network and everythin
 
 [/av_one_fourth]
 [/av_section]
-
-[av_animated_numbers number='100' icon_select='no' icon='' font_size='' font_size_description='' link='' linktarget='no' color='' custom_color='#444444' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide='']
-Click here to add your own text
-[/av_animated_numbers]
