@@ -39,11 +39,6 @@ post_date: 2015-05-12 12:57:57
 
 [av_section min_height='' min_height_px='500px' padding='huge' shadow='no-border-styling' bottom_border='border-extra-arrow-down' id='story' color='main_color' custom_bg='' src='' attachment='' attachment_size='' attach='scroll' position='top left' repeat='no-repeat' video='' video_ratio='16:9' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='']
 
-[av_textblock size='' font_color='' color='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
-<p class="p1">What if an entire IT enterprise could be virtualized, including data centers, firewalls, load-balancers, routers, switches, network appliances and servers?  Imagine being able to set up an enterprise level infrastructure for a global company from a tablet in your living room, without spending any time installing rack servers, routers, load balancers, or any other network component beyond what is needed to access the network.</p>
-<p class="p1">With TBIS’ proprietary Company as a Service™ (CaaS) and Infrastructure as a Service (IaaS), every device, from enterprise level on down, can be virtualized; routers, firewalls, and specialized equipment such as cryptocurrency miners, can exist in an entirely cloud-based environment based on the decentralized Ethereum blockchain.</p>
-[/av_textblock]
-
 [av_hr class='default' height='50' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide='']
 
 [av_animated_numbers number='$2,270,722' icon_select='no' icon='ue800' font='entypo-fontello' font_size='' font_size_description='' link='' linktarget='no' color='' custom_color='#444444' admin_preview_bg='']
@@ -57,6 +52,11 @@ of the $35,000,000 Initial Coin Offering (ICO) Hard Cap (NOTE: The Soft Cap Has 
 [/av_progress]
 
 [av_hr class='invisible' height='100' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' font='entypo-fontello' admin_preview_bg='']
+
+[av_textblock size='' font_color='' color='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
+<p class="p1">What if an entire IT enterprise could be virtualized, including data centers, firewalls, load-balancers, routers, switches, network appliances and servers?  Imagine being able to set up an enterprise level infrastructure for a global company from a tablet in your living room, without spending any time installing rack servers, routers, load balancers, or any other network component beyond what is needed to access the network.</p>
+<p class="p1">With TBIS’ proprietary Company as a Service™ (CaaS) and Infrastructure as a Service (IaaS), every device, from enterprise level on down, can be virtualized; routers, firewalls, and specialized equipment such as cryptocurrency miners, can exist in an entirely cloud-based environment based on the decentralized Ethereum blockchain.</p>
+[/av_textblock]
 
 [av_heading tag='h3' padding='10' heading='In The Media' color='' style='blockquote modern-quote modern-centered' custom_font='' size='60' subheading_active='' subheading_size='15' custom_class='' admin_preview_bg='' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide='' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size=''][/av_heading]
 
