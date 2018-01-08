@@ -151,6 +151,8 @@ What follows is a short excerpt of some of EHI’s customers, which Titanium wil
 [av_one_half min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
 
 [av_textblock size='' font_color='' color='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
+Titanium ICO Pre-Sale Form
+
 [contact-form-7 id="863" title="Pre Sale Form 1"]
 [/av_textblock]
 
