@@ -31,13 +31,13 @@ As part of this sale, a fixed pool of BAR will generated. No further BAR will be
 [av_one_fourth first min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display=''][/av_one_fourth]
 
 [av_one_half min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
-[av_promobox button='yes' label='Buy BARs' link='manually,https://tbis.io/ICO' link_target='' color='theme-color' custom_bg='#444444' custom_font='#ffffff' size='large' icon_select='no' icon='ue800' font='entypo-fontello' box_color='' box_custom_font='#ffffff' box_custom_bg='#444444' box_custom_border='#333333' admin_preview_bg='']
+
+[av_promobox button='yes' label='Buy BARs' link='manually,https://ico.tbis.io/' link_target='' color='theme-color' custom_bg='#444444' custom_font='#ffffff' size='large' icon_select='no' icon='ue800' font='entypo-fontello' box_color='' box_custom_font='#ffffff' box_custom_bg='#444444' box_custom_border='#333333' admin_preview_bg='']
 <h3><strong>Our ICO has officially begun!
 Be a part of the Revolution today!</strong></h3>
 [/av_promobox]
-[/av_one_half]
 
-[av_one_fourth min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display=''][/av_one_fourth]
+[/av_one_half][av_one_fourth min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display=''][/av_one_fourth]
 
 [av_hr class='default' height='50' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide='']
 
