@@ -150,14 +150,9 @@ What follows is a short excerpt of some of EHI’s customers, which Titanium wil
 
 [av_one_half min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
 
-[av_contact email='michael.stollaire@tbis.io' title='Titanium ICO Pre-Sale Form' button='Submit' on_send='redirect' sent='You Have Successfully Joined The Titanium Revolution!' link='manually,https://tbis.io/thank-you/' subject='TITANIUM ICO PRE-SALE: Titanium BAR Token Purchase Instructions' autorespond='' captcha='active' form_align='' color='' admin_preview_bg='']
-[av_contact_field label='Name' type='text' check='is_empty' options='' multi_select='' av_contact_preselect='' width=''][/av_contact_field]
-[av_contact_field label='E-Mail' type='text' check='is_email' options='' multi_select='' av_contact_preselect='' width=''][/av_contact_field]
-[av_contact_field label='Phone Number' type='text' options='' check='' width='' multi_select='' av_contact_preselect=''][/av_contact_field]
-[av_contact_field label='Referral Code' type='text' options='' check='' width='' multi_select='' av_contact_preselect=''][/av_contact_field]
-[av_contact_field label='Subject' type='text' check='is_empty' options='' multi_select='' av_contact_preselect='' width=''][/av_contact_field]
-[av_contact_field label='Message' type='textarea' options='' check='is_empty' width=''][/av_contact_field]
-[/av_contact]
+[av_textblock size='' font_color='' color='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
+[contact-form-7 id="863" title="Pre Sale Form 1"]
+[/av_textblock]
 
 [/av_one_half][av_one_fourth min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display=''][/av_one_fourth]
 
