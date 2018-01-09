@@ -9,6 +9,7 @@ published: true
 post_date: 2015-05-12 12:57:57
 ---
 [av_section min_height='custom' min_height_px='650' padding='default' shadow='no-shadow' bottom_border='no-border-styling' bottom_border_diagonal_color='#333333' bottom_border_diagonal_direction='' bottom_border_style='' id='' color='main_color' custom_bg='#294789' src='https://tbis.io/wp-content/uploads/2015/05/section-bg5b.jpg' attachment='362' attachment_size='full' attach='scroll' position='center center' repeat='stretch' video='https://www.youtube.com/watch?v=Q4-elN2l7ic' video_ratio='16:9' video_mobile_disabled='aviaTBvideo_mobile_disabled' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='' av_element_hidden_in_editor='0']
+
 [av_one_fourth first min_height='' vertical_alignment='av-align-top' space='' margin='0px' margin_sync='true' padding='0px' padding_sync='true' border='' border_color='' radius='0px' radius_sync='true' background_color='' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='av-hide-on-mobile']
 
 [/av_one_fourth][av_one_half min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
@@ -27,18 +28,14 @@ post_date: 2015-05-12 12:57:57
 
 [av_hr class='invisible' height='50' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' font='entypo-fontello' admin_preview_bg='']
 
-[av_promobox button='yes' label='PURCHASE BARs' link='manually,https://tbis.io/ICO' link_target='' color='theme-color' custom_bg='#444444' custom_font='#ffffff' size='large' icon_select='no' icon='ue800' font='entypo-fontello' box_color='' box_custom_font='#ffffff' box_custom_bg='#444444' box_custom_border='#333333' admin_preview_bg='']
+[av_promobox button='yes' label='PURCHASE BARs' link='manually,https://ico.tbis.io/' link_target='' color='theme-color' custom_bg='#444444' custom_font='#ffffff' size='large' icon_select='no' icon='ue800' font='entypo-fontello' box_color='' box_custom_font='#ffffff' box_custom_bg='#444444' box_custom_border='#333333' admin_preview_bg='']
 <h2><strong>Our ICO has officially begun for The Titanium BAR Token. You can be a part of the revolution today!</strong></h2>
 <!--form sale link: #contact_form_pop -->
 [/av_promobox]
 
 [/av_one_half][av_one_fourth min_height='' vertical_alignment='av-align-top' space='' margin='0px' margin_sync='true' padding='0px' padding_sync='true' border='' border_color='' radius='0px' radius_sync='true' background_color='' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='av-hide-on-mobile']
 
-[/av_one_fourth]
-[/av_section]
-
-[av_section min_height='' min_height_px='500px' padding='huge' shadow='no-border-styling' bottom_border='border-extra-arrow-down' id='story' color='main_color' custom_bg='' src='' attachment='' attachment_size='' attach='scroll' position='top left' repeat='no-repeat' video='' video_ratio='16:9' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='']
-
+[/av_one_fourth][/av_section][av_section min_height='' min_height_px='500px' padding='huge' shadow='no-border-styling' bottom_border='border-extra-arrow-down' id='story' color='main_color' custom_bg='' src='' attachment='' attachment_size='' attach='scroll' position='top left' repeat='no-repeat' video='' video_ratio='16:9' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='']
 [av_hr class='default' height='50' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide='']
 
 [av_animated_numbers number='$3,089,559' icon_select='no' icon='ue800' font='entypo-fontello' font_size='' font_size_description='' link='' linktarget='no' color='' custom_color='#444444' admin_preview_bg='']
@@ -123,8 +120,9 @@ The Titanium Blockchain Infrastructure Services (TBIS) strives to create a robu
 [/av_textblock]
 
 [/av_one_fifth][av_hr class='invisible' height='20' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='150px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='#515a8f' icon='ue8bf' font='entypo-fontello' admin_preview_bg='']
+[/av_section]
 
-[/av_section][av_section min_height='custom' min_height_px='600px' padding='huge' shadow='no-border-styling' bottom_border='border-extra-arrow-down' bottom_border_diagonal_color='#333333' bottom_border_diagonal_direction='' bottom_border_style='' id='story' color='main_color' custom_bg='' src='https://tbis.io/wp-content/uploads/2015/05/section-bg4.jpg' attachment='282' attachment_size='full' attach='scroll' position='center center' repeat='stretch' video='' video_ratio='16:9' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='' av_element_hidden_in_editor='0']
+[av_section min_height='custom' min_height_px='600px' padding='huge' shadow='no-border-styling' bottom_border='border-extra-arrow-down' bottom_border_diagonal_color='#333333' bottom_border_diagonal_direction='' bottom_border_style='' id='story' color='main_color' custom_bg='' src='https://tbis.io/wp-content/uploads/2015/05/section-bg4.jpg' attachment='282' attachment_size='full' attach='scroll' position='center center' repeat='stretch' video='' video_ratio='16:9' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='' av_element_hidden_in_editor='0']
 [av_hr class='invisible' height='20' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='150px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='#515a8f' icon='ue8bf' font='entypo-fontello' admin_preview_bg='']
 
 [av_video src='https://www.youtube.com/watch?v=Baca1YT-xR4' format='16-9' width='16' height='9']
