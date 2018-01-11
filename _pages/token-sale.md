@@ -22,7 +22,7 @@ As part of this sale, a fixed pool of BAR will generated. No further BAR will be
 <p style="text-align: center;"><span style="color: #ffc800;">Our Pre-Sale goals were shattered.  We raised more than double our goal in just 2 weeks.  It's not too late.  You can still receive a bonus for the first week of our ICO.  </span></p>
 [/av_textblock]
 
-[av_countdown date='01 / 11 / 2018' hour='23' minute='0' min='1' max='4' align='av-align-center' size='40' style='av-default-style' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
+[av_countdown date='01 / 11 / 2018' hour='23' minute='11' min='1' max='4' align='av-align-center' size='60' style='av-default-style' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
 
 [av_textblock size='36' font_color='' color='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
 <p style="text-align: center;"><span style="color: #ffc800;">Buy today and get a 15% bonus, good until January 11, 2018 at 11:00pm PST!</span></p>
