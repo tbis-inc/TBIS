@@ -22,8 +22,10 @@ As part of this sale, a fixed pool of BAR will generated. No further BAR will be
 <p style="text-align: center;"><span style="color: #ffc800;">Our Pre-Sale goals were shattered.  We raised more than double our goal in just 2 weeks.  It's not too late.  You can still receive a bonus for the first week of our ICO.  </span></p>
 [/av_textblock]
 
+[av_countdown date='01 / 11 / 2018' hour='23' minute='0' min='1' max='4' align='av-align-center' size='40' style='av-default-style' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
+
 [av_textblock size='36' font_color='' color='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
-<p style="text-align: center;"><span style="color: #ffc800;">Buy today and get a 15% bonus, good until January 10, 2018!</span></p>
+<p style="text-align: center;"><span style="color: #ffc800;">Buy today and get a 15% bonus, good until January 11, 2018 at 11:00pm PST!</span></p>
 [/av_textblock]
 
 [av_hr class='default' height='50' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide='']
@@ -51,7 +53,6 @@ of the $35,000,000 Initial Coin Offering (ICO) Hard Cap (NOTE: The Soft Cap Has 
 
 [av_progress bar_styling='av-flat-bar' bar_animation='av-animated-bar' bar_styling_secondary='' show_percentage='' bar_height='10' admin_preview_bg='']
 [av_progress_bar title='Funds Raised' progress='14' color='theme-color' icon_select='no' icon='43' font='entypo-fontello']
-
 [/av_progress]
 
 [av_hr class='default' height='50' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide='']
