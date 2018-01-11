@@ -10,7 +10,7 @@ post_date: 2017-11-29 01:17:41
 ---
 <a href="https://www.forbes.com/sites/jiawertz/2017/12/02/icos-new-startup-lifeblood/#1fbcb2bb525b"><img class="aligncenter size-extra_large wp-image-698" src="https://tbis.io/wp-content/uploads/2017/11/forbes-01-1497x1500.png" alt="" width="1497" height="1500" /></a>
 
-<a href="https://www.inc.com/bill-carmody/infrastructure-on-demand-is-giving-small-businesses-an-edge.html"><img class="aligncenter size-extra_large wp-image-699" src="https://tbis.io/wp-content/uploads/2017/11/incarticle-01-1497x1500.png" alt="" width="1497" height="1500" /></a><a href="https://www.huffingtonpost.com/entry/the-internet-is-about-to-be-revolutionized-with-titanium_us_5a2e5533e4b04e0bc8f3b66b"><img class="aligncenter size-extra_large wp-image-700" src="https://tbis.io/wp-content/uploads/2017/11/HuffpostArticle-01-1497x1500.png" alt="" width="1497" height="1500" /></a>
+<a href="https://www.inc.com/bill-carmody/infrastructure-on-demand-is-giving-small-businesses-an-edge.html"><img class="aligncenter size-extra_large wp-image-699" src="https://tbis.io/wp-content/uploads/2017/11/incarticle-01-1497x1500.png" alt="" width="1497" height="1500" /></a><a href="https://www.huffingtonpost.com/entry/titanium-aims-to-revolutionise-the-internet_us_5a5393e9e4b0f9b24bf31946"><img class="aligncenter wp-image-700 size-extra_large" src="https://tbis.io/wp-content/uploads/2017/11/HuffpostArticle-01-1497x1500.png" alt="" width="1497" height="1500" /></a>
 
 <a href="http://www.prweb.com/releases/2017/11/prweb14954608.htm"><img class="aligncenter size-full wp-image-632" src="https://tbis.io/wp-content/uploads/2017/11/BBB-Press-Release.png" alt="" width="1295" height="859" /></a>
 
