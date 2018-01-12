@@ -41,7 +41,7 @@ post_date: 2015-05-12 12:57:57
 
 [av_hr class='default' height='50' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide='']
 
-[av_animated_numbers number='$5,485,579' icon_select='no' icon='ue800' font='entypo-fontello' font_size='' font_size_description='' link='' linktarget='no' color='' custom_color='#444444' admin_preview_bg='']
+[av_animated_numbers number='$8,113,690' icon_select='no' icon='ue800' font='entypo-fontello' font_size='' font_size_description='' link='' linktarget='no' color='' custom_color='#444444' admin_preview_bg='']
 of the $35,000,000 Initial Coin Offering (ICO) Hard Cap (NOTE: The Soft Cap Has Been Shattered!)
 [/av_animated_numbers]
 
@@ -49,7 +49,6 @@ of the $35,000,000 Initial Coin Offering (ICO) Hard Cap (NOTE: The Soft Cap Has 
 
 [av_progress bar_styling='av-striped-bar' bar_animation='av-animated-bar' bar_styling_secondary='' show_percentage='' bar_height='10' admin_preview_bg='']
 [av_progress_bar title='Funds Raised' progress='20' color='theme-color' icon_select='no' icon='43' font='entypo-fontello']
-
 [/av_progress]
 
 [av_hr class='invisible' height='100' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' font='entypo-fontello' admin_preview_bg='']
