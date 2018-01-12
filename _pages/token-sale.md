@@ -63,67 +63,69 @@ Limited to only 35 million BAR during token sale with a 60M total supply (NOTE: 
 [av_hr class='default' height='50' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide='']
 
 [av_one_fourth first min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
+
 [av_textblock size='' font_color='' color='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
-<a href="https://tbis.io/iaas"><img class="aligncenter wp-image-250 size-square" src="https://tbis.io/wp-content/uploads/2015/05/IAAS-icon-180x180.png" alt="" width="180" height="180" /></a>
+<img class="aligncenter wp-image-250 size-square" src="https://tbis.io/wp-content/uploads/2015/05/IAAS-icon-180x180.png" alt="" width="180" height="180" />
 <p style="text-align: center;"><strong>Infrastructure as a Service (IaaS)</strong></p>
 <p style="text-align: center;">With our proprietary IaaS structure, Titanium can create any piece of networked hardware on the blockchain through distributed computing.</p>
 [/av_textblock]
-[/av_one_fourth]
 
-[av_one_fourth min_height='' vertical_alignment='av-align-top' space='' margin='0px' margin_sync='true' padding='0px' padding_sync='true' border='' border_color='' radius='0px' radius_sync='true' background_color='' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
+[/av_one_fourth][av_one_fourth min_height='' vertical_alignment='av-align-top' space='' margin='0px' margin_sync='true' padding='0px' padding_sync='true' border='' border_color='' radius='0px' radius_sync='true' background_color='' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
+
 [av_textblock size='' font_color='' color='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
-<a href="https://tbis.io/daas"><img class="aligncenter wp-image-251 size-square" src="https://tbis.io/wp-content/uploads/2015/05/DaaS-icon-180x180.png" alt="" width="180" height="180" /></a>
+<img class="aligncenter wp-image-251 size-square" src="https://tbis.io/wp-content/uploads/2015/05/DaaS-icon-180x180.png" alt="" width="180" height="180" />
 <p style="text-align: center;"><strong>Desktop as a Service™ (DaaS)</strong></p>
 <p style="text-align: center;">Gone are the days when you need to carry a computer around to access premier computing power. With Titanium’s Desktop as a Service, you can have your full-power computing environment anywhere you go.</p>
 [/av_textblock]
-[/av_one_fourth]
 
-[av_one_fourth min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
+[/av_one_fourth][av_one_fourth min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
+
 [av_textblock size='' font_color='' color='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
-<a href="https://tbis.io/caas"><img class="aligncenter wp-image-252 size-square" src="https://tbis.io/wp-content/uploads/2015/05/CaaS-icon-180x180.png" alt="" width="180" height="180" /></a>
+<img class="aligncenter wp-image-252 size-square" src="https://tbis.io/wp-content/uploads/2015/05/CaaS-icon-180x180.png" alt="" width="180" height="180" />
 <p style="text-align: center;"><strong>Company as a Service™ (CaaS)</strong></p>
 <p style="text-align: center;">The Titanium Company as a Service package, you will be able to create a company and complete all legal steps with a click of a button.</p>
 [/av_textblock]
-[/av_one_fourth]
 
-[av_one_fourth min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
+[/av_one_fourth][av_one_fourth min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
+
 [av_textblock size='' font_color='' color='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
-<a href="https://tbis.io/iii"><img class="aligncenter wp-image-361 size-square" src="https://tbis.io/wp-content/uploads/2015/05/ico-icon-180x180.png" alt="" width="180" height="180" /></a>
+<img class="aligncenter wp-image-361 size-square" src="https://tbis.io/wp-content/uploads/2015/05/ico-icon-180x180.png" alt="" width="180" height="180" />
 <p style="text-align: center;"><strong>Instant ICO Incubator (III)™</strong></p>
 <p style="text-align: center;">Titanium Instant ICO Incubator™ will take the guesswork out your token launch through providing end-to-end launch services.</p>
 [/av_textblock]
-[/av_one_fourth]
 
-[av_hr class='default' height='50' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide='']
+[/av_one_fourth][av_hr class='default' height='50' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide='']
 
 [av_one_fourth first min_height='' vertical_alignment='av-align-top' space='' margin='0px' margin_sync='true' padding='0px' padding_sync='true' border='' border_color='' radius='0px' radius_sync='true' background_color='' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
+
 [av_textblock size='' font_color='' color='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
-<a href="https://tbis.io/byoc"><img class="aligncenter wp-image-253 size-square" src="https://tbis.io/wp-content/uploads/2015/05/byoc-icon-180x180.png" alt="" width="180" height="180" /></a>
+<img class="aligncenter wp-image-253 size-square" src="https://tbis.io/wp-content/uploads/2015/05/byoc-icon-180x180.png" alt="" width="180" height="180" />
 <p style="text-align: center;"><strong>Bring Your Own Cloud™ (BYOC)</strong></p>
 <p style="text-align: center;">The Titanium Bring Your Own Cloud will allow you to create a truly private computing environment by leveraging a cryptographically secure device-based context to provide total privacy. .</p>
 [/av_textblock]
-[/av_one_fourth]
 
-[av_one_fourth min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
+[/av_one_fourth][av_one_fourth min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
+
 [av_textblock size='' font_color='' color='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
-<a href="https://tbis.io/dexchange"><img class="aligncenter wp-image-256 size-square" src="https://tbis.io/wp-content/uploads/2015/05/currency-icon-180x180.png" alt="" width="180" height="180" /></a>
+<img class="aligncenter wp-image-256 size-square" src="https://tbis.io/wp-content/uploads/2015/05/currency-icon-180x180.png" alt="" width="180" height="180" />
 <p style="text-align: center;"><strong>DEXchange™</strong></p>
 <p style="text-align: center;">Trade cryptocurrencies on an entirely decentralized exchange (DEX). The top two-hundred (200) cryptocurrencies will be listed initially, along with the top twenty (20) fiat currency pairs globally. Also, DEXchange will guarantee the lowest transaction fees, period.</p>
 [/av_textblock]
-[/av_one_fourth]
 
-[av_one_fourth min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
+[/av_one_fourth][av_one_fourth min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
+
 [av_textblock size='' font_color='' color='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
 <img class="aligncenter wp-image-731 size-square" src="https://tbis.io/wp-content/uploads/2017/12/employment-icon-180x180.png" alt="" width="180" height="180" />
 <p style="text-align: center;"><strong>EmployeeDirect</strong></p>
 <p style="text-align: center;">Cut the costs associated with expensive recruiting companies. We have pre-screened the best resources on the planet, so you are ensured to find the finest employees, consultants and contractors for your business in mere minutes.</p>
 [/av_textblock]
-[/av_one_fourth]
 
-[av_one_fourth min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
+[/av_one_fourth][av_one_fourth min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
+
 [av_textblock size='' font_color='' color='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
-<a href="https://tbis.io/escrow"><img class="aligncenter wp-image-255 size-square" src="https://tbis.io/wp-content/uploads/2015/05/contract-icon-180x180.png" alt="" width="180" height="180" /></a>
+<img class="aligncenter wp-image-255 size-square" src="https://tbis.io/wp-content/uploads/2015/05/contract-icon-180x180.png" alt="" width="180" height="180" />
 <p style="text-align: center;"><strong>CryptoEscrow™</strong></p>
 <p style="text-align: center;">Leveraging the power of Ethereum smart contracts to facilitate Peer-to-Peer sales on the blockchain using any of the top-100 cryptocurrencies using Titanium Atomic Swaps.</p>
 [/av_textblock]
+
 [/av_one_fourth]
