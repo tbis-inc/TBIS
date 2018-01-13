@@ -24,7 +24,7 @@ As part of this sale, a fixed pool of BAR will generated. No further BAR will be
 
 [av_countdown date='01 / 20 / 2018' hour='21' minute='0' min='1' max='4' align='av-align-center' size='60' style='av-default-style' av-medium-font-size-title='' av-small-font-size-title='' av-mini-font-size-title='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
 
-[av_textblock size='34' font_color='' color='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
+[av_textblock size='30' font_color='' color='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
 <p style="text-align: center;"><span style="color: #ffc800;">Buy today and get a 10% bonus, good until January 20, 2018 at 8:00pm PST!</span></p>
 [/av_textblock]
 
