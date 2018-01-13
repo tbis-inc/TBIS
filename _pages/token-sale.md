@@ -45,7 +45,7 @@ Be a part of the Revolution today!</strong></h3>
 
 [av_hr class='default' height='50' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide='']
 
-[av_animated_numbers number='8,113,690' icon_select='no' icon='ue800' font='entypo-fontello' font_size='54' font_size_description='24' link='' linktarget='no' color='' custom_color='#444444' admin_preview_bg='']
+[av_animated_numbers number='9,775,175' icon_select='no' icon='ue800' font='entypo-fontello' font_size='54' font_size_description='24' link='' linktarget='no' color='' custom_color='#444444' admin_preview_bg='']
 Limited to only 35 million BAR during token sale with a 60M total supply (NOTE: The Soft Cap Has Been Shattered!)
 [/av_animated_numbers]
 
@@ -96,14 +96,14 @@ Limited to only 35 million BAR during token sale with a 60M total supply (NOTE: 
 [av_hr class='default' height='50' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide='']
 
 [av_one_fourth first min_height='' vertical_alignment='av-align-top' space='' margin='0px' margin_sync='true' padding='0px' padding_sync='true' border='' border_color='' radius='0px' radius_sync='true' background_color='' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
-
 [av_textblock size='' font_color='' color='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
 <img class="aligncenter wp-image-253 size-square" src="https://tbis.io/wp-content/uploads/2015/05/byoc-icon-180x180.png" alt="" width="180" height="180" />
 <p style="text-align: center;"><strong>Bring Your Own Cloud™ (BYOC)</strong></p>
 <p style="text-align: center;">The Titanium Bring Your Own Cloud will allow you to create a truly private computing environment by leveraging a cryptographically secure device-based context to provide total privacy.</p>
 [/av_textblock]
+[/av_one_fourth]
 
-[/av_one_fourth][av_one_fourth min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
+[av_one_fourth min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='' mobile_breaking='' mobile_display='']
 [av_textblock size='' font_color='' color='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
 <img class="aligncenter wp-image-256 size-square" src="https://tbis.io/wp-content/uploads/2015/05/currency-icon-180x180.png" alt="" width="180" height="180" />
 <p style="text-align: center;"><strong>DEXchange™</strong></p>
