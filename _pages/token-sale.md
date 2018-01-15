@@ -45,7 +45,7 @@ Be a part of the Revolution today!</strong></h3>
 
 [av_hr class='default' height='50' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide='']
 
-[av_animated_numbers number='14,339,543' icon_select='no' icon='ue800' font='entypo-fontello' font_size='54' font_size_description='24' link='' linktarget='no' color='' custom_color='#444444' admin_preview_bg='']
+[av_animated_numbers number='13,583,279' icon_select='no' icon='ue800' font='entypo-fontello' font_size='54' font_size_description='24' link='' linktarget='no' color='' custom_color='#444444' admin_preview_bg='']
 Limited to only 35 million BAR during token sale with a 60M total supply (NOTE: The Soft Cap Has Been Shattered!)
 [/av_animated_numbers]
 
@@ -53,7 +53,6 @@ Limited to only 35 million BAR during token sale with a 60M total supply (NOTE: 
 
 [av_progress bar_styling='av-flat-bar' bar_animation='av-animated-bar' bar_styling_secondary='' show_percentage='' bar_height='10' admin_preview_bg='']
 [av_progress_bar title='Bars Sold' progress='38' color='theme-color' icon_select='no' icon='43' font='entypo-fontello']
-
 [/av_progress]
 
 [av_hr class='default' height='50' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' av-desktop-hide='' av-medium-hide='' av-small-hide='' av-mini-hide='']
