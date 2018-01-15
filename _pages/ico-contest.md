@@ -26,14 +26,16 @@ post_date: 2018-01-13 14:30:38
 
 [av_textblock size='36' font_color='' color='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
 <p style="text-align: center;"><span style="color: #ffffff;">1,000 BAR - 500 BAR - 250 BAR</span></p>
+[/av_textblock]
+
+[av_textblock size='20' font_color='' color='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
 <p style="text-align: center;"><span style="color: #ffffff;">(1BAR = Approximately $1 USD)</span></p>
 [/av_textblock]
 
 [av_hr class='invisible' height='15' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' font='entypo-fontello' admin_preview_bg='']
 
 [av_textblock size='36' font_color='' color='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
-<p style="text-align: center;"><span style="color: #f6c942;">Want to enter? Complete
-these three steps:</span></p>
+<p style="text-align: center;"><span style="color: #f6c942;">Want to enter? Complete these three steps:</span></p>
 [/av_textblock]
 
 [av_textblock size='24' font_color='' color='' av-medium-font-size='' av-small-font-size='' av-mini-font-size='' admin_preview_bg='']
