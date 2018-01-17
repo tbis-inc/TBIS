@@ -1,10 +1,10 @@
 ---
 ID: 936
-post_title: Applications Career
+post_title: Career Applications
 author: Larry Sawyer
 post_excerpt: ""
 layout: page
-permalink: http://tbis.io/applications-career/
+permalink: http://tbis.io/career-applications/
 published: true
 post_date: 2018-01-17 21:48:21
 ---
