@@ -6,7 +6,8 @@ post_title: >
 author: Chi Fang
 post_excerpt: ""
 layout: post
-permalink: http://tbis.io/phore-partnership/
+permalink: >
+  http://tbis.io/titanium-phore-partnership/
 published: true
 post_date: 2018-01-19 21:46:21
 ---
