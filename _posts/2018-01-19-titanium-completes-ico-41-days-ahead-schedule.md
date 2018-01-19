@@ -23,7 +23,7 @@ We will continue to develop our recently announced partnerships with ETN, HTMLCo
 
 We will also be doing a Q&amp;A in Telegram over the next week. Please join our <a href="https://t.me/TbisOfficial">Telegram group</a> to keep up to date with the latest developments.
 
-<strong>FAQ</strong>
+<h2><strong>FAQ</strong></h2>
 
 <strong>Q: I still haven’t received my BARs, when will I get them?</strong>
 Right now, our team is processing thousands of transactions. If you have sent us your payment then please, just wait! We are working hard to send out all of the BARs as soon as possible.
