@@ -21,7 +21,7 @@ We will be rapidly moving forward to add more staff, setup new headquarters, and
 
 We will continue to develop our recently announced partnerships with ETN, HTMLCoin and Bounty0X, as well as seeking new partnerships, with the goal of helping unite the blockchain community.
 
-We will also be doing a Q&amp;A in Telegram over the next week. Please join our Telegram group to keep up to date with the latest developments.
+We will also be doing a Q&amp;A in Telegram over the next week. Please join our <a href="https://t.me/TbisOfficial">Telegram group</a> to keep up to date with the latest developments.
 
 <strong>FAQ</strong>
 
